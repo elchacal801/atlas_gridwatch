@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project Specific - Data
+# We ignore raw and processed data to avoid committing large datasets or potential PII/licensed data accidentaly.
+# Only commit small sample data or explicit output artifacts if necessary.
+data/raw/*
+!data/raw/seed_infrastructure.json
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Project Specific - Outputs
+# Outputs can be large, but we may want to track some final reports.
+# For now, ignore generated outputs.
+data/outputs/*
+!data/outputs/.gitkeep
+
+# IDEs
+.vscode/
+.idea/

@@ -1,0 +1,59 @@
+[
+    {
+        "type": "datacenter",
+        "name": "Equinix DA1",
+        "owner": "Equinix",
+        "location": {
+            "lat": 32.79,
+            "lon": -96.8,
+            "country": "USA",
+            "city": "Dallas",
+            "region": "North America"
+        },
+        "status": "active",
+        "source": "https://www.peeringdb.com/fac/6",
+        "notes": "Major interconnection hub in Texas."
+    },
+    {
+        "type": "datacenter",
+        "name": "Telehouse London Docklands North",
+        "owner": "KDDI",
+        "location": {
+            "lat": 51.5,
+            "lon": -0.01,
+            "country": "UK",
+            "city": "London",
+            "region": "Europe"
+        },
+        "status": "active",
+        "source": "https://www.telehouse.net/data-centres/london/north",
+        "notes": "One of the most connected points in Europe."
+    },
+    {
+        "type": "cable",
+        "name": "Marea",
+        "owners": [
+            "Microsoft",
+            "Meta",
+            "Telxius"
+        ],
+        "landing_points": [
+            {
+                "lat": 36.8,
+                "lon": -75.9,
+                "country": "USA",
+                "region": "North America"
+            },
+            {
+                "lat": 43.3,
+                "lon": -2.9,
+                "country": "Spain",
+                "region": "Europe"
+            }
+        ],
+        "status": "active",
+        "rfs_date": "2018-05-01",
+        "source": "https://www.submarinenetworks.com/en/systems/transatlantic/marea",
+        "notes": "High capacity distinct route."
+    }
+]

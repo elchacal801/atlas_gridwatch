@@ -1,0 +1,134 @@
+[
+    {
+        "id": "xai_colossus_memphis",
+        "name": "xAI Colossus Supercluster",
+        "owner_id": "xAI",
+        "location": {
+            "city": "Memphis",
+            "country": "USA",
+            "region": "North America",
+            "latitude": 35.1495,
+            "longitude": -90.0490
+        },
+        "status": "active",
+        "properties": {
+            "intent": "AI Training (100k H100s)",
+            "capacity_mw": 150
+        }
+    },
+    {
+        "id": "xai_colossus_2_southaven",
+        "name": "xAI Colossus 2 (Planned)",
+        "owner_id": "xAI",
+        "location": {
+            "city": "Southaven",
+            "country": "USA",
+            "region": "North America",
+            "latitude": 34.9919,
+            "longitude": -89.9922
+        },
+        "status": "planned",
+        "properties": {
+            "intent": "AI Training Expansion",
+            "notes": "Former warehouse conversion"
+        }
+    },
+    {
+        "id": "microsoft_fairwater_wi",
+        "name": "Microsoft Project Fairwater",
+        "owner_id": "Microsoft",
+        "location": {
+            "city": "Mount Pleasant",
+            "country": "USA",
+            "region": "North America",
+            "latitude": 42.7208,
+            "longitude": -87.9525
+        },
+        "status": "planned",
+        "properties": {
+            "intent": "Hyperscale AI Cloud",
+            "notes": "Expected 2026"
+        }
+    },
+    {
+        "id": "aws_susquehanna_nuclear",
+        "name": "AWS Susquehanna Campus",
+        "owner_id": "Amazon",
+        "location": {
+            "city": "Salem Township",
+            "country": "USA",
+            "region": "North America",
+            "latitude": 41.0913,
+            "longitude": -76.1472
+        },
+        "status": "planned",
+        "properties": {
+            "intent": "Nuclear-Powered Cloud",
+            "notes": "Adjacent to nuclear plant"
+        }
+    },
+    {
+        "id": "aws_sunbury_oh",
+        "name": "AWS Sunbury Campus",
+        "owner_id": "Amazon",
+        "location": {
+            "city": "Sunbury",
+            "country": "USA",
+            "region": "North America",
+            "latitude": 40.2442,
+            "longitude": -82.8590
+        },
+        "status": "planned",
+        "properties": {
+            "intent": "Midwest Cloud Expansion"
+        }
+    },
+    {
+        "id": "google_fort_wayne",
+        "name": "Google Fort Wayne Campus",
+        "owner_id": "Google",
+        "location": {
+            "city": "Fort Wayne",
+            "country": "USA",
+            "region": "North America",
+            "latitude": 41.0793,
+            "longitude": -85.1394
+        },
+        "status": "planned",
+        "properties": {
+            "intent": "AI & Cloud Services"
+        }
+    },
+    {
+        "id": "google_lincoln_ne",
+        "name": "Google Lincoln Campus",
+        "owner_id": "Google",
+        "location": {
+            "city": "Lincoln",
+            "country": "USA",
+            "region": "North America",
+            "latitude": 40.8136,
+            "longitude": -96.7026
+        },
+        "status": "under_construction",
+        "properties": {
+            "intent": "Central US Expansion"
+        }
+    },
+    {
+        "id": "microsoft_india_hyderabad",
+        "name": "Microsoft Hyderabad Expansion",
+        "owner_id": "Microsoft",
+        "location": {
+            "city": "Hyderabad",
+            "country": "India",
+            "region": "Asia",
+            "latitude": 17.3850,
+            "longitude": 78.4867
+        },
+        "status": "planned",
+        "properties": {
+            "intent": "Azure India Growth"
+        }
+    }
+]
