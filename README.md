@@ -3,6 +3,7 @@
 
 > **STATUS**: Pre-Alpha / Active Development
 > **MISSION**: To map, analyze, and visualize the global physical backbone of AI, cloud compute, and digital power for strategic intelligence purposes.
+> **ACCESS**: [**Live Intelligence Portal**](https://elchacal801.github.io/atlas_gridwatch/)
 
 ## Mission & Purpose
 Atlas Gridwatch is a continuously maintained, intelligence-grade platform. It goes beyond static mapping to generate **strategic intelligence** regarding:
