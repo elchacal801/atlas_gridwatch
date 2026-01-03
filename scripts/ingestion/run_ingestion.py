@@ -69,7 +69,16 @@ def main(
         console.log("[cyan]Ingesting from OSINT RSS Feeds...[/cyan]")
         rss = RSSIngestor()
         items = rss.fetch()
-        console.log(f"Found {len(items)} news items. Engaging AI Analyst for extraction...")
+        console.log(f"Found {len(items)} news items.")
+        
+        # Save raw news stream for Analysis phase
+        news_file = Path("data/processed/news_stream.json")
+        news_file.parent.mkdir(parents=True, exist_ok=True)
+        with open(news_file, "w") as f:
+            json.dump(items, f, indent=2)
+        console.log(f"Saved news stream to {news_file}")
+
+        console.log("Engaging AI Analyst for entity extraction...")
         
         llm = LLMAnalyzer()
         
@@ -104,13 +113,7 @@ def main(
                         location=GeoLocation(
                             city=data.get("city"), 
                             country=data.get("country"),
-                        location=GeoLocation(
-                            city=data.get("city"), 
-                            country=data.get("country"),
-                            region="Global", # Fix: Must be valid Enum
-                            latitude=data.get("latitude", 0.0),
-                            longitude=data.get("longitude", 0.0)
-                        ),
+                            region="Global",
                             latitude=data.get("latitude", 0.0),
                             longitude=data.get("longitude", 0.0)
                         ),

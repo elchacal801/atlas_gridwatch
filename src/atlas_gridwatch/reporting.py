@@ -24,7 +24,8 @@ class BriefGenerator:
                  nodes_path: Path, 
                  risk_path: Path,
                  strategic_assessment: str,
-                 output_path: Path):
+                 output_path: Path,
+                 news_analysis: List[Dict[str, Any]] = []):
         """
         Renders the brief.
         """
@@ -50,7 +51,8 @@ class BriefGenerator:
             generation_date=datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             critical_nodes=critical_nodes,
             jurisdiction_stats=jurisdiction_stats,
-            strategic_assessment=strategic_assessment
+            strategic_assessment=strategic_assessment,
+            news_analysis=news_analysis
         )
 
         # Write

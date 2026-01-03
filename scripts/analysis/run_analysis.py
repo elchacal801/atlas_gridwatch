@@ -129,6 +129,25 @@ def analyze(
     console.print("[italic]Assessment Preview:[/italic]")
     console.print(assessment_text[:200] + "...")
 
+    # 6. Strategic News Analysis
+    console.rule("[bold cyan]Strategic News Analysis[/bold cyan]")
+    news_file = Path("data/processed/news_stream.json")
+    if news_file.exists():
+        console.log("Loading raw news stream...")
+        with open(news_file, 'r', encoding='utf-8') as f:
+            raw_news = json.load(f)
+        
+        console.log("Analyzing news for intelligence value...")
+        news_intelligence = llm.analyze_news_items(raw_news)
+        
+        news_output = output_dir / "news_analysis.json"
+        with open(news_output, 'w', encoding='utf-8') as f:
+            json.dump(news_intelligence, f, indent=2)
+            
+        console.log(f"Saved {len(news_intelligence)} intelligence events to {news_output}")
+    else:
+        console.log("[dim]No news stream found. Skipping news analysis.[/dim]")
+
 
 if __name__ == "__main__":
     app()

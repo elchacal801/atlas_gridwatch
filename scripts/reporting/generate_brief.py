@@ -37,8 +37,17 @@ def create(
     try:
         # Read the AI assessment content
         strategic_assessment_content = ai_path.read_text(encoding="utf-8")
+        
+        # Read News Analysis if available
+        import json
+        news_file = Path("data/outputs/news_analysis.json")
+        news_data = []
+        if news_file.exists():
+            with open(news_file, 'r', encoding='utf-8') as f:
+                news_data = json.load(f)
+            console.log(f"Loaded {len(news_data)} news items.")
 
-        generator.generate(nodes_path, risk_path, strategic_assessment_content, output_path)
+        generator.generate(nodes_path, risk_path, strategic_assessment_content, output_path, news_analysis=news_data)
         console.log(f"[bold green]Success![/bold green] Brief saved to {output_path}")
         console.print(f"Open '{output_path}' in your browser to view.")
     except Exception as e:
