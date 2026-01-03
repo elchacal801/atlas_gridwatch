@@ -44,6 +44,10 @@ jobs:
       run: |
         python scripts/analysis/run_analysis.py
 
+    - name: Run Visualization
+      run: |
+        python scripts/visualization/run_visualization.py
+
     - name: Generate Intelligence Brief
       run: |
         python scripts/reporting/generate_brief.py
