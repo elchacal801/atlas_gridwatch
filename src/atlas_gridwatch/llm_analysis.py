@@ -1,6 +1,7 @@
 import os
 import logging
 from typing import Dict, Any, List
+from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 
@@ -47,12 +48,37 @@ class LLMAnalyzer:
         </div>
         """
 
+    def _load_knowledge_base(self) -> str:
+        """
+        Loads content from local research papers (markdown) to serve as RAG context.
+        """
+        kb_content = []
+        papers_dir = Path("papers") # Relative to root execution
+        if not papers_dir.exists():
+            # Try absolute path fallback if needed, or relative to src
+            papers_dir = Path("c:/Users/anon/Documents/anon/atlas_gridwatch/papers")
+            
+        if papers_dir.exists():
+            for f in papers_dir.glob("*.md"):
+                try:
+                    text = f.read_text(encoding="utf-8")
+                    # truncate heavily to avoid context window explosion, focus on headers/summaries if possible
+                    # For now, take first 3000 chars of each paper
+                    kb_content.append(f"--- SOURCE: {f.name} ---\n{text[:3000]}...\n")
+                except Exception as e:
+                    logger.warning(f"Failed to read paper {f}: {e}")
+        
+        return "\n".join(kb_content) if kb_content else "No local research papers available."
+
     def generate_assessment(self, context: Dict[str, Any]) -> str:
         """
-        Generates a strategic assessment based on provided context data.
+        Generates a strategic assessment based on provided context data and Local Knowledge Base.
         """
         if not self.client:
             return self._generate_fallback(context, "Missing API Key")
+
+        # Load Local Knowledge
+        knowledge_base = self._load_knowledge_base()
 
         # Construct a high-level summary of the data for the LLM
         # We assume 'context' contains 'critical_nodes' and 'jurisdiction_risk'
@@ -69,36 +95,43 @@ class LLMAnalyzer:
         prompt = f"""
         You are a Strategic Intelligence Analyst for Atlas Gridwatch. 
         
-        Analyze the provided critical infrastructure data.
+        Analyze the provided critical infrastructure data in the context of our **Local Knowledge Base** (verified research papers).
         SEPARATE your analysis into two distinct sections: "Maritime & Cable Chokepoints" and "Frontier AI Infrastructure".
-
-        ### INTELLIGENCE DATA
+        
+        ### LOCAL KNOWLEDGE BASE (Verified Intelligence)
+        {knowledge_base}
+        
+        ### REAL-TIME METRICS (Current Status)
         **Strategic Chokepoints (Cables/Active):**
         {nodes_txt}
-
+        
         **Jurisdiction Risk:**
         {risk_txt}
         
         **Frontier AI / Planned Buildout:**
         {planned_txt if planned_assets else "No immediate planned facility intelligence available."}
-
+        
         ### PIR REQUIREMENTS
-        1. **Maritime Domain**: Analyze the physical resilience of the subsea cable network. Identify top chokepoints.
-        2. **Frontier AI Domain**: Analyze the strategic placement of new AI/Hyperscale facilities. What is the geopolitical logic behind these specific locations?
-        3. **Synthesis**: How does the new AI infrastructure rely on the existing cable vulnerabilities?
-
+        1. **Maritime Domain**: Analyze the physical resilience of the subsea cable network. 
+           - Cite specific insights from the Knowledge Base (e.g. historical outages, specific chokepoint risks).
+           - Correlate the "Real-Time Metrics" (e.g. 0.000 scores) with the Knowledge Base (e.g. "Similar to the 2008 Egypt incident...").
+        2. **Frontier AI Domain**: Analyze the strategic placement of new AI/Hyperscale facilities. 
+           - What is the geopolitical logic? 
+           - Connect planned assets to the "Digital Silk Road" or US-China competition themes found in the papers.
+        3. **Synthesis**: Create a "Deep Dive" scenario. How would a conflict in a high-risk region identified in the papers impact the specific AI assets listed in the metrics?
+        
         ### OUTPUT FORMAT
         Return a valid JSON object (no markdown) with the following structure:
         {{
-            "maritime_analysis": "<p>Analysis of cables...</p><ul><li>...</li></ul>",
-            "frontier_ai_analysis": "<p>Analysis of AI location strategy...</p>",
-            "synthesis": "<p>Executive summary...</p>"
+            "maritime_analysis": "<p>Analysis...</p>",
+            "frontier_ai_analysis": "<p>Analysis...</p>",
+            "synthesis": "<p><b>Scenario Modeling:</b> ...</p>"
         }}
         Do not use markdown formatting (like **bold**) inside the JSON values, use HTML tags (<strong>, <em>) if needed.
         """
 
         try:
-            logger.info("Querying OpenAI for Strategic Assessment...")
+            logger.info("Querying OpenAI for Strategic Assessment (with RAG)...")
             response = self.client.chat.completions.create(
                 model="gpt-4o",
                 messages=[
@@ -106,7 +139,7 @@ class LLMAnalyzer:
                     {"role": "user", "content": prompt}
                 ],
                 temperature=0.7,
-                max_tokens=800,
+                max_tokens=1500, # Increased for detailed analysis
                 response_format={"type": "json_object"}
             )
             content = response.choices[0].message.content.strip()
@@ -131,7 +164,7 @@ class LLMAnalyzer:
             </div>
 
             <div class="assessment-section">
-                <h5 style="color: #ffffff; border-bottom: 1px solid #555; padding-bottom: 5px;">SRM Synthesis</h5>
+                <h5 style="color: #ffffff; border-bottom: 1px solid #555; padding-bottom: 5px;">SRM Synthesis & Scenario Modeling</h5>
                 <div style="font-style: italic; color: #aaa;">{data.get('synthesis', '')}</div>
             </div>
             """
