@@ -55,7 +55,7 @@ class GeoLocation(BaseModel):
     longitude: float
     country: str
     city: Optional[str] = None
-    region: Region
+    region: Region = Region.GLOBAL
 
 class DataCenter(IntelligenceObject):
     """Physical facility housing compute infrastructure."""
