@@ -135,6 +135,7 @@ class LLMAnalyzer:
         # Deduplicate paths
         unique_sources = {str(p.resolve()): p for p in sources}.values()
 
+        for f in unique_sources:
             try:
                 text = f.read_text(encoding="utf-8")
                 # Extract Title (assumes first line is # Title)
