@@ -20,7 +20,7 @@ class RSSIngestor(BaseIngestor):
         # Maritime & Cables
         {"url": "https://subtelforum.com/feed/", "category": "Maritime & Cables"},
         {"url": "https://www.navalnews.com/feed/", "category": "Maritime & Cables"},
-        {"url": "https://www.maritime-executive.com/rss.xml", "category": "Maritime & Cables"},
+        {"url": "https://maritime-executive.com/articles.rss", "category": "Maritime & Cables"},
         {"url": "https://news.usni.org/feed", "category": "Maritime & Cables"},
 
         # Defense & Security
