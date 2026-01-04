@@ -33,6 +33,7 @@ jobs:
       # but we enable RSS for news.
       # We assume specific API keys are in secrets.
       env:
+        GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
         # Seed ingestion is additive. 
@@ -43,6 +44,7 @@ jobs:
 
     - name: Run Strategic Analysis
       env:
+        GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
         python scripts/analysis/run_analysis.py

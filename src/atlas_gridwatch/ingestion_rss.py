@@ -1,7 +1,9 @@
 import feedparser
 import logging
 from typing import List, Dict, Any
+from datetime import datetime
 from .ingestion import BaseIngestor
+from .database import NewsDatabase
 
 logger = logging.getLogger(__name__)
 
@@ -61,6 +63,10 @@ class RSSIngestor(BaseIngestor):
         {"url": "https://thequantuminsider.com/feed/", "category": "Quantum Tech"},
     ]
 
+    def __init__(self):
+        super().__init__()
+        self.news_db = NewsDatabase()
+
     def fetch(self) -> List[Dict[str, Any]]:
         results = []
         logger.info(f"Scanning {len(self.FEEDS)} OSINT feeds...")
@@ -73,12 +79,25 @@ class RSSIngestor(BaseIngestor):
                 logger.info(f"Fetched {len(feed.entries)} items from {url}")
                 
                 for entry in feed.entries[:10]: # Limit to top 10 per feed to increase breadth
+                    # Prepare data for both detailed storage and immediate processing
+                    item_data = {
+                        "url": entry.link,
+                        "title": entry.title,
+                        "source": url,
+                        "published_date": entry.published if 'published' in entry else str(datetime.now().isoformat()),
+                        "summary": entry.summary if 'summary' in entry else "",
+                        "category": category
+                    }
+                    
+                    # Archive to Persistent DB
+                    self.news_db.upsert_article(item_data)
+
                     results.append({
                         "type": "osint_news",
-                        "title": entry.title,
-                        "link": entry.link,
-                        "published": entry.published if 'published' in entry else None,
-                        "summary": entry.summary if 'summary' in entry else "",
+                        "title": item_data["title"],
+                        "link": item_data["url"],
+                        "published": item_data["published_date"],
+                        "summary": item_data["summary"],
                         "source": url,
                         "category": category
                     })

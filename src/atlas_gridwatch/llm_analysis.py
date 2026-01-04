@@ -4,6 +4,10 @@ from typing import Dict, Any, List
 from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
+from openai import OpenAI
+from google import genai
+from google.genai import types
+from .database import NewsDatabase
 
 load_dotenv()
 logger = logging.getLogger(__name__)
@@ -15,12 +19,69 @@ class LLMAnalyzer:
     """
 
     def __init__(self):
-        self.api_key = os.getenv("OPENAI_API_KEY")
-        if not self.api_key:
-            logger.warning("OPENAI_API_KEY not found in .env. LLM analysis will be skipped.")
-            self.client = None
+        self.openai_key = os.getenv("OPENAI_API_KEY")
+        self.gemini_key = os.getenv("GOOGLE_API_KEY")
+        
+        # Initialize Databases
+        self.news_db = NewsDatabase()
+        
+        # Initialize Clients
+        self.client = None
+        self.gemini_model = None
+
+        if self.gemini_key:
+            try:
+                self.gemini_client = genai.Client(api_key=self.gemini_key)
+                logger.info("Gemini API (new SDK) configured successfully.")
+            except Exception as e:
+                logger.error(f"Failed to configure Gemini: {e}")
+                self.gemini_client = None
+
+        if self.openai_key:
+            self.client = OpenAI(api_key=self.openai_key)
         else:
-            self.client = OpenAI(api_key=self.api_key)
+            logger.warning("OPENAI_API_KEY not found.")
+
+        if not self.client and not self.gemini_client:
+            logger.warning("No LLM backend available.")
+
+    def _call_llm(self, system_prompt: str, user_prompt: str, json_mode: bool = True) -> str:
+        """
+        Abstracted LLM call favoring Gemini, falling back to OpenAI.
+        """
+        # 1. Try Gemini
+        if self.gemini_client:
+            try:
+                # Construct combined prompt as Gemini 1.5 Flash handles large contexts well
+                full_prompt = f"SYSTEM: {system_prompt}\n\nUSER: {user_prompt}"
+                
+                config = None
+                if json_mode:
+                    config = types.GenerateContentConfig(response_mime_type="application/json")
+                
+                response = self.gemini_client.models.generate_content(
+                    model="gemini-2.0-flash",
+                    contents=full_prompt,
+                    config=config
+                )
+                return response.text
+            except Exception as e:
+                logger.warning(f"Gemini generation failed: {e}")
+        
+        # 2. Fallback to OpenAI
+        if self.client:
+            response = self.client.chat.completions.create(
+                model="gpt-4o",
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt}
+                ],
+                temperature=0.7,
+                response_format={"type": "json_object"} if json_mode else None
+            )
+            return response.choices[0].message.content.strip()
+            
+        raise Exception("All LLM backends failed.")
 
     def _generate_fallback(self, context: Dict[str, Any], reason: str) -> str:
         """
@@ -111,6 +172,9 @@ class LLMAnalyzer:
         
         ### LOCAL KNOWLEDGE BASE (Verified Intelligence)
         {knowledge_base}
+
+        ### RECENT STRATEGIC NEWS (RAG Context)
+        {self.news_db.get_context_for_analysis(["cable", "outage", "sabotage", "data center", "AI", "China", "Russia"], limit_per_keyword=2)}
         
         ### REAL-TIME METRICS (Current Operational Picture)
         **Strategic Chokepoints (Cables/Active):**
@@ -156,18 +220,12 @@ class LLMAnalyzer:
         """
         
         try:
-            logger.info("Querying OpenAI for Enhanced Strategic Assessment...")
-            response = self.client.chat.completions.create(
-                model="gpt-4o",
-                messages=[
-                    {"role": "system", "content": "You are an expert intelligence analyst using the ACH framework. Output strict JSON."},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0.7,
-                max_tokens=2500, # Increased for deep analysis
-                response_format={"type": "json_object"}
+            logger.info("Querying LLM for Enhanced Strategic Assessment...")
+            content = self._call_llm(
+                system_prompt="You are an expert intelligence analyst using the ACH framework. Output strict JSON.",
+                user_prompt=prompt,
+                json_mode=True
             )
-            content = response.choices[0].message.content.strip()
             
             import json
             data = json.loads(content)
@@ -246,15 +304,11 @@ class LLMAnalyzer:
         """
         
         try:
-             response = self.client.chat.completions.create(
-                model="gpt-4o",
-                messages=[
-                    {"role": "system", "content": "You are an expert OSINT analyst extracting structured data from news."},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0.1
-            )
-             content = response.choices[0].message.content.strip()
+             content = self._call_llm(
+                system_prompt="You are an expert OSINT analyst extracting structured data from news.",
+                user_prompt=prompt,
+                json_mode=True
+             )
              # Cleanup code blocks if present
              if content.startswith("```"): content = content.split("\n", 1)[1].rsplit("\n", 1)[0]
              
@@ -316,16 +370,11 @@ class LLMAnalyzer:
 
         try:
             logger.info("Analyzing news stream for strategic intelligence...")
-            response = self.client.chat.completions.create(
-                model="gpt-4o",
-                messages=[
-                    {"role": "system", "content": "You are a military intelligence analyst. Output strict JSON."},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0.3, # Lower temp for more deterministic filtering
-                response_format={"type": "json_object"}
+            content = self._call_llm(
+                system_prompt="You are a military intelligence analyst. Output strict JSON.",
+                user_prompt=prompt,
+                json_mode=True
             )
-            content = response.choices[0].message.content.strip()
             import json
             data = json.loads(content)
             
