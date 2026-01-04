@@ -316,6 +316,13 @@ class LLMAnalyzer:
              import json
              data = json.loads(content)
              
+             # Handle list response from Gemini
+             if isinstance(data, list):
+                 if data:
+                     data = data[0]
+                 else:
+                     return None
+
              if not data.get("found", True): 
                  return None
                  
