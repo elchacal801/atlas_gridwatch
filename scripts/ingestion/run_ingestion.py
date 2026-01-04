@@ -14,7 +14,7 @@ from atlas_gridwatch.ingestion import FileIngestor, SeedDataIngestor, TeleGeogra
 # New modules
 from atlas_gridwatch.ingestion_rss import RSSIngestor
 from atlas_gridwatch.llm_analysis import LLMAnalyzer
-from atlas_gridwatch.models import DataCenter, EntityStatus, GeoLocation
+from atlas_gridwatch.models import DataCenter, SubseaCable, EntityStatus, GeoLocation
 from atlas_gridwatch.normalization import NormalizationEngine
 from atlas_gridwatch.database import InfrastructureDatabase
 from atlas_gridwatch.ingestion_epoch import EpochIngestor
@@ -166,13 +166,21 @@ def main(
             console.log(f"[green]Loading Seed File: {seed_path}...[/green]")
             with open(seed_path, 'r') as f:
                 raw_seeds = json.load(f)
-                # Convert raw dicts to DataCenter objects
+                # Convert raw dicts to Models
                 for s in raw_seeds:
                     try:
-                        dc = DataCenter(**s)
+                        obj_type = s.get("type", "datacenter")
+                        if obj_type == "cable":
+                            # Fix validation: Cables use "owners" list, DC uses "owner_id"
+                            # Seed file uses "owners" for cables which matches model.
+                            # Landing points should be passed as is.
+                             dc = SubseaCable(**s)
+                        else:
+                             dc = DataCenter(**s)
+                             
                         assets_to_save.append(dc)
                     except Exception as e:
-                        console.print(f"[red]Seed Error[/red]: {e} in {s['name']}")
+                        console.print(f"[red]Seed Error[/red]: {e} in {s.get('name', 'Unknown')}")
     elif source == "epoch":
         console.log("[magenta]Ingesting from Epoch AI Dataset...[/magenta]")
         file_path = Path("data/raw/data_centers_epochAI/data_centers.csv")
