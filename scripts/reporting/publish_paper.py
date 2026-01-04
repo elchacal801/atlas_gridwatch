@@ -65,5 +65,49 @@ def publish(
 
     console.print(f"[green]Successfully published to {output_file}[/green]")
 
+    # 7. Update Index
+    index_path = output_dir / "index.html"
+    if index_path.exists():
+        console.print("[yellow]Updating Research Library Index...[/yellow]")
+        with open(index_path, "r", encoding="utf-8") as f:
+            index_content = f.read()
+        
+        # Create new card HTML
+        import datetime
+        today = datetime.date.today().isoformat()
+        
+        # Extract brief description (first non-header paragraph)
+        # Simple heuristic: first line of md content that serves as text
+        desc = "Strategic Intelligence Assessment regarding global infrastructure."
+        for line in md_content.split('\n'):
+            if line.strip() and not line.startswith(('#', '<', '[', '!')):
+                desc = line.strip()
+                break
+        
+        new_card = f"""
+        <!-- Paper: {slug} -->
+        <div class="paper-card">
+            <a href="{slug}.html" class="paper-title">{title}</a>
+            <div class="paper-meta">Published: {today} | Classification: OSINT</div>
+            <p class="paper-desc">
+                {desc[:200]}...
+            </p>
+        </div>
+        """
+        
+        # Inject after the header
+        # Finding the marker: <h2 class="mb-4 text-white">Strategic Intelligence Reports</h2>
+        marker = '<h2 class="mb-4 text-white">Strategic Intelligence Reports</h2>'
+        if marker in index_content:
+            parts = index_content.split(marker)
+            # Insert after the marker
+            new_index = parts[0] + marker + "\n" + new_card + parts[1]
+            
+            with open(index_path, "w", encoding="utf-8") as f:
+                f.write(new_index)
+            console.print("[green]Index Updated.[/green]")
+        else:
+            console.print("[red]Could not find injection marker in index.html[/red]")
+
 if __name__ == "__main__":
     app()
