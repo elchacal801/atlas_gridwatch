@@ -114,12 +114,42 @@
                     <p class="m-0 header-subtitle">Strategic Infrastructure Intelligence Monitor</p>
                 </div>
                 <div class="text-end timestamp">
+                    <a href="research/index.html" class="btn btn-sm btn-outline-info me-3"
+                        style="border-color: #00f2ff; color: #00f2ff;">
+                        <i class="bi bi-journal-text"></i> RESEARCH LIBRARY
+                    </a>
                     GENERATED REPORT<br>
                     {{ generation_date }}
                 </div>
             </div>
         </div>
     </div>
+
+    <!-- Global Intelligence Ticker -->
+    {% if news_analysis %}
+    <div class="row">
+        <div class="col-12 p-0">
+            <div class="ticker-wrap">
+                <div class="ticker">
+                    {% for event in news_analysis %}
+                    <div class="ticker-item">
+                        {% if event.risk == 'HIGH' %}
+                        <span class="badge bg-danger">HIGH RISK</span>
+                        {% elif event.risk == 'MEDIUM' %}
+                        <span class="badge bg-warning text-dark">MED</span>
+                        {% else %}
+                        <span class="badge bg-success">LOW</span>
+                        {% endif %}
+                        <span style="color: #bbb;">[{{ event.source }}]</span>
+                        <a href="{{ event.url }}" target="_blank">{{ event.title }}</a>
+                        <span style="color: #666;">- {{ event.assessment }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
 
     <div class="container-fluid mt-4">
 
@@ -149,9 +179,10 @@
                 width: 100%;
                 overflow: hidden;
                 background-color: #0d1117;
+                border: 1px solid #333;
+                /* border to match cards */
                 border-bottom: 2px solid #00f2ff;
-                padding-left: 100%;
-                box-sizing: content-box;
+                box-sizing: border-box;
             }
 
             .ticker {
@@ -159,12 +190,12 @@
                 height: 40px;
                 line-height: 40px;
                 white-space: nowrap;
-                padding-right: 100%;
                 box-sizing: content-box;
                 animation-iteration-count: infinite;
                 animation-timing-function: linear;
                 animation-name: ticker;
-                animation-duration: 40s;
+                animation-duration: 120s;
+                /* Even slower speed for readability */
             }
 
             .ticker-item {
@@ -186,40 +217,14 @@
 
             @keyframes ticker {
                 0% {
-                    transform: translated3d(0, 0, 0);
-                    visibility: visible;
+                    transform: translateX(100vw);
                 }
 
                 100% {
-                    transform: translate3d(-100%, 0, 0);
+                    transform: translateX(-100%);
                 }
             }
         </style>
-        <!-- Global Intelligence Ticker -->
-        {% if news_analysis %}
-        <div class="row">
-            <div class="col-12 p-0">
-                <div class="ticker-wrap">
-                    <div class="ticker">
-                        {% for event in news_analysis %}
-                        <div class="ticker-item">
-                            {% if event.risk == 'HIGH' %}
-                            <span class="badge bg-danger">HIGH RISK</span>
-                            {% elif event.risk == 'MEDIUM' %}
-                            <span class="badge bg-warning text-dark">MED</span>
-                            {% else %}
-                            <span class="badge bg-success">LOW</span>
-                            {% endif %}
-                            <span style="color: #bbb;">[{{ event.source }}]</span>
-                            <a href="{{ event.url }}" target="_blank">{{ event.title }}</a>
-                            <span style="color: #666;">- {{ event.assessment }}</span>
-                        </div>
-                        {% endfor %}
-                    </div>
-                </div>
-            </div>
-        </div>
-        {% endif %}
 
         <!-- Strategic News Brief Section -->
         {% if news_analysis %}
@@ -265,7 +270,7 @@
         <div class="row">
             <!-- Strategic Chokepoints -->
             <div class="col-md-6">
-                <div class="card">
+                <div class="card h-100">
                     <div class="card-header">Strategic Chokepoints (Top 5)</div>
                     <div class="card-body p-0">
                         <table class="table table-striped table-hover">
@@ -296,7 +301,7 @@
 
             <!-- Jurisdiction Risk -->
             <div class="col-md-6">
-                <div class="card">
+                <div class="card h-100">
                     <div class="card-header">Jurisdictional Exposure</div>
                     <div class="card-body p-0">
                         <table class="table table-striped table-sm">

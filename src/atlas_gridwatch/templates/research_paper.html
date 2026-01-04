@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} | Atlas Gridwatch</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Serif font for reading -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Segoe+UI:wght@400;600&display=swap"
+        rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #0f0f0f;
+            color: #d0d0d0;
+            font-family: 'Merriweather', serif;
+            line-height: 1.8;
+        }
+
+        /* Access Terminal Header */
+        .terminal-header {
+            background: #000;
+            border-bottom: 1px solid #333;
+            font-family: 'Segoe UI', sans-serif;
+            padding: 10px 0;
+            margin-bottom: 40px;
+        }
+
+        .brand-link {
+            color: #00f2ff;
+            text-decoration: none;
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .paper-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px 100px 20px;
+        }
+
+        /* Typography */
+        h1 {
+            color: #fff;
+            font-family: 'Segoe UI', sans-serif;
+            font-weight: 700;
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            letter-spacing: -0.5px;
+        }
+
+        h2 {
+            color: #e0e0e0;
+            font-family: 'Segoe UI', sans-serif;
+            font-weight: 600;
+            margin-top: 3rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #333;
+            padding-bottom: 0.5rem;
+        }
+
+        h3 {
+            color: #00f2ff;
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 1.25rem;
+            margin-top: 2rem;
+        }
+
+        p {
+            margin-bottom: 1.5rem;
+            font-size: 1.1rem;
+        }
+
+        /* Highlights */
+        blockquote {
+            border-left: 3px solid #00f2ff;
+            padding-left: 20px;
+            margin: 40px 0;
+            font-style: italic;
+            color: #aaa;
+            background: rgba(0, 242, 255, 0.02);
+            padding: 20px;
+        }
+
+        /* Lists */
+        ul,
+        ol {
+            margin-bottom: 2rem;
+            color: #ccc;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        /* Tables (Markdown generated) */
+        table {
+            width: 100%;
+            margin: 30px 0;
+            border-collapse: collapse;
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 0.9rem;
+        }
+
+        th {
+            text-align: left;
+            border-bottom: 2px solid #444;
+            padding: 10px;
+            color: #fff;
+        }
+
+        td {
+            border-bottom: 1px solid #333;
+            padding: 10px;
+            color: #bbb;
+        }
+
+        /* Links */
+        a {
+            color: #3498db;
+            text-decoration: none;
+            border-bottom: 1px solid rgba(52, 152, 219, 0.3);
+        }
+
+        a:hover {
+            color: #5dade2;
+            border-bottom-color: #5dade2;
+        }
+
+        img {
+            max-width: 100%;
+            border-radius: 4px;
+            margin: 20px 0;
+            border: 1px solid #333;
+        }
+
+        .meta-data {
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 0.9rem;
+            color: #666;
+            margin-bottom: 2rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .back-link {
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 0.85rem;
+            margin-bottom: 20px;
+            display: block;
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="terminal-header">
+        <div class="container-fluid">
+            <div class="d-flex justify-content-between align-items-center px-4">
+                <a href="../index.html" class="brand-link">Atlas Gridwatch</a>
+                <span style="color: #444; font-size: 0.8rem;">INTELLIGENCE_LAYER // PUBLIC</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="paper-container">
+        <a href="../index.html" class="back-link">&larr; Return to Briefing</a>
+
+        <div class="meta-data">
+            Published: {{ generation_date }} | Classification: OPEN SOURCE
+        </div>
+
+        <!-- Title is injected by template if not in markdown, or markdown h1 -->
+        {% if title %}
+        <h1>{{ title }}</h1>
+        {% endif %}
+
+        <div class="paper-content">
+            {{ content | safe }}
+        </div>
+
+        <hr style="margin-top: 80px; border-color: #333;">
+        <div class="text-center text-muted" style="font-family: 'Segoe UI', sans-serif; font-size: 0.8rem;">
+            Generated by Atlas Gridwatch Research Engine
+        </div>
+    </div>
+
+</body>
+
+</html>
