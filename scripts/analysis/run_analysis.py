@@ -148,6 +148,48 @@ def analyze(
     else:
         console.log("[dim]No news stream found. Skipping news analysis.[/dim]")
 
+    # 7. Temporal Analysis (Growth Metrics)
+    console.rule("[bold green]Temporal Analysis[/bold green]")
+    console.log("Calculating capacity growth trajectory...")
+    
+    growth_timeline = {year: 0.0 for year in range(2020, 2028)}
+    
+    for item in items:
+        if isinstance(item, DataCenter):
+            mw = item.capacity_mw or 50.0 # Default estimate if missing
+            
+            # Determine Year
+            year = 2023 # Baseline
+            if item.rfs_date:
+                year = item.rfs_date.year
+            elif item.status == EntityStatus.PLANNED:
+                year = 2026
+            elif item.status == EntityStatus.UNDER_CONSTRUCTION:
+                year = 2025
+            elif item.status == EntityStatus.ACTIVE:
+                year = 2023 # Assume current active stock is baseline 2023
+            
+            # Accumulate
+            # Logic: Capacity comes online in 'year' and stays.
+            # So we add to 'year' and all subsequent years? 
+            # Or just count 'New Capacity Added'? 
+            # Let's track 'Total Installed Capacity' by year.
+            for y in range(year, 2028):
+                if y in growth_timeline:
+                    growth_timeline[y] += mw
+
+    # Format for Chart.js
+    growth_data = {
+        "labels": sorted(growth_timeline.keys()),
+        "capacity_mw": [round(growth_timeline[y], 2) for y in sorted(growth_timeline.keys())]
+    }
+    
+    growth_file = output_dir / "growth_metrics.json"
+    with open(growth_file, 'w') as f:
+        json.dump(growth_data, f, indent=2)
+        
+    console.log(f"Saved Growth Metrics to {growth_file}")
+
 
 if __name__ == "__main__":
     app()

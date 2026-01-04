@@ -25,7 +25,8 @@ class BriefGenerator:
                  risk_path: Path,
                  strategic_assessment: str,
                  output_path: Path,
-                 news_analysis: List[Dict[str, Any]] = []):
+                 news_analysis: List[Dict[str, Any]] = [],
+                 growth_metrics: Dict[str, Any] = None):
         """
         Renders the brief.
         """
@@ -46,14 +47,18 @@ class BriefGenerator:
             except:
                 node['betweenness'] = 0.0
 
+        # Prepare context
+        context = {
+            "generation_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "critical_nodes": critical_nodes,
+            "jurisdiction_stats": jurisdiction_stats,
+            "strategic_assessment": strategic_assessment,
+            "news_analysis": news_analysis or [],
+            "growth_metrics": growth_metrics
+        }
+
         # Render
-        html = self.template.render(
-            generation_date=datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            critical_nodes=critical_nodes,
-            jurisdiction_stats=jurisdiction_stats,
-            strategic_assessment=strategic_assessment,
-            news_analysis=news_analysis
-        )
+        html = self.template.render(**context)
 
         # Write
         output_path.parent.mkdir(parents=True, exist_ok=True)

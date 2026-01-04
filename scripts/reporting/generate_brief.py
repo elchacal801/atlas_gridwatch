@@ -47,7 +47,15 @@ def create(
                 news_data = json.load(f)
             console.log(f"Loaded {len(news_data)} news items.")
 
-        generator.generate(nodes_path, risk_path, strategic_assessment_content, output_path, news_analysis=news_data)
+        # Read Growth Metrics if available
+        growth_file = Path("data/outputs/growth_metrics.json")
+        growth_data = None
+        if growth_file.exists():
+            with open(growth_file, 'r', encoding='utf-8') as f:
+                growth_data = json.load(f)
+            console.log(f"Loaded Growth Metrics.")
+
+        generator.generate(nodes_path, risk_path, strategic_assessment_content, output_path, news_analysis=news_data, growth_metrics=growth_data)
         console.log(f"[bold green]Success![/bold green] Brief saved to {output_path}")
         console.print(f"Open '{output_path}' in your browser to view.")
     except Exception as e:
