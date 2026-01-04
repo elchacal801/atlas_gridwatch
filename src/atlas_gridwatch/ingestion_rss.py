@@ -41,6 +41,8 @@ class RSSIngestor(BaseIngestor):
         {"url": "https://therecord.media/feed/", "category": "Cyber & Intel"},
         {"url": "https://krebsonsecurity.com/feed/", "category": "Cyber & Intel"},
         {"url": "https://thecyberwire.com/feeds/rss.xml", "category": "Cyber & Intel"},
+        {"url": "https://www.bleepingcomputer.com/feed/", "category": "Cyber & Intel"},
+        {"url": "https://www.darkreading.com/rss.xml", "category": "Cyber & Intel"},
     ]
 
     def fetch(self) -> List[Dict[str, Any]]:
