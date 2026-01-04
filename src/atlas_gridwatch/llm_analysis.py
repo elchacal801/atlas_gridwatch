@@ -94,8 +94,6 @@ class LLMAnalyzer:
         knowledge_base = self._load_knowledge_base()
 
         # Construct a high-level summary of the data for the LLM
-        # We assume 'context' contains 'critical_nodes' and 'jurisdiction_risk'
-        
         critical_nodes = context.get("critical_nodes", [])[:5] # Top 5
         risk_data = context.get("jurisdiction_risk", {})
         planned_assets = context.get("planned_assets", [])
@@ -106,15 +104,15 @@ class LLMAnalyzer:
         planned_txt = "\n".join([f"- [PLANNED] {a.get('name')} ({a.get('location', {}).get('country')}) - Owner: {a.get('owner_id')} - Intent: {a.get('properties', {}).get('intent')}" for a in planned_assets])
         
         prompt = f"""
-        You are a Strategic Intelligence Analyst for Atlas Gridwatch. 
+        You are the **Chief Strategic Intelligence Analyst** for Atlas Gridwatch.
+        Your mandate is to produce a **high-level, classified strategic assessment** utilizing the **Analysis of Competing Hypotheses (ACH)** framework.
         
-        Analyze the provided critical infrastructure data in the context of our **Local Knowledge Base** (verified research papers).
-        SEPARATE your analysis into two distinct sections: "Maritime & Cable Chokepoints" and "Frontier AI Infrastructure".
+        Analyze the provided critical infrastructure metrics in the context of our **Local Knowledge Base** (verified research papers).
         
         ### LOCAL KNOWLEDGE BASE (Verified Intelligence)
         {knowledge_base}
         
-        ### REAL-TIME METRICS (Current Status)
+        ### REAL-TIME METRICS (Current Operational Picture)
         **Strategic Chokepoints (Cables/Active):**
         {nodes_txt}
         
@@ -124,35 +122,49 @@ class LLMAnalyzer:
         **Frontier AI / Planned Buildout:**
         {planned_txt if planned_assets else "No immediate planned facility intelligence available."}
         
-        ### PIR REQUIREMENTS
-        1. **Maritime Domain**: Analyze the physical resilience of the subsea cable network. 
-           - Cite specific insights from the Knowledge Base (e.g. historical outages, specific chokepoint risks).
-           - Correlate the "Real-Time Metrics" (e.g. 0.000 scores) with the Knowledge Base (e.g. "Similar to the 2008 Egypt incident...").
-        2. **Frontier AI Domain**: Analyze the strategic placement of new AI/Hyperscale facilities. 
-           - What is the geopolitical logic? 
-           - Connect planned assets to the "Digital Silk Road" or US-China competition themes found in the papers.
-        3. **Synthesis**: Create a "Deep Dive" scenario. How would a conflict in a high-risk region identified in the papers impact the specific AI assets listed in the metrics?
+        ### PRIORITY INTELLIGENCE REQUIREMENTS (PIRs) - DEEP DIVE
+        
+        **PIR 1: Maritime & Cable Resilience**
+        - Analyze the physical resilience of the subsea cable network.
+        - **Constraint**: You MUST cite specific historical precedents or risks from the Knowledge Base.
+        
+        **PIR 2: Frontier AI Geopolitics**
+        - Analyze the strategic placement of new AI/Hyperscale facilities.
+        - **Constraint**: Connect this to "Great Power Competition" (US vs China) and the "Digital Silk Road".
+        
+        **PIR 3: Supply Chain & Energy Dependencies** (NEW)
+        - What are the power/cooling constraints? What are the kinetic vulnerabilities (e.g. substations, water supply)?
+        - How does the "Compute Divide" mentioned in papers impact this?
+        
+        **PIR 4: Cyber-Physical Convergence** (NEW)
+        - How could a coordinated cyber-attack on SCADA systems amplify the physical sabotage risks identified in PIR 1?
+        
+        ### CRITICAL THINKING & RED TEAM
+        **Red Team Analysis (Devil's Advocate)**:
+        - Challenge your own assessment. What if the perceived threat is a deception? What if the "safe" jurisdictions are actually compromised?
         
         ### OUTPUT FORMAT
-        Return a valid JSON object (no markdown) with the following structure:
+        Return a valid JSON object (no markdown) with the following strategy:
         {{
-            "maritime_analysis": "<p>Analysis...</p>",
-            "frontier_ai_analysis": "<p>Analysis...</p>",
-            "synthesis": "<p><b>Scenario Modeling:</b> ...</p>"
+            "maritime_analysis": "<p>Deep dive into cable risks...</p>",
+            "frontier_ai_analysis": "<p>Geopolitical analysis of AI...</p>",
+            "supply_chain_analysis": "<p>Analysis of energy and supply chain vulnerabilities...</p>",
+            "red_team_analysis": "<p><strong>Alternative View:</strong> ...</p>",
+            "synthesis": "<p><strong>Executive Summary & Scenario Modeling:</strong> ...</p>"
         }}
         Do not use markdown formatting (like **bold**) inside the JSON values, use HTML tags (<strong>, <em>) if needed.
         """
-
+        
         try:
-            logger.info("Querying OpenAI for Strategic Assessment (with RAG)...")
+            logger.info("Querying OpenAI for Enhanced Strategic Assessment...")
             response = self.client.chat.completions.create(
                 model="gpt-4o",
                 messages=[
-                    {"role": "system", "content": "You are an expert intelligence analyst. Return your analysis in strict JSON format."},
+                    {"role": "system", "content": "You are an expert intelligence analyst using the ACH framework. Output strict JSON."},
                     {"role": "user", "content": prompt}
                 ],
                 temperature=0.7,
-                max_tokens=1500, # Increased for detailed analysis
+                max_tokens=2500, # Increased for deep analysis
                 response_format={"type": "json_object"}
             )
             content = response.choices[0].message.content.strip()
@@ -160,20 +172,34 @@ class LLMAnalyzer:
             import json
             data = json.loads(content)
             
-            # Construct HTML from JSON to guarantee separation
+            # Construct HTML from JSON with new sections
             html_output = f"""
             <div class="assessment-section mb-3">
                 <h5 style="color: #00f2ff; border-bottom: 1px solid #00f2ff; padding-bottom: 5px;">
-                    <i class="bi bi-water"></i> Maritime Resilience & Chokepoints (Systemic Risk)
+                    <i class="bi bi-water"></i> Maritime Resilience (PIR 1)
                 </h5>
                 <div style="color: #ccc;">{data.get('maritime_analysis', 'Analysis unavailable.')}</div>
             </div>
             
             <div class="assessment-section mb-3">
                 <h5 style="color: #bc1ce8; border-bottom: 1px solid #bc1ce8; padding-bottom: 5px;">
-                    <i class="bi bi-cpu"></i> Frontier AI Strategy (Geopolitical Intent)
+                    <i class="bi bi-cpu"></i> Frontier AI Geopolitics (PIR 2)
                 </h5>
                 <div style="color: #ccc;">{data.get('frontier_ai_analysis', 'Analysis unavailable.')}</div>
+            </div>
+
+            <div class="assessment-section mb-3">
+                <h5 style="color: #ffaa00; border-bottom: 1px solid #ffaa00; padding-bottom: 5px;">
+                    <i class="bi bi-lightning-charge"></i> Energy & Supply Chain (PIR 3)
+                </h5>
+                <div style="color: #ccc;">{data.get('supply_chain_analysis', 'Analysis unavailable.')}</div>
+            </div>
+
+            <div class="assessment-section mb-3">
+                <h5 style="color: #ff4444; border-bottom: 1px solid #ff4444; padding-bottom: 5px;">
+                    <i class="bi bi-shield-exclamation"></i> Red Team / Alternative Hypotheses
+                </h5>
+                <div style="color: #ccc;">{data.get('red_team_analysis', 'Analysis unavailable.')}</div>
             </div>
 
             <div class="assessment-section">
