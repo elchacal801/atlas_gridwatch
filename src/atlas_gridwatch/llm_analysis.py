@@ -28,6 +28,7 @@ class LLMAnalyzer:
         # Initialize Clients
         self.client = None
         self.gemini_model = None
+        self.gemini_client = None # Explicitly initialize to None
 
         if self.gemini_key:
             try:
@@ -276,7 +277,7 @@ class LLMAnalyzer:
         Extracts Data Center details from unstable text.
         Returns a dict compatible with DataCenter model or None.
         """
-        if not self.client: return None
+        if not self.client and not self.gemini_client: return None
 
         prompt = f"""
         Extract "Frontier AI" or Hyperscale Data Center infrastructure details from the text below.
@@ -327,7 +328,7 @@ class LLMAnalyzer:
         Filters and analyzes raw RSS news items for strategic relevance.
         Returns a list of high-value intelligence items.
         """
-        if not self.client or not news_items:
+        if (not self.client and not self.gemini_client) or not news_items:
             return []
 
         # Prepare a concise list for the LLM
