@@ -386,12 +386,8 @@ class LLMAnalyzer:
             import json
             data = json.loads(content)
             
-            # Merit: Re-attach original links if LLM hallucinated or dropped them
-            # We map back by title roughly or just trust the LLM if it copied correctly.
-            # Robust way: The LLM output might not have the exact URL if we didn't explicitly map IDs.
-            # Let's simple-map by index if we asked for IDs, but here we passed text.
-            # The prompt asks for "Original Link", usually GPT-4o is good at copying.
-            # But to be safe, we can try to fuzzy match or just rely on the LLM's return.
+            if isinstance(data, list):
+                return data
             
             return data.get("intelligence_events", [])
 
