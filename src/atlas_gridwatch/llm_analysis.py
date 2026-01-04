@@ -135,11 +135,16 @@ class LLMAnalyzer:
         # Deduplicate paths
         unique_sources = {str(p.resolve()): p for p in sources}.values()
 
-        for f in unique_sources:
             try:
                 text = f.read_text(encoding="utf-8")
+                # Extract Title (assumes first line is # Title)
+                lines = text.split('\n')
+                title = f.name
+                if lines and lines[0].startswith('# '):
+                    title = lines[0].strip('# ').strip()
+                
                 # truncate heavily to avoid context window explosion
-                kb_content.append(f"--- SOURCE: {f.name} ---\n{text[:3000]}...\n")
+                kb_content.append(f"--- SOURCE: {title} (ID: {f.name}) ---\n{text[:6000]}...\n")
             except Exception as e:
                 logger.warning(f"Failed to read paper {f}: {e}")
         
@@ -172,7 +177,11 @@ class LLMAnalyzer:
         Analyze the provided critical infrastructure metrics in the context of our **Local Knowledge Base** (verified research papers).
         
         ### LOCAL KNOWLEDGE BASE (Verified Intelligence)
+        ### LOCAL KNOWLEDGE BASE (Verified Intelligence)
         {knowledge_base}
+        
+        **CITATION RULE**: When referencing the Knowledge Base, you MUST use the **Source Title** (e.g. "Global Data Center Density...") rather than the filename.
+
 
         ### RECENT STRATEGIC NEWS (RAG Context)
         {self.news_db.get_context_for_analysis(["cable", "outage", "sabotage", "data center", "AI", "China", "Russia"], limit_per_keyword=2)}
@@ -339,8 +348,9 @@ class LLMAnalyzer:
             return []
 
         # Prepare a concise list for the LLM
-        # We only take the top 15 most recent items to avoid token limits
-        inputs = news_items[:15]
+        # With Gemini 1.5/2.0 Flash, we can handle a much larger context. 
+        # Increasing limit from 15 to 100 to ensure diversity across all feed categories.
+        inputs = news_items[:100]
         context_txt = ""
         for i, item in enumerate(inputs):
             context_txt += f"ITEM {i+1}: Title: {item.get('title')} | Source: {item.get('source')} | Summary: {item.get('summary')[:200]}...\n"
