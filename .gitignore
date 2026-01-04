@@ -40,6 +40,7 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/infrastructure_master.json
 
 # Project Specific - Outputs
 # Outputs can be large, but we may want to track some final reports.

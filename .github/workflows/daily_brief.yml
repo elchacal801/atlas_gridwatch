@@ -35,6 +35,8 @@ jobs:
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
+        # Seed ingestion is additive. 
+        # We now have the full infrastructure_master.json committed.
         python scripts/ingestion/run_ingestion.py --source seed_file
         python scripts/ingestion/run_ingestion.py --source rss
         python scripts/ingestion/run_ingestion.py --source epoch
