@@ -16,6 +16,9 @@ class RSSIngestor(BaseIngestor):
         {"url": "https://datacenterfrontier.com/feed/", "category": "Tech & Infrastructure"},
         {"url": "https://www.nextgov.com/rss/all/", "category": "Tech & Infrastructure"},
         {"url": "https://www.theregister.com/headlines.atom", "category": "Tech & Infrastructure"},
+        {"url": "https://datacenterpost.com/feed/", "category": "Tech & Infrastructure"},
+        {"url": "https://blogs.cisco.com/datacenter/feed", "category": "Tech & Infrastructure"},
+        {"url": "https://www.serverfarmllc.com/feed/", "category": "Tech & Infrastructure"},
 
         # Maritime & Cables
         {"url": "https://subtelforum.com/feed/", "category": "Maritime & Cables"},
@@ -35,6 +38,11 @@ class RSSIngestor(BaseIngestor):
         {"url": "https://foreignpolicy.com/feed", "category": "Geopolitics"},
         {"url": "https://www.aspistrategist.org.au/feed/", "category": "Geopolitics"},
         {"url": "https://www.lawfareblog.com/rss.xml", "category": "Geopolitics"},
+        {"url": "https://geostrategy-direct.com/feed/", "category": "Geopolitics"},
+        {"url": "https://www.thecipherbrief.com/feeds/feed.rss", "category": "Geopolitics"},
+        {"url": "https://geopoliticalmatters.com/feed/", "category": "Geopolitics"},
+        {"url": "https://www.foreignaffairs.com/feeds/topic/Geopolitics/rss.xml", "category": "Geopolitics"},
+        {"url": "https://www.ft.com/geopolitics?format=rss", "category": "Geopolitics"},
 
         # Cyber & Intelligence
         {"url": "https://www.bellingcat.com/feed/", "category": "Cyber & Intel"},
@@ -43,6 +51,14 @@ class RSSIngestor(BaseIngestor):
         {"url": "https://thecyberwire.com/feeds/rss.xml", "category": "Cyber & Intel"},
         {"url": "https://www.bleepingcomputer.com/feed/", "category": "Cyber & Intel"},
         {"url": "https://www.darkreading.com/rss.xml", "category": "Cyber & Intel"},
+        {"url": "https://feeds.feedburner.com/TheHackersNews?format=xml", "category": "Cyber & Intel"},
+
+        # Quantum Tech
+        {"url": "https://quantumcomputingreport.com/feed/", "category": "Quantum Tech"},
+        {"url": "https://quantum-journal.org/feed/", "category": "Quantum Tech"},
+        {"url": "https://www.insidequantumtechnology.com/feed/", "category": "Quantum Tech"},
+        {"url": "https://quantumzeitgeist.com/feed/", "category": "Quantum Tech"},
+        {"url": "https://thequantuminsider.com/feed/", "category": "Quantum Tech"},
     ]
 
     def fetch(self) -> List[Dict[str, Any]]:
