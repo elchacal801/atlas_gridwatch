@@ -17,7 +17,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_5b026f086dcf41d07c55239a730327fb {
+                #map_34f170543a01c81be7e8a84690d43702 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -121,31 +121,22 @@
         </div>
         
     
-            <div class="folium-map" id="map_5b026f086dcf41d07c55239a730327fb" ></div>
+            <div class="folium-map" id="map_34f170543a01c81be7e8a84690d43702" ></div>
         
 </body>
 <script>
     
     
-            var map_5b026f086dcf41d07c55239a730327fb = L.map(
-                "map_5b026f086dcf41d07c55239a730327fb",
+            var map_34f170543a01c81be7e8a84690d43702 = L.map(
+                "map_34f170543a01c81be7e8a84690d43702",
                 {
                     center: [20.0, 0.0],
                     crs: L.CRS.EPSG3857,
                     ...{
-  "maxBounds": [
-[
--90,
--180,
-],
-[
-90,
-180,
-],
-],
   "zoom": 3,
   "zoomControl": true,
   "preferCanvas": true,
+  "worldCopyJump": true,
 }
 
                 }
@@ -155,13 +146,13 @@
 
         
     
-            var tile_layer_a5d744a1dc8c25be0d77b035386a39ae = L.tileLayer(
+            var tile_layer_11075332e76f9a7d6582acdc6529e1e2 = L.tileLayer(
                 "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
                 {
   "minZoom": 0,
   "maxZoom": 20,
   "maxNativeZoom": 20,
-  "noWrap": true,
+  "noWrap": false,
   "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
   "subdomains": "abcd",
   "detectRetina": false,
@@ -182,17 +173,17 @@
             );
         
     
-            tile_layer_a5d744a1dc8c25be0d77b035386a39ae.addTo(map_5b026f086dcf41d07c55239a730327fb);
+            tile_layer_11075332e76f9a7d6582acdc6529e1e2.addTo(map_34f170543a01c81be7e8a84690d43702);
         
     
-            var feature_group_6611fc4422eca8901f6e1ccb4988904b = L.featureGroup(
+            var feature_group_e3d7f56238ed6d343e52c78666bd57de = L.featureGroup(
                 {
 }
             );
         
     
-            ant_path_f25776f8e22530b431aeae4db2d47514 = L.polyline.antPath(
-              [[40.7, -72.9], [54.9, 8.3], [52.4, 4.6], [50.1, -5.7]],
+            ant_path_945ac3a7ee17b597b83f1281c435e6e2 = L.polyline.antPath(
+              [[40.7, -72.9], [50.1, -5.7], [52.4, 4.6], [54.9, 8.3]],
               {
   "stroke": true,
   "color": "#00FFFF",
@@ -218,27 +209,27 @@
   "delay": 1000,
   "pulseColor": "#ffffff",
 }
-        ).addTo(feature_group_6611fc4422eca8901f6e1ccb4988904b);
+        ).addTo(feature_group_e3d7f56238ed6d343e52c78666bd57de);
         
     
-        var popup_26b078ccf615de70cca49f1d143360c7 = L.popup({
+        var popup_366f6737f78f2171856862968a6a1061 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_b4f3193cf9885677df18cfd1ea1e55ae = $(`<div id="html_b4f3193cf9885677df18cfd1ea1e55ae" style="width: 100.0%; height: 100.0%;">          <div style="font-family: sans-serif;">             <h5 style="margin: 0; color: #00FFFF;">Atlantic Crossing-1 (AC-1)</h5>             <b>Owners:</b> Lumen, Tata Communications<br>             <b>Status:</b> active<br>         </div>         </div>`)[0];
-                popup_26b078ccf615de70cca49f1d143360c7.setContent(html_b4f3193cf9885677df18cfd1ea1e55ae);
+                var html_0f2f42d1a73efa8132bc910608b47619 = $(`<div id="html_0f2f42d1a73efa8132bc910608b47619" style="width: 100.0%; height: 100.0%;">          <div style="font-family: sans-serif;">             <h5 style="margin: 0; color: #00FFFF;">Atlantic Crossing-1 (AC-1)</h5>             <b>Owners:</b> Lumen, Tata Communications<br>             <b>Status:</b> active<br>         </div>         </div>`)[0];
+                popup_366f6737f78f2171856862968a6a1061.setContent(html_0f2f42d1a73efa8132bc910608b47619);
             
         
 
-        ant_path_f25776f8e22530b431aeae4db2d47514.bindPopup(popup_26b078ccf615de70cca49f1d143360c7)
+        ant_path_945ac3a7ee17b597b83f1281c435e6e2.bindPopup(popup_366f6737f78f2171856862968a6a1061)
         ;
 
         
     
     
-            ant_path_f25776f8e22530b431aeae4db2d47514.bindTooltip(
+            ant_path_945ac3a7ee17b597b83f1281c435e6e2.bindTooltip(
                 `<div>
                      Atlantic Crossing-1 (AC-1)
                  </div>`,
@@ -248,7 +239,7 @@
             );
         
     
-            ant_path_e4395723be2ba51fb8abc2b2c5bdbf1f = L.polyline.antPath(
+            ant_path_34c7160bf9ac224081e246922c9c6963 = L.polyline.antPath(
               [[43.1, 5.9], [37.5, 15.0], [31.2, 29.9], [24.0, 38.0], [1.3, 103.8]],
               {
   "stroke": true,
@@ -275,27 +266,27 @@
   "delay": 1000,
   "pulseColor": "#ffffff",
 }
-        ).addTo(feature_group_6611fc4422eca8901f6e1ccb4988904b);
+        ).addTo(feature_group_e3d7f56238ed6d343e52c78666bd57de);
         
     
-        var popup_fdea8da95386d961bd0397abcd201414 = L.popup({
+        var popup_6d7e0c99955e759b35c9e2bbe162898b = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_f60019fde2c21aea48e1d70860925e70 = $(`<div id="html_f60019fde2c21aea48e1d70860925e70" style="width: 100.0%; height: 100.0%;">          <div style="font-family: sans-serif;">             <h5 style="margin: 0; color: #00FFFF;">SeaMeWe-5</h5>             <b>Owners:</b> Consortium<br>             <b>Status:</b> active<br>         </div>         </div>`)[0];
-                popup_fdea8da95386d961bd0397abcd201414.setContent(html_f60019fde2c21aea48e1d70860925e70);
+                var html_b1ccc5c5ec7b12c431d809ffeae6693f = $(`<div id="html_b1ccc5c5ec7b12c431d809ffeae6693f" style="width: 100.0%; height: 100.0%;">          <div style="font-family: sans-serif;">             <h5 style="margin: 0; color: #00FFFF;">SeaMeWe-5</h5>             <b>Owners:</b> Consortium<br>             <b>Status:</b> active<br>         </div>         </div>`)[0];
+                popup_6d7e0c99955e759b35c9e2bbe162898b.setContent(html_b1ccc5c5ec7b12c431d809ffeae6693f);
             
         
 
-        ant_path_e4395723be2ba51fb8abc2b2c5bdbf1f.bindPopup(popup_fdea8da95386d961bd0397abcd201414)
+        ant_path_34c7160bf9ac224081e246922c9c6963.bindPopup(popup_6d7e0c99955e759b35c9e2bbe162898b)
         ;
 
         
     
     
-            ant_path_e4395723be2ba51fb8abc2b2c5bdbf1f.bindTooltip(
+            ant_path_34c7160bf9ac224081e246922c9c6963.bindTooltip(
                 `<div>
                      SeaMeWe-5
                  </div>`,
@@ -305,8 +296,8 @@
             );
         
     
-            ant_path_f96e70c68692e8ac4bba763031972e04 = L.polyline.antPath(
-              [[45.6, -123.9], [36.0, 120.3], [34.8, 128.6], [25.1, 121.4]],
+            ant_path_f604ed321e4cf5b61c05ac76431ad763 = L.polyline.antPath(
+              [[45.6, -123.9], [36.0, -239.7], [34.8, -231.4], [25.1, -238.6]],
               {
   "stroke": true,
   "color": "#00FFFF",
@@ -332,27 +323,27 @@
   "delay": 1000,
   "pulseColor": "#ffffff",
 }
-        ).addTo(feature_group_6611fc4422eca8901f6e1ccb4988904b);
+        ).addTo(feature_group_e3d7f56238ed6d343e52c78666bd57de);
         
     
-        var popup_dd2f5b0545e140f9a6f45b407b9f9914 = L.popup({
+        var popup_ad60033cab90c72076e97bc80345b00b = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_9c1078691fb9696c1412cb452da6ba9a = $(`<div id="html_9c1078691fb9696c1412cb452da6ba9a" style="width: 100.0%; height: 100.0%;">          <div style="font-family: sans-serif;">             <h5 style="margin: 0; color: #00FFFF;">Trans-Pacific Express (TPE)</h5>             <b>Owners:</b> China Telecom, Verizon, KT...<br>             <b>Status:</b> active<br>         </div>         </div>`)[0];
-                popup_dd2f5b0545e140f9a6f45b407b9f9914.setContent(html_9c1078691fb9696c1412cb452da6ba9a);
+                var html_2dcda2c87a9f4025b75535c8992e9c5d = $(`<div id="html_2dcda2c87a9f4025b75535c8992e9c5d" style="width: 100.0%; height: 100.0%;">          <div style="font-family: sans-serif;">             <h5 style="margin: 0; color: #00FFFF;">Trans-Pacific Express (TPE)</h5>             <b>Owners:</b> China Telecom, Verizon, KT...<br>             <b>Status:</b> active<br>         </div>         </div>`)[0];
+                popup_ad60033cab90c72076e97bc80345b00b.setContent(html_2dcda2c87a9f4025b75535c8992e9c5d);
             
         
 
-        ant_path_f96e70c68692e8ac4bba763031972e04.bindPopup(popup_dd2f5b0545e140f9a6f45b407b9f9914)
+        ant_path_f604ed321e4cf5b61c05ac76431ad763.bindPopup(popup_ad60033cab90c72076e97bc80345b00b)
         ;
 
         
     
     
-            ant_path_f96e70c68692e8ac4bba763031972e04.bindTooltip(
+            ant_path_f604ed321e4cf5b61c05ac76431ad763.bindTooltip(
                 `<div>
                      Trans-Pacific Express (TPE)
                  </div>`,
@@ -362,39 +353,39 @@
             );
         
     
-            feature_group_6611fc4422eca8901f6e1ccb4988904b.addTo(map_5b026f086dcf41d07c55239a730327fb);
+            feature_group_e3d7f56238ed6d343e52c78666bd57de.addTo(map_34f170543a01c81be7e8a84690d43702);
         
     
-            var feature_group_3aab7a1aae3af0ff84ab47f91b41adf1 = L.featureGroup(
+            var feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e = L.featureGroup(
                 {
 }
             );
         
     
-            var circle_marker_244f8bc855cad137f4e26847452bbc78 = L.circleMarker(
+            var circle_marker_c5f5296e2fbbc9c930ab15ac13fe50d0 = L.circleMarker(
                 [40.2442, -82.859],
                 {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": "5,5", "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 1}
-            ).addTo(feature_group_3aab7a1aae3af0ff84ab47f91b41adf1);
+            ).addTo(feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e);
         
     
-        var popup_f33a206b691d9dcb3f32a1e840d6bbdf = L.popup({
+        var popup_f301a21f1440450a9d5706f5ce7c927d = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_1b3348c750e4b01f8f999daca0d61db7 = $(`<div id="html_1b3348c750e4b01f8f999daca0d61db7" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">AWS Sunbury Campus</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Amazon<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Sunbury, USA<br>             <em style="font-size: 0.9em; color: #aaa;">Midwest Cloud Expansion</em>                      </div>         </div>`)[0];
-                popup_f33a206b691d9dcb3f32a1e840d6bbdf.setContent(html_1b3348c750e4b01f8f999daca0d61db7);
+                var html_942f80674fe4656cd88467dfbbd01d27 = $(`<div id="html_942f80674fe4656cd88467dfbbd01d27" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">AWS Sunbury Campus</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Amazon<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Sunbury, USA<br>             <em style="font-size: 0.9em; color: #aaa;">Midwest Cloud Expansion</em>                      </div>         </div>`)[0];
+                popup_f301a21f1440450a9d5706f5ce7c927d.setContent(html_942f80674fe4656cd88467dfbbd01d27);
             
         
 
-        circle_marker_244f8bc855cad137f4e26847452bbc78.bindPopup(popup_f33a206b691d9dcb3f32a1e840d6bbdf)
+        circle_marker_c5f5296e2fbbc9c930ab15ac13fe50d0.bindPopup(popup_f301a21f1440450a9d5706f5ce7c927d)
         ;
 
         
     
     
-            circle_marker_244f8bc855cad137f4e26847452bbc78.bindTooltip(
+            circle_marker_c5f5296e2fbbc9c930ab15ac13fe50d0.bindTooltip(
                 `<div>
                      AWS Sunbury Campus (PLANNED)
                  </div>`,
@@ -404,30 +395,30 @@
             );
         
     
-            var circle_marker_61ef986e78343fbcc0ca31646a328788 = L.circleMarker(
+            var circle_marker_4f5eb52dac15a6b03146ee91aea5a88d = L.circleMarker(
                 [41.0913, -76.1472],
                 {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": "5,5", "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 1}
-            ).addTo(feature_group_3aab7a1aae3af0ff84ab47f91b41adf1);
+            ).addTo(feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e);
         
     
-        var popup_cd3722b4706c41845958fbade16136eb = L.popup({
+        var popup_d0d93d0461b9dc19bdfc869662478eff = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_17b0ea20fadc5486ac8c87da06185a27 = $(`<div id="html_17b0ea20fadc5486ac8c87da06185a27" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">AWS Susquehanna Campus</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Amazon<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Salem Township, USA<br>             <em style="font-size: 0.9em; color: #aaa;">Nuclear-Powered Cloud</em>                      </div>         </div>`)[0];
-                popup_cd3722b4706c41845958fbade16136eb.setContent(html_17b0ea20fadc5486ac8c87da06185a27);
+                var html_ae7c07f7f0802d2dd3f424d8fd86496d = $(`<div id="html_ae7c07f7f0802d2dd3f424d8fd86496d" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">AWS Susquehanna Campus</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Amazon<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Salem Township, USA<br>             <em style="font-size: 0.9em; color: #aaa;">Nuclear-Powered Cloud</em>                      </div>         </div>`)[0];
+                popup_d0d93d0461b9dc19bdfc869662478eff.setContent(html_ae7c07f7f0802d2dd3f424d8fd86496d);
             
         
 
-        circle_marker_61ef986e78343fbcc0ca31646a328788.bindPopup(popup_cd3722b4706c41845958fbade16136eb)
+        circle_marker_4f5eb52dac15a6b03146ee91aea5a88d.bindPopup(popup_d0d93d0461b9dc19bdfc869662478eff)
         ;
 
         
     
     
-            circle_marker_61ef986e78343fbcc0ca31646a328788.bindTooltip(
+            circle_marker_4f5eb52dac15a6b03146ee91aea5a88d.bindTooltip(
                 `<div>
                      AWS Susquehanna Campus (PLANNED)
                  </div>`,
@@ -437,30 +428,30 @@
             );
         
     
-            var circle_marker_35470d894916b0cc612a983d7852e2b1 = L.circleMarker(
+            var circle_marker_0ed85f667fae733427b8011ab81b56ff = L.circleMarker(
                 [41.0793, -85.1394],
                 {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": "5,5", "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 1}
-            ).addTo(feature_group_3aab7a1aae3af0ff84ab47f91b41adf1);
+            ).addTo(feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e);
         
     
-        var popup_2a8adee3392c13bc9ca8305702c8619d = L.popup({
+        var popup_11a4d8580377bb442960f3ded2cc7cc2 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_82eae14b9ae49a00264e217739a5166e = $(`<div id="html_82eae14b9ae49a00264e217739a5166e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">Google Fort Wayne Campus</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Google<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Fort Wayne, USA<br>             <em style="font-size: 0.9em; color: #aaa;">AI & Cloud Services</em>                      </div>         </div>`)[0];
-                popup_2a8adee3392c13bc9ca8305702c8619d.setContent(html_82eae14b9ae49a00264e217739a5166e);
+                var html_450b91de60c8add4407f47f5f8d0d5fe = $(`<div id="html_450b91de60c8add4407f47f5f8d0d5fe" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">Google Fort Wayne Campus</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Google<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Fort Wayne, USA<br>             <em style="font-size: 0.9em; color: #aaa;">AI & Cloud Services</em>                      </div>         </div>`)[0];
+                popup_11a4d8580377bb442960f3ded2cc7cc2.setContent(html_450b91de60c8add4407f47f5f8d0d5fe);
             
         
 
-        circle_marker_35470d894916b0cc612a983d7852e2b1.bindPopup(popup_2a8adee3392c13bc9ca8305702c8619d)
+        circle_marker_0ed85f667fae733427b8011ab81b56ff.bindPopup(popup_11a4d8580377bb442960f3ded2cc7cc2)
         ;
 
         
     
     
-            circle_marker_35470d894916b0cc612a983d7852e2b1.bindTooltip(
+            circle_marker_0ed85f667fae733427b8011ab81b56ff.bindTooltip(
                 `<div>
                      Google Fort Wayne Campus (PLANNED)
                  </div>`,
@@ -470,30 +461,30 @@
             );
         
     
-            var circle_marker_b315294ce3337c3b7f2595a7af87c2b0 = L.circleMarker(
+            var circle_marker_392838c06b5459868da9fd25f4b40784 = L.circleMarker(
                 [40.8136, -96.7026],
                 {"bubblingMouseEvents": true, "color": "#f1c40f", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f1c40f", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 1}
-            ).addTo(feature_group_3aab7a1aae3af0ff84ab47f91b41adf1);
+            ).addTo(feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e);
         
     
-        var popup_cd23ed063db50953659d766a2a344b48 = L.popup({
+        var popup_fad215e05d39e71939a1c7fc8660cb3a = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_f1d76baf821638c2d0644ec5290c2916 = $(`<div id="html_f1d76baf821638c2d0644ec5290c2916" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #f1c40f;">Google Lincoln Campus</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Google<br>             <b>Status:</b> UNDER_CONSTRUCTION<br>             <b>Loc:</b> Lincoln, USA<br>             <em style="font-size: 0.9em; color: #aaa;">Central US Expansion</em>                      </div>         </div>`)[0];
-                popup_cd23ed063db50953659d766a2a344b48.setContent(html_f1d76baf821638c2d0644ec5290c2916);
+                var html_2a0ffc0dc51d7f3c700d7cee577e8229 = $(`<div id="html_2a0ffc0dc51d7f3c700d7cee577e8229" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #f1c40f;">Google Lincoln Campus</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Google<br>             <b>Status:</b> UNDER_CONSTRUCTION<br>             <b>Loc:</b> Lincoln, USA<br>             <em style="font-size: 0.9em; color: #aaa;">Central US Expansion</em>                      </div>         </div>`)[0];
+                popup_fad215e05d39e71939a1c7fc8660cb3a.setContent(html_2a0ffc0dc51d7f3c700d7cee577e8229);
             
         
 
-        circle_marker_b315294ce3337c3b7f2595a7af87c2b0.bindPopup(popup_cd23ed063db50953659d766a2a344b48)
+        circle_marker_392838c06b5459868da9fd25f4b40784.bindPopup(popup_fad215e05d39e71939a1c7fc8660cb3a)
         ;
 
         
     
     
-            circle_marker_b315294ce3337c3b7f2595a7af87c2b0.bindTooltip(
+            circle_marker_392838c06b5459868da9fd25f4b40784.bindTooltip(
                 `<div>
                      Google Lincoln Campus (UNDER_CONSTRUCTION)
                  </div>`,
@@ -503,30 +494,30 @@
             );
         
     
-            var circle_marker_f75d0df5c68b73583ab7c2e8ded59aaf = L.circleMarker(
+            var circle_marker_3efa2d1c6c0343283201c34a93fa4809 = L.circleMarker(
                 [17.385, 78.4867],
                 {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": "5,5", "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 1}
-            ).addTo(feature_group_3aab7a1aae3af0ff84ab47f91b41adf1);
+            ).addTo(feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e);
         
     
-        var popup_f8dd50d345d487be50d18fc9eeacb154 = L.popup({
+        var popup_32ad535bcb11d2d026d892911edcc148 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_41fe79eee99d618b0daaa855e194b199 = $(`<div id="html_41fe79eee99d618b0daaa855e194b199" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">Microsoft Hyderabad Expansion</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Microsoft<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Hyderabad, India<br>             <em style="font-size: 0.9em; color: #aaa;">Azure India Growth</em>                      </div>         </div>`)[0];
-                popup_f8dd50d345d487be50d18fc9eeacb154.setContent(html_41fe79eee99d618b0daaa855e194b199);
+                var html_de0c572395b8ee93be0988cbac019b2f = $(`<div id="html_de0c572395b8ee93be0988cbac019b2f" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">Microsoft Hyderabad Expansion</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Microsoft<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Hyderabad, India<br>             <em style="font-size: 0.9em; color: #aaa;">Azure India Growth</em>                      </div>         </div>`)[0];
+                popup_32ad535bcb11d2d026d892911edcc148.setContent(html_de0c572395b8ee93be0988cbac019b2f);
             
         
 
-        circle_marker_f75d0df5c68b73583ab7c2e8ded59aaf.bindPopup(popup_f8dd50d345d487be50d18fc9eeacb154)
+        circle_marker_3efa2d1c6c0343283201c34a93fa4809.bindPopup(popup_32ad535bcb11d2d026d892911edcc148)
         ;
 
         
     
     
-            circle_marker_f75d0df5c68b73583ab7c2e8ded59aaf.bindTooltip(
+            circle_marker_3efa2d1c6c0343283201c34a93fa4809.bindTooltip(
                 `<div>
                      Microsoft Hyderabad Expansion (PLANNED)
                  </div>`,
@@ -536,30 +527,30 @@
             );
         
     
-            var circle_marker_3fb50fa8c005ad16dd1c83d8f3bbaad0 = L.circleMarker(
+            var circle_marker_599a7514aa6a8d3c94c47a67e91bbb88 = L.circleMarker(
                 [42.7208, -87.9525],
                 {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": "5,5", "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 1}
-            ).addTo(feature_group_3aab7a1aae3af0ff84ab47f91b41adf1);
+            ).addTo(feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e);
         
     
-        var popup_3e478b752afb5f71f58f7cee425e193d = L.popup({
+        var popup_7af76669bb2cc581e0cd2f40a672f68b = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_0a373af2eeef59077732bd36dd4e3440 = $(`<div id="html_0a373af2eeef59077732bd36dd4e3440" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">Microsoft Project Fairwater</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Microsoft<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Mount Pleasant, USA<br>             <em style="font-size: 0.9em; color: #aaa;">Hyperscale AI Cloud</em>                      </div>         </div>`)[0];
-                popup_3e478b752afb5f71f58f7cee425e193d.setContent(html_0a373af2eeef59077732bd36dd4e3440);
+                var html_2a15817b04597f4fca78c9c254c20b54 = $(`<div id="html_2a15817b04597f4fca78c9c254c20b54" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">Microsoft Project Fairwater</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Microsoft<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Mount Pleasant, USA<br>             <em style="font-size: 0.9em; color: #aaa;">Hyperscale AI Cloud</em>                      </div>         </div>`)[0];
+                popup_7af76669bb2cc581e0cd2f40a672f68b.setContent(html_2a15817b04597f4fca78c9c254c20b54);
             
         
 
-        circle_marker_3fb50fa8c005ad16dd1c83d8f3bbaad0.bindPopup(popup_3e478b752afb5f71f58f7cee425e193d)
+        circle_marker_599a7514aa6a8d3c94c47a67e91bbb88.bindPopup(popup_7af76669bb2cc581e0cd2f40a672f68b)
         ;
 
         
     
     
-            circle_marker_3fb50fa8c005ad16dd1c83d8f3bbaad0.bindTooltip(
+            circle_marker_599a7514aa6a8d3c94c47a67e91bbb88.bindTooltip(
                 `<div>
                      Microsoft Project Fairwater (PLANNED)
                  </div>`,
@@ -569,30 +560,30 @@
             );
         
     
-            var circle_marker_4903b044eac41d7b6fd0d4d96531858a = L.circleMarker(
+            var circle_marker_992bc66de076807b89c8dc3a20d07797 = L.circleMarker(
                 [34.9919, -89.9922],
                 {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": "5,5", "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 1}
-            ).addTo(feature_group_3aab7a1aae3af0ff84ab47f91b41adf1);
+            ).addTo(feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e);
         
     
-        var popup_82779d63a1ea44f4526e5286c656aa12 = L.popup({
+        var popup_d8bc9bc43e4a5a95ae1a2dbdb86bf4e3 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_9be180f1acc1813cc3383df7fa491f1d = $(`<div id="html_9be180f1acc1813cc3383df7fa491f1d" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">xAI Colossus 2 (Planned)</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> xAI<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Southaven, USA<br>             <em style="font-size: 0.9em; color: #aaa;">AI Training Expansion</em>                      </div>         </div>`)[0];
-                popup_82779d63a1ea44f4526e5286c656aa12.setContent(html_9be180f1acc1813cc3383df7fa491f1d);
+                var html_70a4a0058412a393f08b43811a0918b9 = $(`<div id="html_70a4a0058412a393f08b43811a0918b9" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">xAI Colossus 2 (Planned)</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> xAI<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Southaven, USA<br>             <em style="font-size: 0.9em; color: #aaa;">AI Training Expansion</em>                      </div>         </div>`)[0];
+                popup_d8bc9bc43e4a5a95ae1a2dbdb86bf4e3.setContent(html_70a4a0058412a393f08b43811a0918b9);
             
         
 
-        circle_marker_4903b044eac41d7b6fd0d4d96531858a.bindPopup(popup_82779d63a1ea44f4526e5286c656aa12)
+        circle_marker_992bc66de076807b89c8dc3a20d07797.bindPopup(popup_d8bc9bc43e4a5a95ae1a2dbdb86bf4e3)
         ;
 
         
     
     
-            circle_marker_4903b044eac41d7b6fd0d4d96531858a.bindTooltip(
+            circle_marker_992bc66de076807b89c8dc3a20d07797.bindTooltip(
                 `<div>
                      xAI Colossus 2 (Planned) (PLANNED)
                  </div>`,
@@ -602,30 +593,30 @@
             );
         
     
-            var circle_marker_8cc2091af9e6d5cf81a23ae3bd1f9b6a = L.circleMarker(
+            var circle_marker_044099357505da6dc6c6e1bf096688d8 = L.circleMarker(
                 [35.1495, -90.049],
                 {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2ecc71", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 1}
-            ).addTo(feature_group_3aab7a1aae3af0ff84ab47f91b41adf1);
+            ).addTo(feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e);
         
     
-        var popup_6b8a9abac93a7d7e0cb25f2dfc715af2 = L.popup({
+        var popup_669bceec08405255e80ce4ac5a5c6edb = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_9f6b527ef4555edfc3a4d68cd4540f09 = $(`<div id="html_9f6b527ef4555edfc3a4d68cd4540f09" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #2ecc71;">xAI Colossus Supercluster</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> xAI<br>             <b>Status:</b> ACTIVE<br>             <b>Loc:</b> Memphis, USA<br>             <em style="font-size: 0.9em; color: #aaa;">AI Training (100k H100s)</em>                      </div>         </div>`)[0];
-                popup_6b8a9abac93a7d7e0cb25f2dfc715af2.setContent(html_9f6b527ef4555edfc3a4d68cd4540f09);
+                var html_93122b319d562c429853854578432625 = $(`<div id="html_93122b319d562c429853854578432625" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #2ecc71;">xAI Colossus Supercluster</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> xAI<br>             <b>Status:</b> ACTIVE<br>             <b>Loc:</b> Memphis, USA<br>             <em style="font-size: 0.9em; color: #aaa;">AI Training (100k H100s)</em>                      </div>         </div>`)[0];
+                popup_669bceec08405255e80ce4ac5a5c6edb.setContent(html_93122b319d562c429853854578432625);
             
         
 
-        circle_marker_8cc2091af9e6d5cf81a23ae3bd1f9b6a.bindPopup(popup_6b8a9abac93a7d7e0cb25f2dfc715af2)
+        circle_marker_044099357505da6dc6c6e1bf096688d8.bindPopup(popup_669bceec08405255e80ce4ac5a5c6edb)
         ;
 
         
     
     
-            circle_marker_8cc2091af9e6d5cf81a23ae3bd1f9b6a.bindTooltip(
+            circle_marker_044099357505da6dc6c6e1bf096688d8.bindTooltip(
                 `<div>
                      xAI Colossus Supercluster (ACTIVE)
                  </div>`,
@@ -635,32 +626,32 @@
             );
         
     
-            var circle_marker_9d1ea4c808e8e30e180fc6bfa6393217 = L.circleMarker(
+            var circle_marker_85699882b9e074a7b21546e20471ce1f = L.circleMarker(
                 [53.349805, -6.26031],
                 {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": "5,5", "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 1}
-            ).addTo(feature_group_3aab7a1aae3af0ff84ab47f91b41adf1);
+            ).addTo(feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e);
         
     
-        var popup_d0f4c381365544eca119f7567581da0f = L.popup({
+        var popup_2bbb79ad66303062a0efb91acd91330a = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_9aa07c36062ea2aac52fe5a890116577 = $(`<div id="html_9aa07c36062ea2aac52fe5a890116577" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">AWS New Data Centers - Dublin</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> AWS<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Dublin, Ireland<br>             <em style="font-size: 0.9em; color: #aaa;">Cloud Region</em>             <hr><a href="https://www.datacenterdynamics.com/en/news/aws-gets-greenlight-for-three-data-centers-in-dublin-ireland-again/" target="_blank" style="color:#3498db">Source</a>         </div>         </div>`)[0];
-                popup_d0f4c381365544eca119f7567581da0f.setContent(html_9aa07c36062ea2aac52fe5a890116577);
+                var html_d9b568d05210b404fcf7d41ad22c1239 = $(`<div id="html_d9b568d05210b404fcf7d41ad22c1239" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">AWS Data Centers - Dublin</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> AWS<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Dublin, Ireland<br>             <em style="font-size: 0.9em; color: #aaa;">Cloud Region</em>             <hr><a href="https://www.datacenterdynamics.com/en/news/aws-gets-greenlight-for-three-data-centers-in-dublin-ireland-again/" target="_blank" style="color:#3498db">Source</a>         </div>         </div>`)[0];
+                popup_2bbb79ad66303062a0efb91acd91330a.setContent(html_d9b568d05210b404fcf7d41ad22c1239);
             
         
 
-        circle_marker_9d1ea4c808e8e30e180fc6bfa6393217.bindPopup(popup_d0f4c381365544eca119f7567581da0f)
+        circle_marker_85699882b9e074a7b21546e20471ce1f.bindPopup(popup_2bbb79ad66303062a0efb91acd91330a)
         ;
 
         
     
     
-            circle_marker_9d1ea4c808e8e30e180fc6bfa6393217.bindTooltip(
+            circle_marker_85699882b9e074a7b21546e20471ce1f.bindTooltip(
                 `<div>
-                     AWS New Data Centers - Dublin (PLANNED)
+                     AWS Data Centers - Dublin (PLANNED)
                  </div>`,
                 {
   "sticky": true,
@@ -668,30 +659,30 @@
             );
         
     
-            var circle_marker_c91edd6c9d3834dcc71ffdbc5169c868 = L.circleMarker(
-                [0.0, 0.0],
+            var circle_marker_1fc8ee08665290d59d37d1bc36b4a9f2 = L.circleMarker(
+                [53.1396, -4.2739],
                 {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": "5,5", "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 1}
-            ).addTo(feature_group_3aab7a1aae3af0ff84ab47f91b41adf1);
+            ).addTo(feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e);
         
     
-        var popup_c58d6e3f22e686111b611d48d987375a = L.popup({
+        var popup_3178df341a74e3cdba912a1a1377353a = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_20ff45bfb426f7954e9550be95aaccb1 = $(`<div id="html_20ff45bfb426f7954e9550be95aaccb1" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">Former Ferodo Factory Data Center</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Unknown<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Caernarfon, United Kingdom<br>             <em style="font-size: 0.9em; color: #aaa;">Data Center Development</em>             <hr><a href="https://www.datacenterdynamics.com/en/news/former-automotive-factory-in-wales-eyed-for-data-center-development/" target="_blank" style="color:#3498db">Source</a>         </div>         </div>`)[0];
-                popup_c58d6e3f22e686111b611d48d987375a.setContent(html_20ff45bfb426f7954e9550be95aaccb1);
+                var html_ba6cca84cc58d261a40cc98e83f316e5 = $(`<div id="html_ba6cca84cc58d261a40cc98e83f316e5" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">Former Ferodo Factory Data Center</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> Unknown<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Caernarfon, United Kingdom<br>             <em style="font-size: 0.9em; color: #aaa;">Data Center Development</em>             <hr><a href="https://www.datacenterdynamics.com/en/news/former-automotive-factory-in-wales-eyed-for-data-center-development/" target="_blank" style="color:#3498db">Source</a>         </div>         </div>`)[0];
+                popup_3178df341a74e3cdba912a1a1377353a.setContent(html_ba6cca84cc58d261a40cc98e83f316e5);
             
         
 
-        circle_marker_c91edd6c9d3834dcc71ffdbc5169c868.bindPopup(popup_c58d6e3f22e686111b611d48d987375a)
+        circle_marker_1fc8ee08665290d59d37d1bc36b4a9f2.bindPopup(popup_3178df341a74e3cdba912a1a1377353a)
         ;
 
         
     
     
-            circle_marker_c91edd6c9d3834dcc71ffdbc5169c868.bindTooltip(
+            circle_marker_1fc8ee08665290d59d37d1bc36b4a9f2.bindTooltip(
                 `<div>
                      Former Ferodo Factory Data Center (PLANNED)
                  </div>`,
@@ -701,30 +692,30 @@
             );
         
     
-            var circle_marker_bc957fa710ec7d12f1aa382bdc826654 = L.circleMarker(
+            var circle_marker_dd84059ba052b7cc88a04a7b03d40e31 = L.circleMarker(
                 [0.0, 0.0],
                 {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": "5,5", "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 1}
-            ).addTo(feature_group_3aab7a1aae3af0ff84ab47f91b41adf1);
+            ).addTo(feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e);
         
     
-        var popup_eb13fbdafd60dbe4645ad323051f408d = L.popup({
+        var popup_f19394fa78d1bede03939762b9b00c09 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_86c856e7983b5797eabee91dc9800bcc = $(`<div id="html_86c856e7983b5797eabee91dc9800bcc" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">E-Heat Containerized Data Center - Lapland</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> E-Heat<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Unknown, Finland<br>             <em style="font-size: 0.9em; color: #aaa;">Local Heating Network Integration</em>             <hr><a href="https://www.datacenterdynamics.com/en/news/finlands-vatajankoski-and-e-heat-plug-containerized-data-center-into-local-heating-network/" target="_blank" style="color:#3498db">Source</a>         </div>         </div>`)[0];
-                popup_eb13fbdafd60dbe4645ad323051f408d.setContent(html_86c856e7983b5797eabee91dc9800bcc);
+                var html_835867c6fccb37bd0fe9971a761f020b = $(`<div id="html_835867c6fccb37bd0fe9971a761f020b" style="width: 100.0%; height: 100.0%;">         <div style="font-family: sans-serif; min-width: 200px;">             <h4 style="margin: 0; color: #9b59b6;">E-Heat Containerized Data Center - Lapland</h4>             <hr style="border: 0; border-top: 1px solid #555; margin: 5px 0;">             <b>Owner:</b> E-Heat<br>             <b>Status:</b> PLANNED<br>             <b>Loc:</b> Lapland, Finland<br>             <em style="font-size: 0.9em; color: #aaa;">Local Heating Network Integration</em>             <hr><a href="https://www.datacenterdynamics.com/en/news/finlands-vatajankoski-and-e-heat-plug-containerized-data-center-into-local-heating-network/" target="_blank" style="color:#3498db">Source</a>         </div>         </div>`)[0];
+                popup_f19394fa78d1bede03939762b9b00c09.setContent(html_835867c6fccb37bd0fe9971a761f020b);
             
         
 
-        circle_marker_bc957fa710ec7d12f1aa382bdc826654.bindPopup(popup_eb13fbdafd60dbe4645ad323051f408d)
+        circle_marker_dd84059ba052b7cc88a04a7b03d40e31.bindPopup(popup_f19394fa78d1bede03939762b9b00c09)
         ;
 
         
     
     
-            circle_marker_bc957fa710ec7d12f1aa382bdc826654.bindTooltip(
+            circle_marker_dd84059ba052b7cc88a04a7b03d40e31.bindTooltip(
                 `<div>
                      E-Heat Containerized Data Center - Lapland (PLANNED)
                  </div>`,
@@ -734,250 +725,250 @@
             );
         
     
-            feature_group_3aab7a1aae3af0ff84ab47f91b41adf1.addTo(map_5b026f086dcf41d07c55239a730327fb);
+            feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e.addTo(map_34f170543a01c81be7e8a84690d43702);
         
     
-            var feature_group_5b0c337972a59a6bfaa8cf148692cfb7 = L.featureGroup(
+            var feature_group_b93ace9bb9616109ca76ef46834d09bf = L.featureGroup(
                 {
 }
             );
         
     
-            var marker_21f2cf07e432f1ebef7ccba3a655cc2c = L.marker(
+            var marker_18e2ff950ea5c1e0edde1ad07da9214a = L.marker(
                 [40.7442, -82.859],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_7b7313188c77cb1794b4f39558fe0d20 = L.divIcon({
+            var div_icon_964f608ad8ac4d63307433a5bcc8f6aa = L.divIcon({
   "html": "\u003cdiv class=\"map-label\"\u003eSunbury\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_21f2cf07e432f1ebef7ccba3a655cc2c.setIcon(div_icon_7b7313188c77cb1794b4f39558fe0d20);
+                marker_18e2ff950ea5c1e0edde1ad07da9214a.setIcon(div_icon_964f608ad8ac4d63307433a5bcc8f6aa);
             
     
-            var marker_d8088b50ae71f6059e136862102f17aa = L.marker(
+            var marker_b0a427068d03075d93c62b067500f703 = L.marker(
                 [41.5913, -76.1472],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_d0428721481ec60c47750c4a43afc7d8 = L.divIcon({
+            var div_icon_872ed4431916a32e97f634f932d810c0 = L.divIcon({
   "html": "\u003cdiv class=\"map-label\"\u003eSalem Township\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_d8088b50ae71f6059e136862102f17aa.setIcon(div_icon_d0428721481ec60c47750c4a43afc7d8);
+                marker_b0a427068d03075d93c62b067500f703.setIcon(div_icon_872ed4431916a32e97f634f932d810c0);
             
     
-            var marker_227b354f5fa56500efa9266d3084c01e = L.marker(
+            var marker_28641cff64ddae2293151adab19c263d = L.marker(
                 [52.4, 4.6],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_98082f783366125d8652b69ff64aaf92 = L.divIcon({
+            var div_icon_ab8006eb5c42ee947070f2a74f853f4a = L.divIcon({
   "html": "\u003cdiv class=\"map-label\" style=\"color:#00FFFF\"\u003eAtlantic Crossing-1 (AC-1)\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_227b354f5fa56500efa9266d3084c01e.setIcon(div_icon_98082f783366125d8652b69ff64aaf92);
+                marker_28641cff64ddae2293151adab19c263d.setIcon(div_icon_ab8006eb5c42ee947070f2a74f853f4a);
             
     
-            var marker_2e31856dc21a3111281b903827c1707a = L.marker(
+            var marker_dcd2dd3437cb6d6909f058978e3a351b = L.marker(
                 [41.5793, -85.1394],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_adca1d4afb6a21c90b9ef43dcfa79dfa = L.divIcon({
+            var div_icon_f684dde7dd164ba0f804472ec7390802 = L.divIcon({
   "html": "\u003cdiv class=\"map-label\"\u003eFort Wayne\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_2e31856dc21a3111281b903827c1707a.setIcon(div_icon_adca1d4afb6a21c90b9ef43dcfa79dfa);
+                marker_dcd2dd3437cb6d6909f058978e3a351b.setIcon(div_icon_f684dde7dd164ba0f804472ec7390802);
             
     
-            var marker_6aadec7084ff851721197c1792fe9d04 = L.marker(
+            var marker_bf4089e11d2b85dd927153bf9a5a6b01 = L.marker(
                 [41.3136, -96.7026],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_c24e3e7965773c84fff6ae22c8d2e34d = L.divIcon({
+            var div_icon_936c3fb28322f3f9048e54ccca75a48e = L.divIcon({
   "html": "\u003cdiv class=\"map-label\"\u003eLincoln\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_6aadec7084ff851721197c1792fe9d04.setIcon(div_icon_c24e3e7965773c84fff6ae22c8d2e34d);
+                marker_bf4089e11d2b85dd927153bf9a5a6b01.setIcon(div_icon_936c3fb28322f3f9048e54ccca75a48e);
             
     
-            var marker_c3235e7c21945ad1356710b4701de1fa = L.marker(
+            var marker_2acf162264d41ade415cf6c6f73b8552 = L.marker(
                 [17.885, 78.4867],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_3358ebe95d33ff85e476dde6f791fffa = L.divIcon({
+            var div_icon_0cfe21236cd07b76079f713d2e41c5ee = L.divIcon({
   "html": "\u003cdiv class=\"map-label\"\u003eHyderabad\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_c3235e7c21945ad1356710b4701de1fa.setIcon(div_icon_3358ebe95d33ff85e476dde6f791fffa);
+                marker_2acf162264d41ade415cf6c6f73b8552.setIcon(div_icon_0cfe21236cd07b76079f713d2e41c5ee);
             
     
-            var marker_9d464a04b1d27047d2d852159f707e41 = L.marker(
+            var marker_660b503c0e19963c8c27a4c4658095b7 = L.marker(
                 [43.2208, -87.9525],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_666b94edc1199b641d1c23ad4b046516 = L.divIcon({
+            var div_icon_079e8928115c7dd1032d1dd6accec81e = L.divIcon({
   "html": "\u003cdiv class=\"map-label\"\u003eMount Pleasant\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_9d464a04b1d27047d2d852159f707e41.setIcon(div_icon_666b94edc1199b641d1c23ad4b046516);
+                marker_660b503c0e19963c8c27a4c4658095b7.setIcon(div_icon_079e8928115c7dd1032d1dd6accec81e);
             
     
-            var marker_0deb1ff7928a30588e0d916e251ae5b6 = L.marker(
+            var marker_968f8f2e5422feb2ae6a1972bb9cb839 = L.marker(
                 [31.2, 29.9],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_d70f07a5e22f4e5d2fe9035728d4f96f = L.divIcon({
+            var div_icon_d42b0fb9ce53f880065e4e50c689e5bf = L.divIcon({
   "html": "\u003cdiv class=\"map-label\" style=\"color:#00FFFF\"\u003eSeaMeWe-5\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_0deb1ff7928a30588e0d916e251ae5b6.setIcon(div_icon_d70f07a5e22f4e5d2fe9035728d4f96f);
+                marker_968f8f2e5422feb2ae6a1972bb9cb839.setIcon(div_icon_d42b0fb9ce53f880065e4e50c689e5bf);
             
     
-            var marker_fff84d6ecf4530ad5b002c3c5821ad0e = L.marker(
-                [34.8, 128.6],
+            var marker_e1a580e41778b0e3ad926b5c3c5facc1 = L.marker(
+                [34.8, -231.4],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_b58055e09308acc261117cff4bec01b5 = L.divIcon({
+            var div_icon_1ae1e08793c58439a765448c4087e13a = L.divIcon({
   "html": "\u003cdiv class=\"map-label\" style=\"color:#00FFFF\"\u003eTrans-Pacific Express (TPE)\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_fff84d6ecf4530ad5b002c3c5821ad0e.setIcon(div_icon_b58055e09308acc261117cff4bec01b5);
+                marker_e1a580e41778b0e3ad926b5c3c5facc1.setIcon(div_icon_1ae1e08793c58439a765448c4087e13a);
             
     
-            var marker_b9dfd06576f9b5c6ff63970dc0c88b31 = L.marker(
+            var marker_2b4facb67250970f5b1559126db609e8 = L.marker(
                 [35.4919, -89.9922],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_eb29603c3a370bc2e35dcb121a168083 = L.divIcon({
+            var div_icon_98c03967f82ccd52567f0d58c681d9b0 = L.divIcon({
   "html": "\u003cdiv class=\"map-label\"\u003eSouthaven\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_b9dfd06576f9b5c6ff63970dc0c88b31.setIcon(div_icon_eb29603c3a370bc2e35dcb121a168083);
+                marker_2b4facb67250970f5b1559126db609e8.setIcon(div_icon_98c03967f82ccd52567f0d58c681d9b0);
             
     
-            var marker_53e6ae6d09ce0a704a357a022b464a87 = L.marker(
+            var marker_96c55946ee0a1a02d9a0dc701a6d6dcc = L.marker(
                 [35.6495, -90.049],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_a407845c863f71c3b42ffe5116fc812c = L.divIcon({
+            var div_icon_e89a9220daeed0dd6bc45635529e712f = L.divIcon({
   "html": "\u003cdiv class=\"map-label\"\u003eMemphis\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_53e6ae6d09ce0a704a357a022b464a87.setIcon(div_icon_a407845c863f71c3b42ffe5116fc812c);
+                marker_96c55946ee0a1a02d9a0dc701a6d6dcc.setIcon(div_icon_e89a9220daeed0dd6bc45635529e712f);
             
     
-            var marker_d048ecec3dae9e01a7b759e31a809d1b = L.marker(
+            var marker_9beb01d426c4435dceb06bdc18c49d5f = L.marker(
                 [53.849805, -6.26031],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_ad6184a98282ec6f81feed8f210f0c3a = L.divIcon({
+            var div_icon_a5e41c862e8a0857e016351fda6511d3 = L.divIcon({
   "html": "\u003cdiv class=\"map-label\"\u003eDublin\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_d048ecec3dae9e01a7b759e31a809d1b.setIcon(div_icon_ad6184a98282ec6f81feed8f210f0c3a);
+                marker_9beb01d426c4435dceb06bdc18c49d5f.setIcon(div_icon_a5e41c862e8a0857e016351fda6511d3);
             
     
-            var marker_ff110098a2519fda8d9982fb92eded10 = L.marker(
-                [0.5, 0.0],
+            var marker_168c6fed522d966e6b9fe3099757bafd = L.marker(
+                [53.6396, -4.2739],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_fcb772be689e7abc17aab8d8fedef47d = L.divIcon({
+            var div_icon_03ddc74c7292490b2c28f80e84cec4b1 = L.divIcon({
   "html": "\u003cdiv class=\"map-label\"\u003eCaernarfon\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_ff110098a2519fda8d9982fb92eded10.setIcon(div_icon_fcb772be689e7abc17aab8d8fedef47d);
+                marker_168c6fed522d966e6b9fe3099757bafd.setIcon(div_icon_03ddc74c7292490b2c28f80e84cec4b1);
             
     
-            var marker_bdad0d388b1c5ebd311536d8a7b0bea6 = L.marker(
+            var marker_ace1eade6eb3cdcca8e2da9d27d8aba4 = L.marker(
                 [0.5, 0.0],
                 {
 }
-            ).addTo(feature_group_5b0c337972a59a6bfaa8cf148692cfb7);
+            ).addTo(feature_group_b93ace9bb9616109ca76ef46834d09bf);
         
     
-            var div_icon_36724e2d0748ca91c86aaead29823727 = L.divIcon({
-  "html": "\u003cdiv class=\"map-label\"\u003eUnknown\u003c/div\u003e",
+            var div_icon_5a2bb0e5b9fd4c90ac6be067d15df53c = L.divIcon({
+  "html": "\u003cdiv class=\"map-label\"\u003eLapland\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_bdad0d388b1c5ebd311536d8a7b0bea6.setIcon(div_icon_36724e2d0748ca91c86aaead29823727);
+                marker_ace1eade6eb3cdcca8e2da9d27d8aba4.setIcon(div_icon_5a2bb0e5b9fd4c90ac6be067d15df53c);
             
     
-            feature_group_5b0c337972a59a6bfaa8cf148692cfb7.addTo(map_5b026f086dcf41d07c55239a730327fb);
+            feature_group_b93ace9bb9616109ca76ef46834d09bf.addTo(map_34f170543a01c81be7e8a84690d43702);
         
     
-            var feature_group_b04300b17115c14dfc09bee745f23bc0 = L.featureGroup(
+            var feature_group_900b9876e7085329e934397835d11a9e = L.featureGroup(
                 {
 }
             );
         
     
-            var heat_map_cd381ba43ccbccfe0102653ae6fddcb9 = L.heatLayer(
-                [[40.2442, -82.859, 1.0], [41.0913, -76.1472, 1.0], [41.0793, -85.1394, 1.0], [40.8136, -96.7026, 1.0], [17.385, 78.4867, 1.0], [42.7208, -87.9525, 1.0], [34.9919, -89.9922, 1.0], [35.1495, -90.049, 1.0], [53.349805, -6.26031, 1.0], [0.0, 0.0, 1.0], [0.0, 0.0, 1.0]],
+            var heat_map_df49f4119346859ecd02e379a01a0b06 = L.heatLayer(
+                [[40.2442, -82.859, 1.0], [41.0913, -76.1472, 1.0], [41.0793, -85.1394, 1.0], [40.8136, -96.7026, 1.0], [17.385, 78.4867, 1.0], [42.7208, -87.9525, 1.0], [34.9919, -89.9922, 1.0], [35.1495, -90.049, 1.0], [53.349805, -6.26031, 1.0], [53.1396, -4.2739, 1.0], [0.0, 0.0, 1.0]],
                 {
   "minOpacity": 0.3,
   "maxZoom": 18,
@@ -992,29 +983,29 @@
             );
         
     
-            heat_map_cd381ba43ccbccfe0102653ae6fddcb9.addTo(feature_group_b04300b17115c14dfc09bee745f23bc0);
+            heat_map_df49f4119346859ecd02e379a01a0b06.addTo(feature_group_900b9876e7085329e934397835d11a9e);
         
     
-            var layer_control_88fe2241124abc51a5bdf4d6aca8c489_layers = {
+            var layer_control_4f88630bde3b207da29fb7ac908415f3_layers = {
                 base_layers : {
-                    "Dark Matter" : tile_layer_a5d744a1dc8c25be0d77b035386a39ae,
+                    "Dark Matter" : tile_layer_11075332e76f9a7d6582acdc6529e1e2,
                 },
                 overlays :  {
-                    "Subsea Cables (Physical)" : feature_group_6611fc4422eca8901f6e1ccb4988904b,
-                    "Data Centers" : feature_group_3aab7a1aae3af0ff84ab47f91b41adf1,
-                    "Labels" : feature_group_5b0c337972a59a6bfaa8cf148692cfb7,
-                    "Infrastructure Density" : feature_group_b04300b17115c14dfc09bee745f23bc0,
+                    "Subsea Cables (Physical)" : feature_group_e3d7f56238ed6d343e52c78666bd57de,
+                    "Data Centers" : feature_group_c2c6d0b7d3d7d7bab42cb27017f4627e,
+                    "Labels" : feature_group_b93ace9bb9616109ca76ef46834d09bf,
+                    "Infrastructure Density" : feature_group_900b9876e7085329e934397835d11a9e,
                 },
             };
-            let layer_control_88fe2241124abc51a5bdf4d6aca8c489 = L.control.layers(
-                layer_control_88fe2241124abc51a5bdf4d6aca8c489_layers.base_layers,
-                layer_control_88fe2241124abc51a5bdf4d6aca8c489_layers.overlays,
+            let layer_control_4f88630bde3b207da29fb7ac908415f3 = L.control.layers(
+                layer_control_4f88630bde3b207da29fb7ac908415f3_layers.base_layers,
+                layer_control_4f88630bde3b207da29fb7ac908415f3_layers.overlays,
                 {
   "position": "topright",
   "collapsed": false,
   "autoZIndex": true,
 }
-            ).addTo(map_5b026f086dcf41d07c55239a730327fb);
+            ).addTo(map_34f170543a01c81be7e8a84690d43702);
 
         
 </script>
