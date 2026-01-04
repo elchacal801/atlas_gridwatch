@@ -221,6 +221,47 @@
         </div>
         {% endif %}
 
+        <!-- Strategic News Brief Section -->
+        {% if news_analysis %}
+        <div class="row mt-4">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <i class="bi bi-newspaper"></i> Strategic News Brief
+                    </div>
+                    <div class="card-body">
+                        <div class="list-group list-group-flush">
+                            {% for event in news_analysis %}
+                            <div class="list-group-item bg-transparent border-secondary text-light">
+                                <div class="d-flex w-100 justify-content-between mb-1">
+                                    <h5 class="mb-1">
+                                        {% if event.risk == 'HIGH' %}
+                                        <span class="badge bg-danger me-2">HIGH</span>
+                                        {% elif event.risk == 'MEDIUM' %}
+                                        <span class="badge bg-warning text-dark me-2">MED</span>
+                                        {% else %}
+                                        <span class="badge bg-success me-2">LOW</span>
+                                        {% endif %}
+                                        <a href="{{ event.url }}" target="_blank"
+                                            class="text-decoration-none text-info">{{ event.title }}</a>
+                                    </h5>
+                                    <small class="text-muted">{{ event.source }}</small>
+                                </div>
+                                <p class="mb-1 text-muted">{{ event.description }}</p>
+                                <div class="mt-2 p-2 rounded"
+                                    style="background-color: rgba(0, 242, 255, 0.05); border-left: 3px solid #00f2ff;">
+                                    <small class="d-block text-info fw-bold">Strategic Implication:</small>
+                                    <small>{{ event.assessment }}</small>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+
         <div class="row">
             <!-- Strategic Chokepoints -->
             <div class="col-md-6">
