@@ -1,5 +1,3 @@
-Here is the verbatim conversion of the report into Markdown.
-
 # Global Undersea Cable Chokepoints and Landing Clusters: A Strategic Risk Assessment
 
 ## Introduction: Digital Lifelines and Hidden Chokepoints
