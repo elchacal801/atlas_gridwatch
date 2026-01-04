@@ -21,12 +21,38 @@ class LLMAnalyzer:
         else:
             self.client = OpenAI(api_key=self.api_key)
 
+    def _generate_fallback(self, context: Dict[str, Any], reason: str) -> str:
+        """
+        Generates a static fallback assessment when LLM is unavailable.
+        """
+        nodes = context.get("critical_nodes", [])
+        planned = context.get("planned_assets", [])
+        risk = context.get("jurisdiction_risk", {})
+        
+        return f\"\"\"
+        <div class="assessment-section mb-3">
+            <h5 style="color: #666; border-bottom: 1px solid #555; padding-bottom: 5px;">
+                <i class="bi bi-exclamation-triangle"></i> Automated Analysis Unavailable
+            </h5>
+            <div style="color: #aaa;">
+                <p>The AI Strategic Analyst is currently offline ({reason}).</p>
+                <strong>System Statistics:</strong>
+                <ul>
+                    <li><strong>Critical Nodes Detected:</strong> {len(nodes)}</li>
+                    <li><strong>Planned AI Facilities:</strong> {len(planned)}</li>
+                    <li><strong>Jurisdictional Spread:</strong> {len(risk)} countries</li>
+                </ul>
+                <p><em>Please ensure OPENAI_API_KEY is configured in Settings/Secrets.</em></p>
+            </div>
+        </div>
+        \"\"\"
+
     def generate_assessment(self, context: Dict[str, Any]) -> str:
         """
         Generates a strategic assessment based on provided context data.
         """
         if not self.client:
-            return "<!-- AI Assessment Unavailable: Missing API Key -->"
+            return self._generate_fallback(context, "Missing API Key")
 
         # Construct a high-level summary of the data for the LLM
         # We assume 'context' contains 'critical_nodes' and 'jurisdiction_risk'
@@ -113,7 +139,7 @@ class LLMAnalyzer:
 
         except Exception as e:
             logger.error(f"LLM Analysis failed: {e}")
-            return f"<!-- AI Assessment Failed: {e} -->"
+            return self._generate_fallback(context, f"Error: {str(e)}")
 
     def extract_entity_from_text(self, text: str) -> Dict[str, Any]:
         """
