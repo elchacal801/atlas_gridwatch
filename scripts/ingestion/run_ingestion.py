@@ -183,7 +183,7 @@ def main(
                         console.print(f"[red]Seed Error[/red]: {e} in {s.get('name', 'Unknown')}")
     elif source == "epoch":
         console.log("[magenta]Ingesting from Epoch AI Dataset...[/magenta]")
-        file_path = Path("data/raw/data_centers_epochAI/data_centers.csv")
+        file_path = Path("docs/research/data_centers_epochAI/data_centers.csv")
         
         if not file_path.exists():
              console.log(f"[red]Epoch file not found at {file_path}[/red]")

@@ -50,23 +50,36 @@ class LLMAnalyzer:
 
     def _load_knowledge_base(self) -> str:
         """
-        Loads content from local research papers (markdown) to serve as RAG context.
+        Loads content from local research papers (markdown) AND docs/research to serve as RAG context.
         """
         kb_content = []
-        papers_dir = Path("papers") # Relative to root execution
+        sources = []
+
+        # 1. Primary Papers Directory
+        papers_dir = Path("papers")
         if not papers_dir.exists():
-            # Try absolute path fallback if needed, or relative to src
-            papers_dir = Path("c:/Users/anon/Documents/anon/atlas_gridwatch/papers")
-            
+             papers_dir = Path("c:/Users/anon/Documents/anon/atlas_gridwatch/papers")
         if papers_dir.exists():
-            for f in papers_dir.glob("*.md"):
-                try:
-                    text = f.read_text(encoding="utf-8")
-                    # truncate heavily to avoid context window explosion, focus on headers/summaries if possible
-                    # For now, take first 3000 chars of each paper
-                    kb_content.append(f"--- SOURCE: {f.name} ---\n{text[:3000]}...\n")
-                except Exception as e:
-                    logger.warning(f"Failed to read paper {f}: {e}")
+            sources.extend(list(papers_dir.glob("*.md")))
+
+        # 2. Expanded Research Library (docs/research) - Recursive scan for MD
+        research_dir = Path("docs/research")
+        if not research_dir.exists():
+             research_dir = Path("c:/Users/anon/Documents/anon/atlas_gridwatch/docs/research")
+        if research_dir.exists():
+            # rglob to find nested markdowns (e.g. inside data_centers_epochAI)
+            sources.extend(list(research_dir.rglob("*.md")))
+
+        # Deduplicate paths
+        unique_sources = {str(p.resolve()): p for p in sources}.values()
+
+        for f in unique_sources:
+            try:
+                text = f.read_text(encoding="utf-8")
+                # truncate heavily to avoid context window explosion
+                kb_content.append(f"--- SOURCE: {f.name} ---\n{text[:3000]}...\n")
+            except Exception as e:
+                logger.warning(f"Failed to read paper {f}: {e}")
         
         return "\n".join(kb_content) if kb_content else "No local research papers available."
 
