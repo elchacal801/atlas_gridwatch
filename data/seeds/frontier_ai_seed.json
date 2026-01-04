@@ -147,10 +147,10 @@
                 "longitude": -72.9
             },
             {
-                "city": "Sylt",
-                "country": "Germany",
-                "latitude": 54.9,
-                "longitude": 8.3
+                "city": "Whitesands Bay",
+                "country": "UK",
+                "latitude": 50.1,
+                "longitude": -5.7
             },
             {
                 "city": "Beverwijk",
@@ -159,10 +159,10 @@
                 "longitude": 4.6
             },
             {
-                "city": "Whitesands Bay",
-                "country": "UK",
-                "latitude": 50.1,
-                "longitude": -5.7
+                "city": "Sylt",
+                "country": "Germany",
+                "latitude": 54.9,
+                "longitude": 8.3
             }
         ],
         "capacity_tbps": 40,

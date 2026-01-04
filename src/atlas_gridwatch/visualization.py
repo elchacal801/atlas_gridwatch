@@ -15,7 +15,7 @@ class MapVisualizer:
             zoom_start=3, 
             tiles=None, 
             prefer_canvas=True,
-            max_bounds=[[-90, -180], [90, 180]],
+            world_copy_jump=True,
             min_zoom=2
         )
         
@@ -23,7 +23,6 @@ class MapVisualizer:
         folium.TileLayer(
             "CartoDB dark_matter",
             name="Dark Matter",
-            no_wrap=True,
             bounds=[[-90, -180], [90, 180]]
         ).add_to(self.m)
         
@@ -174,8 +173,26 @@ class MapVisualizer:
             # Already formatted as list of segments [[lat,lon],...]
             paths = cable.geometry_coordinates
         elif cable.landing_points and len(cable.landing_points) >= 2:
-            # Fallback to straight lines
-            paths = [[(lp.latitude, lp.longitude) for lp in cable.landing_points]]
+            # Fallback to straight lines, but handle Dateline crossing (Pacific)
+            # If dLong > 180, we must wrap one coordinate.
+            
+            raw_path = []
+            for i, lp in enumerate(cable.landing_points):
+                lat, lon = lp.latitude, lp.longitude
+                
+                if i > 0:
+                    prev_lat, prev_lon = raw_path[-1]
+                    delta = lon - prev_lon
+                    
+                    # Check for dateline crossing
+                    if delta > 180:
+                        lon -= 360
+                    elif delta < -180:
+                        lon += 360
+                
+                raw_path.append((lat, lon))
+            
+            paths = [raw_path]
         else:
             return
 
