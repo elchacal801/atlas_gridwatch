@@ -29,7 +29,7 @@ class LLMAnalyzer:
         planned = context.get("planned_assets", [])
         risk = context.get("jurisdiction_risk", {})
         
-        return f\"\"\"
+        return f"""
         <div class="assessment-section mb-3">
             <h5 style="color: #666; border-bottom: 1px solid #555; padding-bottom: 5px;">
                 <i class="bi bi-exclamation-triangle"></i> Automated Analysis Unavailable
@@ -45,7 +45,7 @@ class LLMAnalyzer:
                 <p><em>Please ensure OPENAI_API_KEY is configured in Settings/Secrets.</em></p>
             </div>
         </div>
-        \"\"\"
+        """
 
     def generate_assessment(self, context: Dict[str, Any]) -> str:
         """
