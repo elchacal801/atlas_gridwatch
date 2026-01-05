@@ -91,8 +91,11 @@ class MapVisualizer:
             <div class="legend-item"><div class="legend-color" style="background:#FF9900; box-shadow: 0 0 5px #FF9900;"></div>Amazon</div>
             <div class="legend-item"><div class="legend-color" style="background:#7FBA00; box-shadow: 0 0 5px #7FBA00;"></div>Microsoft</div>
             <div class="legend-item"><div class="legend-color" style="background:#00FFFF; box-shadow: 0 0 5px #00FFFF;"></div>Telecom/Consortium</div>
-            <div class="legend-item"><div class="legend-color" style="background:#2ecc71; box-shadow: 0 0 5px #2ecc71;"></div>Active Data Center</div>
-            <div class="legend-item"><div class="legend-color" style="background:#9b59b6; box-shadow: 0 0 5px #9b59b6; border: 1px dashed white;"></div>Planned / Frontier AI</div>
+            <div class="legend-item"><div class="legend-color" style="background:#2ecc71; box-shadow: 0 0 5px #2ecc71;"></div>Active Data Center (Generic)</div>
+            <div class="legend-item"><div class="legend-color" style="background:#3498db; box-shadow: 0 0 5px #3498db;"></div>Cloud Region</div>
+            <div class="legend-item"><div class="legend-color" style="background:#00e5ff; box-shadow: 0 0 5px #00e5ff;"></div>Cloud Local Zone</div>
+            <div class="legend-item"><div class="legend-color" style="background:#9b59b6; box-shadow: 0 0 5px #9b59b6;"></div>Cloud On-Ramp</div>
+            <div class="legend-item"><div class="legend-color" style="background:#be2ed6; box-shadow: 0 0 5px #be2ed6; border: 1px dashed white;"></div>Planned / Frontier AI</div>
         </div>
         """
         self.m.get_root().html.add_child(folium.Element(legend_html))
@@ -120,11 +123,29 @@ class MapVisualizer:
 
     def add_datacenter(self, dc: DataCenter):
         """Adds a Data Center marker."""
-        if dc.status == EntityStatus.ACTIVE:
+        # Cloud Infrastructure Color Logic
+        category = dc.properties.get("category", "")
+        
+        if "Cloud Region" in category:
+            color = "#3498db" # Blue
+            fill_opacity = 0.9
+        elif "Local Zone" in category:
+             color = "#00e5ff" # Cyan
+             fill_opacity = 0.8
+        elif "On-Ramp" in category:
+             color = "#9b59b6" # Purple
+             fill_opacity = 0.8
+        elif dc.status == EntityStatus.ACTIVE:
             color = "#2ecc71" # Emerald Green
             fill_opacity = 0.8
         elif dc.status == EntityStatus.PLANNED:
-            color = "#9b59b6" # Amethyst Purple
+            color = "#9b59b6" # Amethyst Purple (Legacy / Frontier) -> Conflict with On-Ramp. Check Frontier.
+            # Frontier AI seed doesn't have category usually.
+            # Let's keep planned as distinct if possible, or mix.
+            # Re-palette: Planned = Dashed Border, Fill varies? 
+            # For this request, we stick to specific cloud colors.
+            # If not cloud category, use status colors.
+            color = "#be2ed6" # Deep Purple for Planned/Other
             fill_opacity = 0.5
         else:
              color = "#f1c40f" # Sunflower (Inactive/Other)

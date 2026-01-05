@@ -1,0 +1,2450 @@
+Cloud Regions
+Metro Area
+Cloud Service Provider, Cloud Region
+
+Buenos Aires
+Argentina
+Huawei Cloud, LA Buenos Aires1 Zones
+sa-argentina-1
+Canberra
+Australia
+Microsoft Azure, Australia Central (Canberra)1 Zones
+australiacentral
+Microsoft Azure, Australia Central 2 (Canberra)1 Zones
+australiacentral2
+Oracle Cloud, Australian Gov (Canberra)1 Zones
+au-gov-canberra-1
+Melbourne
+Australia
+Amazon Web Services, Asia Pacific (Melbourne)3 Zones
+ap-southeast-4
+Google Cloud, Melbourne3 Zones
+australia-southeast2
+Microsoft Azure, Australia Southeast (Melbourne)1 Zones
+australiasoutheast
+Oracle Cloud, Australia Southeast (Melbourne)1 Zones
+ap-melbourne-1
+Sydney
+Australia
+Amazon Web Services, Asia Pacific (Sydney)3 Zones
+ap-southeast-2
+Google Cloud, Sydney3 Zones
+australia-southeast1
+IBM Cloud, Sydney3 Zones
+au-syd
+Microsoft Azure, Australia East (Sydney)3 Zones
+australiaeast
+Oracle Cloud, Australia East (Sydney)1 Zones
+ap-sydney-1
+OVH, Australia (Sydney)1 Zones
+Vienna
+Austria
+Microsoft Azure, Austria East (Vienna)3 Zones
+austriaeast
+Manama
+Bahrain
+Amazon Web Services, Middle East (Bahrain)3 Zones
+me-south-1
+Brussels
+Belgium
+Microsoft Azure, Belgium Central3 ZonesPlanned
+belgiumcentral
+Mons
+Belgium
+Google Cloud, Belgium3 Zones
+europe-west1
+Campinas
+Brazil
+Oracle Cloud, Brazil Southeast (Vinhedo)1 Zones
+sa-vinhedo-1
+Rio de Janeiro
+Brazil
+Microsoft Azure, Brazil Southeast (Rio)3 Zones
+brazilsoutheast
+São Paulo
+Brazil
+Amazon Web Services, South America (São Paulo)3 Zones
+sa-east-1
+Google Cloud, Sao Paulo3 Zones
+southamerica-east1
+Huawei Cloud, LA-Sao Paulo3 Zones
+sa-brazil-1
+IBM Cloud, São Paulo3 Zones
+br-sao
+Microsoft Azure, Brazil South (São Paulo)3 Zones
+brazilsouth
+Oracle Cloud, Brazil East (Sao Paulo)1 Zones
+sa-saopaulo-1
+Tencent Cloud, South America (Sao Paulo)1 Zones
+sl-saopaulo
+Calgary
+Canada
+Amazon Web Services, Canada (West) 3 Zones
+ca-west-1
+Montréal
+Canada
+Amazon Web Services, Canada (Central)3 Zones
+ca-central-1
+Google Cloud, Montreal3 Zones
+northamerica-northeast1
+IBM Cloud, Montreal3 Zones
+ca-mon
+Oracle Cloud, Canada Southeast (Montreal)1 Zones
+ca-montreal-1
+OVH, East Coast (Montreal)1 Zones
+Quebec City
+Canada
+Microsoft Azure, Canada East (Quebec City)1 Zones
+canadaeast
+Toronto
+Canada
+Google Cloud, Toronto3 Zones
+northamerica-northeast2
+IBM Cloud, Toronto3 Zones
+ca-tor
+Microsoft Azure, Canada Central (Toronto)3 Zones
+canadacentral
+Oracle Cloud, Canada Southeast (Toronto)1 Zones
+ca-toronto-1
+OVH, Canada (Toronto)1 Zones
+Tencent Cloud, North America (Toronto)1 Zones
+na-toronto
+Santiago
+Chile
+Amazon Web Services, AWS Chile (Santiago)3 ZonesPlanned
+Google Cloud, Santiago3 Zones
+southamerica-west1
+Huawei Cloud, LA-Santiago2 Zones
+la-south-2
+Microsoft Azure, Chile Central (Santiago)3 Zones
+chilecentral
+Oracle Cloud, Chile Central (Santiago)1 Zones
+sa-santiago-1
+Valparaíso
+Chile
+Oracle Cloud, Chile West (Vaparaíso)1 Zones
+sa-valparaiso-1
+Beijing
+China
+Alibaba Cloud, China North 2 (Beijing)12 Zones
+cn-beijing
+Amazon Web Services, Mainland China (Beijing)3 Zones
+cn-north-1
+Huawei Cloud, CN North Beijing13 Zones
+cn-north-1
+Huawei Cloud, CN North Beijing22 Zones
+cn-north-2
+Huawei Cloud, CN North Beijing32 Zones
+cn-north-4
+Microsoft Azure, China North (Beijing)1 Zones
+chinanorth
+Microsoft Azure, China North 2 (Beijing)1 Zones
+chinanorth2
+Microsoft Azure, China North 3 (Beijing)3 Zones
+chinanorth3
+Tencent Cloud, North China (Beijing)10 Zones
+ap-beijing
+Chengdu
+China
+Alibaba Cloud, China West 1 (Chengdu)2 Zones
+cn-chengdu
+Tencent Cloud, Southwest China (Chengdu)2 Zones
+ap-chengdu
+Chongqing
+China
+Tencent Cloud, Southwest China (Chongqing)1 Zones
+ap-chongqing
+Fuzhou
+China
+Alibaba Cloud, China (Fuzhou - Local Region)1 Zones
+cn-fuzhou
+Guangzhou
+China
+Alibaba Cloud, China South 3 (Guangzhou)2 Zones
+cn-guangzhou
+Huawei Cloud, CN South Guangzhou6 Zones
+cn-south-1
+Tencent Cloud, South China (Guangzhou)5 Zones
+ap-guangzhou
+Guiyang
+China
+Huawei Cloud, CN Southwest Guiyang3 Zones
+cn-southwest-2
+Hangzhou
+China
+Alibaba Cloud, China East 1 (Hangzhou)8 Zones
+cn-hangzhou
+Heyuan
+China
+Alibaba Cloud, China South 2 (Heyuan)2 Zones
+cn-heyuan
+Hong Kong
+China
+Alibaba Cloud, China (Hong Kong)3 Zones
+cn-hongkong
+Amazon Web Services, China (Hong Kong)3 Zones
+ap-east-1
+Google Cloud, Hong Kong3 Zones
+asia-east2
+Huawei Cloud, CN-Hong Kong4 Zones
+ap-southeast-1
+Microsoft Azure, East Asia (Hong Kong)3 Zones
+eastasia
+Tencent Cloud, Hong Kong3 Zones
+ap-hongkong
+Huhehaote
+China
+Alibaba Cloud, China North 5 (Hohhot)2 Zones
+cn-huhehaote
+Karamay
+China
+Huawei Cloud, CN Northwest Karamay1 Zones
+cn-northwest-1
+Nanjing
+China
+Alibaba Cloud, China East 3 (Nanjing)1 Zones
+cn-nanjing
+Microsoft Azure, China East 3 (Jiangsu)1 Zones
+chinaeast3
+Tencent Cloud, East China (Nanjing)3 Zones
+ap-nanjing
+Ningxiang
+China
+Amazon Web Services, Mainland China (Ningxia)3 Zones
+cn-northwest-1
+Qingdao
+China
+Alibaba Cloud, China North 1 (Qingdao)2 Zones
+cn-qingdao
+Shanghai
+China
+Alibaba Cloud, China East 2 (Shanghai)11 Zones
+cn-shanghai
+Huawei Cloud, CN East Shanghai14 Zones
+cn-east-3
+Huawei Cloud, CN East Shanghai24 Zones
+cn-east-2
+Microsoft Azure, China East (Shanghai)1 Zones
+chinaeast
+Microsoft Azure, China East 2 (Shanghai)1 Zones
+chinaeast2
+Tencent Cloud, East China (Shanghai)9 Zones
+ap-shanghai
+Shenzhen
+China
+Alibaba Cloud, China South 1 (Shenzhen)6 Zones
+cn-shenzhen
+Huawei Cloud, CN South Shenzhen1 Zones
+cn-south-2
+Tencent Cloud, South China (Shenzen) 3 Zones
+ap-shenzhen
+Ulanqab
+China
+Alibaba Cloud, China (Ulanqab)3 Zones
+cn-ulanqab
+Huawei Cloud, CN North Ulanqab1 3 Zones
+cn-north-9
+Wuhan
+China
+Alibaba Cloud, China (Wuhan - Local Region)1 Zones
+cn-wuhan
+Wuhu
+China
+Huawei Cloud, Huawei Cloud East China (Wuhu)3 Zones
+Zhangjiakou
+China
+Alibaba Cloud, China North 3 (Zhangjiakou)3 Zones
+cn-zhangjiakou
+Bogotá
+Colombia
+Oracle Cloud, Colombia Central (Bogota)1 Zones
+sa-bogota-1
+Copenhagen
+Denmark
+Microsoft Azure, Denmark East (Copenhagen)3 ZonesPlanned
+denmarkeast
+Cairo
+Egypt
+Huawei Cloud, Huawei Cloud North Africa (Cairo)1 Zones
+Hamina
+Finland
+Google Cloud, Finland3 Zones
+europe-north1
+Helsinki
+Finland
+Microsoft Azure, Finland (Helsinki)3 ZonesPlanned
+finlandcentral
+Dunkerque
+France
+OVH, France (Gravelines)1 Zones
+Lille
+France
+OVH, Western Europe (Roubaix)1 Zones
+Marseille
+France
+Microsoft Azure, France South (Marseille)1 Zones
+francesouth
+Oracle Cloud, France (Marseille)1 Zones
+eu-marseille-1
+Paris
+France
+Amazon Web Services, Europe West (Paris)3 Zones
+eu-west-3
+Google Cloud, Paris3 Zones
+europe-west9
+Microsoft Azure, France Central (Paris)3 Zones
+francecentral
+Oracle Cloud, France Central (Paris)1 Zones
+eu-paris-1
+OVH, Western Europe (Paris)3 Zones
+Strasbourg
+France
+OVH, Western Europe (Strasbourg)1 Zones
+Berlin
+Germany
+Google Cloud, Berlin3 Zones
+europe-west10
+Microsoft Azure, Germany North (Berlin)1 Zones
+germanynorth
+Frankfurt
+Germany
+Alibaba Cloud, EU Central 1 (Frankfurt)3 Zones
+eu-central-1
+Amazon Web Services, Europe Central (Frankfurt)3 Zones
+eu-central-1
+Amazon Web Services, European Sovereign Cloud (Germany)3 ZonesPlanned
+Google Cloud, Frankfurt3 Zones
+europe-west3
+IBM Cloud, Frankfurt3 Zones
+eu-de
+Microsoft Azure, Germany West Central (Frankfurt)3 Zones
+germanywestcentral
+Oracle Cloud, EU Sovereign Central (Frankfurt)1 Zones
+eu-sov-frankfurt-1
+Oracle Cloud, Germany Central (Frankfurt)3 Zones
+eu-frankfurt-1
+OVH, Central Europe (Frankfurt)1 Zones
+Tencent Cloud, Central Europe (Frankfurt)2 Zones
+eu-frankfurt
+Athens
+Greece
+Microsoft Azure, Greece Central (Athens)3 ZonesPlanned
+greececentral
+Chennai
+India
+Microsoft Azure, South India (Chennai)1 Zones
+southindia
+Hyderabad
+India
+Amazon Web Services, Asia Pacific (Hyderabad)3 Zones
+ap-south-2
+Microsoft Azure, Southcentral (Hyderabad)3 ZonesPlanned
+indiasouthcentral
+Oracle Cloud, India South (Hyderabad)1 Zones
+ap-hyderabad-1
+Mumbai
+India
+Amazon Web Services, Asia Pacific (Mumbai)3 Zones
+ap-south-1
+Google Cloud, Mumbai3 Zones
+asia-south1
+Microsoft Azure, West India (Mumbai)1 Zones
+westindia
+Oracle Cloud, India West (Mumbai)1 Zones
+ap-mumbai-1
+OVH, India (Mumbai)1 Zones
+Tencent Cloud, South Asia (Mumbai)2 Zones
+ap-mumbai
+New Delhi
+India
+Google Cloud, Delhi3 Zones
+asia-south2
+Pune
+India
+Microsoft Azure, Central India (Pune)3 Zones
+centralindia
+Batam
+Indonesia
+Oracle Cloud, Indonesia North (Batam)1 Zones
+Jakarta
+Indonesia
+Alibaba Cloud, Asia Pacific SE 5 (Jakarta)3 Zones
+ap-southeast-5
+Amazon Web Services, Indonesia (Jakarta)3 Zones
+ap-southeast-3
+Google Cloud, Jakarta3 Zones
+asia-southeast2
+Huawei Cloud, AP Jakarta3 Zones
+ap-southeast-4
+Microsoft Azure, Indonesia Central (Jakarta)3 Zones
+indonesiacentral
+Tencent Cloud, Southeast Asia Pacific (Jakarta)2 Zones
+ap-jakarta
+Dublin
+Ireland
+Amazon Web Services, Europe West (Ireland)3 Zones
+eu-west-1
+Huawei Cloud, EU Dublin2 Zones
+eu-west-101
+Microsoft Azure, North Europe (Dublin)3 Zones
+northeurope
+Jerusalem
+Israel
+Oracle Cloud, Israel Central (Jerusalem)1 Zones
+il-jerusalem-1
+Tel Aviv
+Israel
+Amazon Web Services, Middle East (Tel Aviv)3 Zones
+il-central-1
+Google Cloud, Tel Aviv3 Zones
+me-west1
+Microsoft Azure, Israel Central (Tel Aviv)3 Zones
+israelcentral
+Oracle Cloud, Israel 2 (Tel Aviv)1 ZonesPlanned
+Milan
+Italy
+Amazon Web Services, Europe (Milan)3 Zones
+eu-south-1
+Google Cloud, Milan3 Zones
+europe-west8
+Microsoft Azure, Italy North (Milan)3 Zones
+italynorth
+Oracle Cloud, Italy Northwest (Milan)1 Zones
+eu-milan-1
+Turin
+Italy
+Google Cloud, Turin3 Zones
+europe-west12
+Oracle Cloud, Italy 2 (Turin)1 ZonesPlanned
+Osaka
+Japan
+Amazon Web Services, Asia Pacific (Osaka)3 Zones
+ap-northeast-3
+Google Cloud, Osaka3 Zones
+asia-northeast2
+IBM Cloud, Osaka3 Zones
+jp-osa
+Microsoft Azure, Japan West (Osaka)1 Zones
+japanwest
+Oracle Cloud, Japan Central (Osaka)1 Zones
+ap-osaka-1
+Tencent Cloud, Northeast Asia Pacific 2 (Osaka)1 ZonesPlanned
+Tokyo
+Japan
+Alibaba Cloud, Asia Pacific NE 1 (Tokyo)3 Zones
+ap-northeast-1
+Amazon Web Services, Asia Pacific (Tokyo)4 Zones
+ap-northeast-1
+Google Cloud, Tokyo3 Zones
+asia-northeast1
+IBM Cloud, Tokyo3 Zones
+jp-tok
+Microsoft Azure, Japan East (Saitama, Tokyo)3 Zones
+japaneast
+Oracle Cloud, Japan East (Tokyo)1 Zones
+ap-tokyo-1
+Tencent Cloud, Northeast Asia Pacific (Tokyo)2 Zones
+ap-tokyo
+Nairobi
+Kenya
+Microsoft Azure, East Africa (Nairobi)3 ZonesPlanned
+Oracle Cloud, Kenya (Nairobi)1 ZonesPlanned
+Kuala Lumpur
+Malaysia
+Alibaba Cloud, Asia Pacific SE 3 (Kuala Lumpur)3 Zones
+ap-southeast-3
+Amazon Web Services, Malaysia3 Zones
+Microsoft Azure, Malaysia West (Kuala Lumpur)3 Zones
+malaysiawest
+Oracle Cloud, Malaysia1 ZonesPlanned
+Mexico City
+Mexico
+Huawei Cloud, LA-Mexico City12 Zones
+na-mexico-1
+Huawei Cloud, LA-Mexico City22 Zones
+la-north-2
+Monterrey
+Mexico
+Oracle Cloud, Mexico Northeast (Monterrey)1 Zones
+mx-monterrey-1
+Santiago de Querétaro
+Mexico
+Alibaba Cloud, Mexico (Querétaro)1 Zones
+Amazon Web Services, AWS Mexico central3 Zones
+Google Cloud, Mexico3 Zones
+Microsoft Azure, Mexico Central (Querétaro)3 Zones
+mexicocentral
+Oracle Cloud, Mexico Central (Querétaro)1 Zones
+mx-queretaro-1
+Casablanca
+Morocco
+Oracle Cloud, Morocco 1 (Casablanca)1 ZonesPlanned
+Settat
+Morocco
+Oracle Cloud, Morocco 2 (Settat)1 ZonesPlanned
+Amsterdam
+Netherlands
+Microsoft Azure, West Europe (Amsterdam)3 Zones
+westeurope
+Oracle Cloud, Netherlands Northwest (Amsterdam)1 Zones
+eu-amsterdam-1
+Groningen
+Netherlands
+Google Cloud, Netherlands3 Zones
+europe-west4
+Auckland
+New Zealand
+Amazon Web Services, Asia Pacific (Auckland)3 Zones
+ap-east-2
+Google Cloud, New Zealand3 ZonesPlanned
+Microsoft Azure, New Zealand North (Auckland)3 Zones
+newzealandnorth
+Oslo
+Norway
+Google Cloud, Norway3 ZonesPlanned
+Microsoft Azure, Norway East (Oslo)3 Zones
+norwayeast
+Stavanger
+Norway
+Microsoft Azure, Norway West (Stavanger)1 Zones
+norwaywest
+Lima
+Peru
+Huawei Cloud, LA-Lima12 Zones
+sa-peru-1
+Manila
+Philippines
+Alibaba Cloud, Asia Pacific SE 6 (Manila)2 Zones
+ap-southeast-6
+Huawei Cloud, AP-Manila3 Zones
+Sochaczew
+Poland
+OVH, Western Europe 1 Zones
+Warsaw
+Poland
+Google Cloud, Warsaw3 Zones
+europe-central2
+Microsoft Azure, Poland Central (Warsaw)3 Zones
+polandcentral
+OVH, Central Europe (Warsaw)1 Zones
+Doha
+Qatar
+Google Cloud, Doha3 Zones
+me-central1
+Microsoft Azure, Qatar Central (Doha)3 Zones
+qatarcentral
+Dammam
+Saudi Arabia
+Google Cloud, Damman3 Zones
+me-central2
+Jeddah
+Saudi Arabia
+Oracle Cloud, Saudi Arabia West (Jeddah)1 Zones
+me-jeddah-1
+Riyadh
+Saudi Arabia
+Alibaba Cloud, Saudi Arabia (Riyadh)2 Zones
+me-east-1
+Amazon Web Services, Saudi Arabia (Riyadh)3 ZonesPlanned
+Huawei Cloud, ME Riyadh3 Zones
+me-east-1
+Microsoft Azure, Saudi Arabia East3 ZonesPlanned
+saudiarabiasouthcentral
+Oracle Cloud, Saudi Arabia 31 ZonesPlanned
+Oracle Cloud, Saudi Arabia Central (Riyadh)1 Zones
+Tencent Cloud, Middle East (Riyadh)2 ZonesPlanned
+Kragujevac
+Serbia
+Oracle Cloud, Serbia Central (Jovanovac)1 Zones
+eu-jovanovac-1
+Singapore
+Singapore
+Alibaba Cloud, Asia Pacific SE 1 (Singapore)3 Zones
+ap-southeast-1
+Amazon Web Services, Asia Pacific (Singapore)3 Zones
+ap-southeast-1
+Google Cloud, Singapore3 Zones
+asia-southeast1
+Huawei Cloud, AP-Singapore4 Zones
+ap-southeast-3
+Microsoft Azure, Southeast Asia (Singapore)3 Zones
+southeastasia
+Oracle Cloud, Singapore (Singapore)2 Zones
+ap-singapore-1
+Oracle Cloud, Singapore West1 Zones
+ap-singapore-2
+OVH, Asia (Singapore)1 Zones
+Tencent Cloud, Southeast Asia Pacific (Singapore)4 Zones
+ap-singapore
+Cape Town
+South Africa
+Amazon Web Services, Africa (Cape Town)3 Zones
+af-south-1
+Microsoft Azure, South Africa West (Cape Town)1 Zones
+southafricawest
+Johannesburg
+South Africa
+Google Cloud, Johannesburg3 Zones
+africa-south1
+Huawei Cloud, AF-Johannesburg3 Zones
+af-south-1
+Microsoft Azure, South Africa North (Johannesburg)3 Zones
+southafricanorth
+Oracle Cloud, South Africa Central(Johannesburg)1 Zones
+af-johannesburg-1
+Busan
+South Korea
+Microsoft Azure, Korea South (Busan)1 Zones
+koreasouth
+Chuncheon
+South Korea
+Oracle Cloud, South Korea North (Chuncheon)1 Zones
+ap-chuncheon-1
+Seoul
+South Korea
+Alibaba Cloud, Asia Pacific NE 2 (Seoul)2 Zones
+ap-northeast-2
+Amazon Web Services, Asia Pacific (Seoul)4 Zones
+ap-northeast-2
+Google Cloud, Seoul3 Zones
+asia-northeast3
+Microsoft Azure, Korea Central (Seoul)3 Zones
+koreacentral
+Oracle Cloud, South Korea Central (Seoul)1 Zones
+ap-seoul-1
+Tencent Cloud, Northeast Asia Pacific (Seoul)2 Zones
+ap-seoul
+Madrid
+Spain
+Google Cloud, Madrid3 Zones
+europe-southwest1
+IBM Cloud, Madrid3 Zones
+eu-sp
+Microsoft Azure, Spain Central (Madrid)3 Zones
+spaincentral
+Oracle Cloud, EU Sovereign South (Madrid)1 Zones
+eu-sov-madrid-1
+Oracle Cloud, Spain Central (Madrid)1 Zones
+eu-madrid-1
+Oracle Cloud, Spain Central (Madrid)1 ZonesPlanned
+Zaragoza
+Spain
+Amazon Web Services, Europe South (Spain)3 Zones
+eu-south-2
+Gävle
+Sweden
+Microsoft Azure, Sweden Central (Gävle)3 Zones
+swedencentral
+Malmö
+Sweden
+Microsoft Azure, Sweden South (Staffanstorp)3 Zones
+swedensouth
+Stockholm
+Sweden
+Amazon Web Services, Europe North (Stockholm)3 Zones
+eu-north-1
+Google Cloud, Sweden3 Zones
+europe-north2
+Oracle Cloud, Sweden Central (Stockholm)1 Zones
+eu-stockholm-1
+Geneva
+Switzerland
+Microsoft Azure, Switzerland West (Geneva)1 Zones
+switzerlandwest
+Zürich
+Switzerland
+Amazon Web Services, Europe (Zurich) 3 Zones
+eu-central-2
+Google Cloud, Zurich3 Zones
+europe-west6
+Microsoft Azure, Switzerland North (Zürich)1 Zones
+switzerlandnorth
+Oracle Cloud, Switzerland North (Zurich)1 Zones
+eu-zurich-1
+Taichung
+Taiwan
+Google Cloud, Taiwan3 Zones
+asia-east1
+Taipei
+Taiwan
+Amazon Web Services, Asia Pacific (Taipei)3 Zones
+Microsoft Azure, Taiwan North (Taipei)3 ZonesPlanned
+taiwannorth
+Bangkok
+Thailand
+Alibaba Cloud, Asia Pacific SE 7 (Bangkok)1 Zones
+ap-southeast-7
+Amazon Web Services, AWS Thailand3 Zones
+ap-southeast-7
+Google Cloud, Thailand3 ZonesPlanned
+Huawei Cloud, AP-Bangkok3 Zones
+ap-southeast-2
+Microsoft Azure, Thailand3 ZonesPlanned
+Tencent Cloud, Southeast Asia (Bangkok)2 Zones
+ap-bangkok
+Istanbul
+Turkey
+Huawei Cloud, TR-Istanbul3 Zones
+tr-west-1
+Abu Dhabi
+United Arab Emirates
+Microsoft Azure, UAE Central (Abu Dhabi)1 Zones
+uaecentral
+Oracle Cloud, United Arab Emirates (Abu Dhabi)1 Zones
+me-abudhabi-1
+Dubai
+United Arab Emirates
+Alibaba Cloud, Middle East 1 (Dubai)1 Zones
+me-east-1
+Amazon Web Services, United Arab Emirates3 Zones
+me-central-1
+Microsoft Azure, UAE North (Dubai)3 Zones
+uaenorth
+Oracle Cloud, United Arab Emirates (Dubai)1 Zones
+me-dubai-1
+Cardiff
+United Kingdom
+Microsoft Azure, UK West (Cardiff)1 Zones
+ukwest
+London
+United Kingdom
+Alibaba Cloud, UK (London)2 Zones
+eu-west-1
+Amazon Web Services, Europe West (London)3 Zones
+eu-west-2
+Google Cloud, London3 Zones
+europe-west2
+IBM Cloud, London3 Zones
+eu-gb
+Microsoft Azure, UK South (London)3 Zones
+uksouth
+Oracle Cloud, UK Gov South (London)1 Zones
+uk-gov-london-1
+Oracle Cloud, UK South (London)3 Zones
+uk-london-1
+OVH, Western Europe (London)1 Zones
+Newport
+United Kingdom
+Oracle Cloud, UK Gov West (Newport)1 Zones
+uk-gov-newport-1
+Oracle Cloud, UK West (Newport)1 Zones
+uk-cardiff-1
+Atlanta
+United States
+Microsoft Azure, East US 3 (Atlanta)3 ZonesPlanned
+eastus3
+Austin
+United States
+Microsoft Azure, US Gov Texas1 Zones
+usgovtexas
+Charleston
+United States
+Google Cloud, South Carolina3 Zones
+us-east1
+Cheyenne
+United States
+Microsoft Azure, West Central US (Cheyenne)3 Zones
+westcentralus
+Chicago
+United States
+Microsoft Azure, North Central US (Chicago)1 Zones
+northcentralus
+Oracle Cloud, US DoD North1 Zones
+us-gov-chicago-1
+Oracle Cloud, US Midwest (Chicago)1 Zones
+us-chicago-1
+Columbus
+United States
+Amazon Web Services, AWS GovCloud (US-East)3 Zones
+us-gov-east-1
+Amazon Web Services, US East (Ohio)3 Zones
+us-east-2
+Google Cloud, Columbus3 Zones
+us-east5
+Dallas
+United States
+Google Cloud, Dallas3 Zones
+us-south1
+IBM Cloud, Dallas3 Zones
+us-south
+Des Moines
+United States
+Microsoft Azure, Central US (Des Moines)3 Zones
+centralus
+Microsoft Azure, US DoD Central1 Zones
+usdodwest
+Microsoft Azure, US Sec West Central3 Zones
+Hermiston
+United States
+Amazon Web Services, AWS GovCloud (US-West)3 Zones
+us-gov-west-1
+Amazon Web Services, US West (Oregon)4 Zones
+us-west-1
+Las Vegas
+United States
+Google Cloud, Las Vegas3 Zones
+us-west4
+Los Angeles
+United States
+Google Cloud, Los Angeles3 Zones
+us-west2
+Moses Lake
+United States
+Microsoft Azure, West US 2 (Quincy)3 Zones
+westus2
+Omaha
+United States
+Google Cloud, Iowa4 Zones
+us-central1
+Phoenix
+United States
+Google Cloud, Phoenix3 ZonesPlanned
+Microsoft Azure, US Gov Arizona1 Zones
+usgovarizona
+Microsoft Azure, West US 3 (Phoenix)3 Zones
+westus3
+Oracle Cloud, US DoD West1 Zones
+us-gov-phoenix-1
+Oracle Cloud, US Gov West (Phoenix)1 Zones
+us-luke-1
+Oracle Cloud, US West (Phoenix)3 Zones
+us-phoenix-1
+Portland
+United States
+OVH, West Coast (Seattle)1 Zones
+Richmond
+United States
+Microsoft Azure, East US (Richmond)3 Zones
+eastus
+Microsoft Azure, East US 2 (Richmond)3 Zones
+eastus2
+Microsoft Azure, US DoD East1 Zones
+usdodeast
+Microsoft Azure, US Sec East1 Zones
+usseceast
+Salt Lake City
+United States
+Google Cloud, Salt Lake City3 Zones
+us-west3
+San Antonio
+United States
+Microsoft Azure, South Central US (San Antonio)3 Zones
+southcentralus
+San Francisco
+United States
+Alibaba Cloud, US West 1 (Silicon Valley)2 Zones
+us-west-1
+Amazon Web Services, US West (Northern California)3 Zones
+us-west-2
+Microsoft Azure, US Sec West1 Zones
+ussecwest
+Microsoft Azure, West US (San Francisco)1 Zones
+westus
+Oracle Cloud, US West (San Jose)1 Zones
+us-sanjose-1
+Tencent Cloud, Western U.S. (Silicon Valley)2 Zones
+na-siliconvalley
+The Dalles
+United States
+Google Cloud, Oregon3 Zones
+us-west1
+Washington
+United States
+Alibaba Cloud, US East 1 (Virginia)2 Zones
+us-east-1
+Amazon Web Services, US East (Northern Virginia)6 Zones
+us-east-1
+Google Cloud, Northern Virginia3 Zones
+us-east4
+IBM Cloud, Washington DC3 Zones
+us-east
+Microsoft Azure, US Gov Virginia 3 Zones
+usgovvirginia
+Oracle Cloud, US DoD East1 Zones
+us-ashburn-1
+Oracle Cloud, US East (Ashburn)3 Zones
+us-ashburn-1
+Oracle Cloud, US Gov East (Ashburn)1 Zones
+us-langley-1
+OVH, East Coast (Washington DC)1 Zones
+Tencent Cloud, Eastern U.S. (Virginia)2 Zones
+na-ashburn
+
+Local Zones
+Metro Area
+Zone Name, Parent Region, Access Facility
+Buenos Aires
+Argentina
+Amazon Web Services, us-east-1-bue-1a, US East (Northern Virginia),
+OVH, Buenos Aires, , Planned
+Melbourne
+Australia
+Google Cloud, mel-zone1-1988, Melbourne (australia-southeast2),
+Google Cloud, mel-zone1-4843, Melbourne (australia-southeast2),
+Perth
+Australia
+Amazon Web Services, ap-southeast-2-per-1a, Asia Pacific (Sydney),
+Microsoft Azure, Perth, , Planned
+Sydney
+Australia
+Google Cloud, syd-zone1-1660, Sydney (australia-southeast1),
+Google Cloud, syd-zone1-1605, Sydney (australia-southeast1),
+Vienna
+Austria
+Amazon Web Services, eu-central-1-vie-1a, Europe (Frankfurt), Planned
+OVH, Vienna, ,
+Brussels
+Belgium
+Amazon Web Services, eu-west-3-bru-1a, Europe (Paris), Planned
+OVH, Brussels, ,
+Rio de Janeiro
+Brazil
+Amazon Web Services, us-east-1-rio-1a, US East (Northern Virginia), Planned
+São Paulo
+Brazil
+Google Cloud, gru-zone1-1057, São Paulo (southamerica-east1),
+Google Cloud, gru-zone1-165, São Paulo (southamerica-east1),
+Google Cloud, gru-zone1-7580, São Paulo (southamerica-east1),
+OVH, São Paulo, , Planned
+Sofia
+Bulgaria
+OVH, Sofia, , Planned
+London
+Canada
+Google Cloud, lhr-zone1-47, London (europe-west2),
+Google Cloud, lhr-zone1-832, London (europe-west2),
+Montréal
+Canada
+Google Cloud, yul-zone1-1944, Montreal (northamerica-northeast1),
+Toronto
+Canada
+Amazon Web Services, ca-central-1-yto-1a, Canada (Central), Planned
+Google Cloud, yyz-zone1-2206, Toronto (northamerica-northeast2),
+Google Cloud, yyz-zone1-392, Toronto (northamerica-northeast2),
+Vancouver
+Canada
+Amazon Web Services, ca-west-1-yvr-1a, Canada (West), Planned
+Santiago
+Chile
+Amazon Web Services, us-east-1-scl-1a, US East (Northern Virginia),
+Google Cloud, scl-zone1-1779, Santiago (southamerica-west1),
+OVH, Santiago, , Planned
+Hong Kong
+China
+Google Cloud, hkg-zone1-225, Hong Kong (asia-east2),
+Google Cloud, hkg-zone1-1118, Hong Kong (asia-east2),
+Bogotá
+Colombia
+Amazon Web Services, us-east-1-bog-1a, US East (Northern Virginia), Planned
+Prague
+Czech Republic
+Amazon Web Services, eu-central-1-prg-1a, Europe (Frankfurt), Planned
+OVH, Prague, ,
+Abidjan
+Côte d'Ivoire
+OVH, Abidjan, , Planned
+Copenhagen
+Denmark
+Amazon Web Services, eu-north-1-cph-1a, Europe (Stockholm),
+OVH, Copenhagen, , Planned
+Helsinki
+Finland
+Amazon Web Services, eu-north-1-hel-1a, US East (Northern Virginia),
+Google Cloud, hem-zone1-7098, Finland (europe-north1),
+Google Cloud, hem-zone1-8128, Finland (europe-north1),
+OVH, Helsinki, , Planned
+Marseille
+France
+OVH, Marseille, ,
+Paris
+France
+Google Cloud, cdg-zone1-1536, Paris (europe-west9),
+Google Cloud, cdg-zone1-181, Paris (europe-west9),
+Google Cloud, cdg-zone1-3342, Paris (europe-west9),
+Google Cloud, cdg-zone1-53, Paris (europe-west9),
+Frankfurt
+Germany
+Google Cloud, fra-zone1-58, Frankfurt (europe-west3),
+Google Cloud, fra-zone1-277, Frankfurt (europe-west3),
+Google Cloud, fra-zone1-683, Frankfurt (europe-west3),
+Hamburg
+Germany
+Amazon Web Services, eu-central-1-ham-1a, Europe (Frankfurt),
+Athens
+Greece
+Amazon Web Services, eu-south-1-ath-1a, Europe (Milan), Planned
+Bangalore
+India
+OVH, Bangalore, , Planned
+Kolkata
+India
+Amazon Web Services, ap-south-1-ccu-1a, Asia Pacific (Mumbai),
+Mumbai
+India
+Google Cloud, bom-zone1-2310, Mumbai (asia-south1),
+Google Cloud, bom-zone1-554, Mumbai (asia-south1),
+New Delhi
+India
+Amazon Web Services, ap-south-1-del-1a, Asia Pacific (Mumbai),
+Google Cloud, del-zone1-1622, Delhi (asia-south2),
+Google Cloud, del-zone1-2411, Delhi (asia-south2),
+OVH, New Delhi, , Planned
+Jakarta
+Indonesia
+Google Cloud, cgk-zone1-5865, Jakarta (asia-southeast2),
+Google Cloud, cgk-zone1-8168, Jakarta (asia-southeast2),
+Tel Aviv
+Israel
+Google Cloud, tlv-zone1-99030, Tel Aviv (me-west1),
+Google Cloud, tlv-zone1-99047, Tel Aviv (me-west1),
+Milan
+Italy
+Google Cloud, mil-zone1-1974, Milan (europe-west8),
+Google Cloud, mil-zone1-3348, Milan (europe-west8),
+Google Cloud, mil-zone1-99013, Milan (europe-west8),
+Google Cloud, mil-zone1-99034, Milan (europe-west8),
+OVH, Milan, ,
+Osaka
+Japan
+Google Cloud, kix-zone1-1791, Osaka (asia-northeast2),
+Google Cloud, kix-zone1-2072, Osaka (asia-northeast2),
+Tokyo
+Japan
+Google Cloud, nrt-zone1-452, Tokyo (asia-northeast1),
+Google Cloud, nrt-zone1-738, Tokyo (asia-northeast1), Planned
+Google Cloud, nrt-zone1-1893, Tokyo (asia-northeast1),
+Nairobi
+Kenya
+Amazon Web Services, af-south-1-nbo-1a, Africa (Cape Town), Planned
+Luxembourg
+Luxembourg
+OVH, Luxembourg, , Planned
+Mexico City
+Mexico
+OVH, Mexico City, , Planned
+Santiago de Querétaro
+Mexico
+Amazon Web Services, us-east-1-qro-1a, US East (Northern Virginia),
+Rabat
+Morocco
+OVH, Temara, ,
+Amsterdam
+Netherlands
+Amazon Web Services, eu-central-1-ams-1a, Europe (Frankfurt), Planned
+Google Cloud, ams-zone1-1236, Netherlands (europe-west4),
+Google Cloud, ams-zone1-1320, Netherlands (europe-west4),
+OVH, Amsterdam, ,
+Auckland
+New Zealand
+Amazon Web Services, ap-southeast-2-akl-1a, Asia Pacific (Sydney),
+OVH, Auckland, , Planned
+Lagos
+Nigeria
+Amazon Web Services, af-south-1-los-1a, Africa (Cape Town),
+Oslo
+Norway
+Amazon Web Services, eu-north-1-osl-1a, Europe (Stockholm), Planned
+OVH, Oslo, , Planned
+Muscat
+Oman
+Amazon Web Services, me-south-1-mct-1a, Middle East (Bahrain),
+Lima
+Peru
+Amazon Web Services, us-east-1-lim-1a, US East (Northern Virginia),
+Manila
+Philippines
+Amazon Web Services, ap-southeast-1-mnl-1a, Asia Pacific (Singapore),
+Warsaw
+Poland
+Amazon Web Services, eu-central-1-waw-1a, Europe (Frankfurt),
+Google Cloud, waw-zone1-2570, Warsaw (europe-central2),
+Google Cloud, waw-zone1-509, Warsaw (europe-central2),
+Lisbon
+Portugal
+Amazon Web Services, eu-south-2-lis-1a, Europe (Spain), Planned
+OVH, Lisbon, , Planned
+Bucharest
+Romania
+OVH, Bucharest, , Planned
+Singapore
+Singapore
+Google Cloud, sin-zone1-388, Singapore (asia-southeast1),
+Google Cloud, sin-zone1-2260, Singapore (asia-southeast1),
+Johannesburg
+South Africa
+Amazon Web Services, af-south-1-jnb-1a, Africa (Cape Town), Planned
+Google Cloud, jnb-zone1-850, Johannesburg (africa-south1),
+Google Cloud, jnb-zone1-9338, Johannesburg (africa-south1),
+Seoul
+South Korea
+Google Cloud, icn-zone1-3829, Seoul (asia-northeast3),
+Google Cloud, icn-zone1-7573, Seoul (asia-northeast3),
+Google Cloud, icn-zone1-7574, Seoul (asia-northeast3),
+Google Cloud, icn-zone1-7674, Seoul (asia-northeast3),
+Madrid
+Spain
+Google Cloud, mad-zone1-127, Madrid (europe-southwest1),
+Google Cloud, mad-zone1-130, Madrid (europe-southwest1),
+OVH, Madrid, ,
+Stockholm
+Sweden
+OVH, Stockholm, , Planned
+Zürich
+Switzerland
+Google Cloud, zrh-zone1-81, Zurich (europe-west6),
+Google Cloud, zrh-zone1-1086, Zurich (europe-west6),
+OVH, Zürich, ,
+Taipei
+Taiwan
+Amazon Web Services, ap-northeast-1-tpe-1a, Asia Pacific (Tokyo),
+Google Cloud, tsa-zone1-456, Taiwan (asia-east1),
+Google Cloud, tsa-zone1-99004, Taiwan (asia-east1),
+Google Cloud, tsa-zone1-2886, Taiwan (asia-east1),
+Bangkok
+Thailand
+Amazon Web Services, ap-southeast-1-bkk-1a, Asia Pacific (Singapore),
+Tunis
+Tunisia
+OVH, Tunis, , Planned
+Dubai
+United Arab Emirates
+OVH, Dubai, , Planned
+Manchester
+United Kingdom
+OVH, Manchester, , Planned
+Atlanta
+United States
+Amazon Web Services, us-east-1-atl-2a, US East (Northern Virginia),
+Google Cloud, dfw-zone1-4, Dallas (us-south1),
+OVH, Atlanta, ,
+Boston
+United States
+Amazon Web Services, us-east-1-bos-1a, US East (Northern Virginia),
+OVH, Boston, , Planned
+Chicago
+United States
+Amazon Web Services, us-east-1-chi-2a, US East (Northern Virginia),
+OVH, Chicago, ,
+Columbus
+United States
+Google Cloud, cmh-zone1-2377, Ohio,
+Dallas
+United States
+Amazon Web Services, us-east-1-dfw-2a, US East (Northern Virginia),
+OVH, Dallas, ,
+Denver
+United States
+Amazon Web Services, us-west-2-den-1a, US West (Oregon),
+OVH, Denver, ,
+Fresno
+United States
+Amazon Web Services, us-west-2-pdx-1a, US West (Oregon),
+Honolulu
+United States
+Amazon Web Services, us-west-2-hnl-1a, US West (Oregon),
+Houston
+United States
+Amazon Web Services, us-east-1-iah-2a, US East (Northern Virginia),
+Kansas City
+United States
+Amazon Web Services, us-east-1-mci-1a, US East (Northern Virginia),
+Las Vegas
+United States
+Amazon Web Services, us-west-2-las-1a, US West (Oregon),
+Google Cloud, las-zone1-770, Las Vegas (us-west4),
+Los Angeles
+United States
+Amazon Web Services, us-west-2-lax-1a,us-west-2-lax-1b, US West (Oregon),
+Google Cloud, lax-zone1-8, Los Angeles (us-west2),
+Google Cloud, lax-zone1-19, Los Angeles (us-west2),
+Google Cloud, lax-zone1-403, Los Angeles (us-west2),
+Google Cloud, lax-zone1-333, Los Angeles (us-west2),
+Microsoft Azure, Los Angeles, ,
+OVH, Los Angeles, ,
+Miami
+United States
+Amazon Web Services, us-east-1-mia-2a, US East (Northern Virginia),
+OVH, Miami, ,
+Minneapolis
+United States
+Amazon Web Services, us-east-1-msp-1a, US East (Northern Virginia),
+New York
+United States
+Amazon Web Services, us-east-1-nyc-1a, US East (Northern Virginia),
+OVH, Newark, ,
+Omaha
+United States
+Google Cloud, cbf-zone1-575, Iowa (us-central1),
+Philadelphia
+United States
+Amazon Web Services, us-east-1-phl-1a, US East (Northern Virginia),
+Phoenix
+United States
+Amazon Web Services, us-west-2-phx-2a, US West (Oregon),
+OVH, Phoenix, , Planned
+Portland
+United States
+Google Cloud, pdx-zone1-1922, Oregon (us-west1),
+Salt Lake City
+United States
+Google Cloud, slc-zone1-99001, Salt Lake City (us-west3),
+OVH, Salt Lake City, , Planned
+San Francisco
+United States
+OVH, Palo Alto, ,
+Seattle
+United States
+Amazon Web Services, us-west-2-sea-1a, US West (Oregon),
+OVH, Seattle, ,
+St. Louis
+United States
+OVH, St. Louis, ,
+Washington
+United States
+Google Cloud, iad-zone1-1, Northern Virginia (us-east4),
+Google Cloud, iad-zone1-5467, Northern Virginia (us-east4),
+Hanoi
+Vietnam
+Amazon Web Services, ap-southeast-1-han-1a, Asia Pacific (Singapore), Planned
+
+Alibaba Cloud, Global Switch Hong Kong, Global Switch
+18 Chun Yat Street, Hong Kong, China
+Alibaba Cloud, HKCOLO Sino Favour Center (SFC), HKCOLO
+Sino Favour Centre, Hong Kong, China
+Alibaba Cloud, MEGA-i, SUNeVision
+399 Chai Wan Road, Chai Wan, China
+Alibaba Cloud, Vantage On Lok HGK1, Vantage Data Centers
+On Ting Industrial Centre, 3 On Chuen St, Fanling, Hong Kong, China
+Amazon Web Services, Equinix HK1, Equinix
+168 Yeung Uk Road , Hong Kong, China
+Amazon Web Services, MEGA-i, SUNeVision
+399 Chai Wan Road, Chai Wan, China
+Google Cloud, China Mobile Hong Kong, China Mobile
+3 Chun Cheong St, Tseung Kwan O, China
+Google Cloud, Equinix HK2, Equinix
+3 Shing Yiu Street, Hong Kong, China
+Google Cloud, MEGA-i, SUNeVision
+399 Chai Wan Road, Chai Wan, China
+Huawei Cloud, Equinix HK2, Equinix
+3 Shing Yiu Street, Hong Kong, China
+Huawei Cloud, Global Switch Hong Kong Sai Kung, Global Switch
+Hong Kong, China
+Huawei Cloud, MEGA IDC (Phase 1), SUNeVision
+297 Wan Po Road, Hong Kong, China
+Huawei Cloud, MEGA-i, SUNeVision
+399 Chai Wan Road, Chai Wan, China
+IBM Cloud, Equinix HK1, Equinix
+168 Yeung Uk Road , Hong Kong, China
+Microsoft Azure, Equinix HK1, Equinix
+168 Yeung Uk Road , Hong Kong, China
+Microsoft Azure, MEGA-i, SUNeVision
+399 Chai Wan Road, Chai Wan, China
+Tencent Cloud, Equinix HK2, Equinix
+3 Shing Yiu Street, Hong Kong, China
+Tencent Cloud, Equinix HK5, Equinix
+299 Wan Po Road, Tseung Kwan O, China
+Tencent Cloud, MEGA-i, SUNeVision
+399 Chai Wan Road, Chai Wan, China
+Huhehaote
+China
+Alibaba Cloud, @hub Inner Mongolia, @hub
+Huhehaote, China
+Alibaba Cloud, Alibaba China North 5 (Hohhot), Alibaba Cloud
+Huhehaote, China
+Alibaba Cloud, Inner Mongolia-Hohhot-A, Chief Telecom
+Huhehaote, China
+Jinan
+China
+Alibaba Cloud, ap-cn-jinan-gx-A, Chief Telecom
+Jinan, China
+Tencent Cloud, ap-jinan-a-ch, Tencent Cloud
+Jinan, China
+Nanjing
+China
+Alibaba Cloud, Alibaba China East 3 (Nanjing), Alibaba Cloud
+Nanjing, China
+Tencent Cloud, ap-nanjing-2, Tencent Cloud
+Nanjing, China
+Tencent Cloud, ap-nanjing-3, Tencent Cloud
+Nanjing, China
+Tencent Cloud, Princeton Digital NJ1 (Building 1), Princeton Digital Group
+Jiangning National High-Tech Industrial Zone, Nanjing, China
+Qingdao
+China
+Alibaba Cloud, Qingdao-Laoshan-A, China Unicom
+Qingdao, China
+Alibaba Cloud, Qingdao-Licang-A, Alibaba Cloud
+Qingdao, China
+Huawei Cloud, Huawei-Qingdao-Hongdao, China Mobile
+Qingdao, China
+Shanghai
+China
+Alibaba Cloud, Changshu-Bixi-A, Alibaba Cloud
+Shanghai, China
+Alibaba Cloud, China Telecom Shanghai Guilin, China Telecom
+7 Guijing Rd, Shanghai, China
+Alibaba Cloud, GDS SH2, GDS Services
+6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone, Pudong, China
+Alibaba Cloud, Shanghai-Baoshan-A, China Telecom
+Shanghai, China
+Alibaba Cloud, Shanghai-Baoshan-C, VNET
+Shanghai, China
+Alibaba Cloud, Shanghai-Baoshan-D, China Mobile
+Shanghai, China
+Alibaba Cloud, Shanghai-Fengxian-A, China Telecom
+Shanghai, China
+Alibaba Cloud, Shanghai-Jiading-A, China Telecom
+Shanghai, China
+Alibaba Cloud, Shanghai-Minhang-A, Not specified
+Shanghai, China
+Alibaba Cloud, Shanghai-Pudong-A, China Mobile
+Shanghai, China
+Alibaba Cloud, Shanghai-Pudong-B, China Telecom
+Shanghai, China
+Alibaba Cloud, Shanghai-Pudong-C, Alibaba Cloud
+Shanghai, China
+Alibaba Cloud, Shanghai-Pudong-D, China Unicom
+Shanghai, China
+Alibaba Cloud, Shanghai-Pudong-E, Alibaba Cloud
+Shanghai, China
+Alibaba Cloud, Taicang-Huangjing-A, Alibaba Cloud
+Shanghai, China
+Amazon Web Services, GDS SH3, GDS Services
+6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone, Pudong, China
+Huawei Cloud, China Mobile Shanghai Baoxin, China Mobile
+Shanghai, China
+Huawei Cloud, China Mobile Suzhou Wujiang Fenhu, China Mobile
+Shanghai, China
+Huawei Cloud, China Unicom Suzhou Wuzhong Guoke, China Unicom
+Shanghai, China
+Huawei Cloud, Cloud data center of Hangzhou Iron & Steel Group, Carrier-neutral data center
+Shanghai, China
+Huawei Cloud, GDS Shanghai, Carrier-neutral data center
+Shanghai, China
+Huawei Cloud, Huawei Hangzhou Research Center, Huawei Cloud
+Shanghai, China
+Huawei Cloud, Kunshan Kunhui Suzhou, Kunshan Kunhui
+Shanghai, China
+Huawei Cloud, Shanghai-Baoshan-A, China Telecom
+Shanghai, China
+Huawei Cloud, Shanghai-Jiading-A, China Telecom
+Shanghai, China
+Huawei Cloud, Shanghai-Pudong-A, China Mobile
+Shanghai, China
+Huawei Cloud, Shanghai-Sinnet, SINNET
+Shanghai, China
+Microsoft Azure, China Telecom Shanghai, China Telecom
+1761 Si Chuan Bei Lu, Shanghai, China
+Microsoft Azure, GDS SH1, GDS Services
+6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone, Pudong, China
+Microsoft Azure, GDS SH1, GDS Services
+6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone, Pudong, China
+Tencent Cloud, ap-financialcloud-b-bx, Tencent Cloud
+Shanghai, China
+Tencent Cloud, ap-financialcloud-shanghai-d-td, Tencent Cloud
+Shanghai, China
+Tencent Cloud, ap-financialcloud-shanghai-e-sj, Tencent Cloud
+Shanghai, China
+Tencent Cloud, ap-selfdrivingcloud-a-sj, Tencent Cloud
+Shanghai, China
+Tencent Cloud, ap-selfdrivingcloud-b-yh, Tencent Cloud
+Shanghai, China
+Tencent Cloud, ap-shanghai-1, Tencent Cloud
+Shanghai, China
+Tencent Cloud, ap-shanghai-2, Tencent Cloud
+Shanghai, China
+Tencent Cloud, ap-shanghai-4, Tencent Cloud
+Shanghai, China
+Tencent Cloud, ap-shanghai-bls-2, Tencent Cloud
+Shanghai, China
+Tencent Cloud, ap-shanghai-bls-3, Tencent Cloud
+Shanghai, China
+Tencent Cloud, E-JS Campus 03, Not specified
+1368 Wanrong Road, Shanghai, China
+Tencent Cloud, GDS KS1, GDS Services
+Huaqiao International Commerce City , Kunshan, China
+Tencent Cloud, GDS SH2, GDS Services
+6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone, Pudong, China
+Tencent Cloud, GDS SH5, GDS Services
+51 Daxiu Road, Shanghai, China
+Shenyang
+China
+Tencent Cloud, ap-shenyang-a-tx, Tencent Cloud
+Shenyang, China
+Shenzhen
+China
+Alibaba Cloud, China Unicom Guangzhou, China Unicom
+Shenzhen, China
+Alibaba Cloud, GDS SZ4, GDS Services
+5 Lanzhu Rd, Shenzhen, China
+Alibaba Cloud, NETNIC Runxun Qianhai Cloud Center, NETNIC
+87 Hengping Road, Shenzhen, China
+Alibaba Cloud, Shenzhen-Baoan-B, YOVOLE
+Shenzhen, China
+Amazon Web Services, GDS SZ3, GDS Services
+51 Hongliu Rd, Shenzhen, China
+Tencent Cloud, ap-financialcloud-b-jx, Tencent Cloud
+Shenzhen, China
+Tencent Cloud, ap-financialcloud-shenzhen-d-bh, Tencent Cloud
+Shenzhen, China
+Tencent Cloud, ap-financialcloud-shenzhen-e-lj, Tencent Cloud
+Shenzhen, China
+Tencent Cloud, ap-shenzhen-b-bh, Tencent Cloud
+Shenzhen, China
+Tencent Cloud, ap-shenzhen-f-lj, Tencent Cloud
+Shenzhen, China
+Tencent Cloud, China Telecom Shahe IDC, China Telecom
+4 Shenyun Road , Shenzhen, China
+Tencent Cloud, GDS SZ3, GDS Services
+51 Hongliu Rd, Shenzhen, China
+Tencent Cloud, Souidc Shenzhen Shahe, SouiDC
+4 Shenyun Road , Shenzhen, China
+Shijiazhuang
+China
+Tencent Cloud, ap-shijiazhuang-a-cs, Tencent Cloud
+Shijiazhuang, China
+Taiyuan
+China
+Tencent Cloud, ap-taiyuan-a-zx, Tencent Cloud
+Taiyuan, China
+Tianjin
+China
+Alibaba Cloud, ap-cn-tianjin-jn-A, Alibaba Cloud
+Tianjin, China
+Tencent Cloud, ap-c-tianjin-gx, Tencent Cloud
+Tianjin, China
+Ulanqab
+China
+Alibaba Cloud, Ulanqab-Development Zone-A, Alibaba Cloud
+Ulanqab, China
+Alibaba Cloud, Ulanqab-Jining-A, Alibaba Cloud
+Ulanqab, China
+Alibaba Cloud, Ulanqab-Qianqi-A, Alibaba Cloud
+Ulanqab, China
+Huawei Cloud, Huawei-Ulanqab-Jining, Huawei Cloud
+Ulanqab, China
+Huawei Cloud, Huawei-Ulanqab-Meiguiying, Huawei Cloud
+Ulanqab, China
+Wuhan
+China
+Alibaba Cloud, ap-cn-wuhan-lr-dh-A, Alibaba Cloud
+Wuhan, China
+Huawei Cloud, Huawei-Wuhan-Huawei, Huawei Cloud
+Wuhan, China
+Huawei Cloud, Huawei-Wuhan-Wugang, Huawei Cloud
+Wuhan, China
+Tencent Cloud, ap-wuhan-ec, Tencent Cloud
+Wuhan, China
+Wuhu
+China
+Huawei Cloud, Huawei-Wuhu-Zhijiao, Huawei Cloud
+Wuhu, China
+Huawei Cloud, Huawei-Wuhu–Jiangbei, Huawei Cloud
+Wuhu, China
+Huawei Cloud, Huawei-Wuhu–Sanshan, Huawei Cloud
+Wuhu, China
+Xi'an
+China
+Alibaba Cloud, China Telecom Xi’an, China Telecom
+56 Gao Xin Lu, Xi'an, China
+Tencent Cloud, ap-xian-a-xx, Tencent Cloud
+Xi'an, China
+Yinchuan
+China
+Amazon Web Services, Industrial Park IDC, Ningxia West Cloud Data
+Yinchuan, China
+Amazon Web Services, Shapotou IDC, Ningxia West Cloud Data
+Yinchuan, China
+Zhangjiakou
+China
+Alibaba Cloud, Zhangjiakou-Miaotan-A, Alibaba Cloud
+Zhangjiakou, China
+Alibaba Cloud, Zhangjiakou-Zhangbei-A, Alibaba Cloud
+Zhangjiakou, China
+Alibaba Cloud, Zhangjiakou-Zhangbei-B, Alibaba Cloud
+Zhangjiakou, China
+Zhengzhou
+China
+Alibaba Cloud, Zhengzhou-HighTech-A, China Telecom
+Zhengzhou, China
+Tencent Cloud, ap-zhengzhou-a-gx, Tencent Cloud
+Zhengzhou, China
+Bogotá
+Colombia
+Amazon Web Services, Equinix BG1, Equinix
+Carrera 106 #15 a 25, Bogotá, Colombia
+Google Cloud, Equinix BG1, Equinix
+Carrera 106 #15 a 25, Bogotá, Colombia
+Google Cloud, ODATA BG01, Aligned Data Centers
+Zona Franca Metropolitana de Cota Predio San Rafael, Cota, Colombia
+Oracle Cloud, Claro Triara Cota, Claro
+Kilómetro7.5 autopista Medellín, Funza, Colombia
+Oracle Cloud, Equinix BG1, Equinix
+Carrera 106 #15 a 25, Bogotá, Colombia
+Prague
+Czech Republic
+Amazon Web Services, CE Colo DC, CE Colo
+Nad Elektrarnou 1428/47, Prague, Czech Republic
+Google Cloud, CE Colo DC, CE Colo
+Nad Elektrarnou 1428/47, Prague, Czech Republic
+Copenhagen
+Denmark
+Amazon Web Services, Digital Realty CPH2, Digital Realty
+Industriparken 20, Ballerup, Denmark
+Google Cloud, Digital Realty CPH1, Digital Realty
+Industriparken 20, Ballerup, Denmark
+Microsoft Azure, Digital Realty CPH1, Digital Realty
+Industriparken 20, Ballerup, Denmark
+Cairo
+Egypt
+Huawei Cloud, Huawei Cloud North Africa (Cairo), Huawei Cloud
+Cairo, Egypt
+Helsinki
+Finland
+Amazon Web Services, Equinix HE6, Equinix
+Sinimaentie 12, Espoo, Finland
+Google Cloud, Arelion Helsinki, Arelion
+Valimotie 5, 00380 , Helsinki, Finland
+Google Cloud, Equinix HE7, Equinix
+Sinimaentie 8, Helsinki, Finland
+Lille
+France
+OVH, Etix Lille #2, Etix Everywhere
+1681 Rue des Saules, Sainghin-en-Mélantois, France
+Marseille
+France
+Amazon Web Services, Digital Realty MRS1, Digital Realty
+40 Avenue Roger Salengro, Marseille, France
+Google Cloud, Digital Realty MRS1, Digital Realty
+40 Avenue Roger Salengro, Marseille, France
+Google Cloud, Digital Realty MRS2, Digital Realty
+6 Bassin Léon Gourret, Marseille, France
+Microsoft Azure, Digital Realty MRS1, Digital Realty
+40 Avenue Roger Salengro, Marseille, France
+Oracle Cloud, Digital Realty MRS2, Digital Realty
+6 Bassin Léon Gourret, Marseille, France
+Paris
+France
+Amazon Web Services, Digital Realty PAR7, Digital Realty
+1-3 Rue Rateau, Paris, France
+Amazon Web Services, Equinix PA3, Equinix
+114 Rue Ambroise Croizat, Saint Denis, France
+Amazon Web Services, TELEHOUSE Paris (Voltaire), TELEHOUSE
+137 Boulevard Voltaire, Paris, France
+Google Cloud, Data4 PAR 01 DC1, DATA4 Group
+Route de Nozay, Marcoussis, France
+Google Cloud, Digital Realty PAR7, Digital Realty
+1-3 Rue Rateau, Paris, France
+Google Cloud, Global Switch Paris East, Global Switch
+7-9 Rue Petit, Clichy, France
+Google Cloud, TELEHOUSE Paris (Voltaire), TELEHOUSE
+137 Boulevard Voltaire, Paris, France
+IBM Cloud, Equinix PA2, Equinix
+114 Rue Ambroise Croizat, Saint Denis, France
+IBM Cloud, Equinix PA4, Equinix
+110 Bis Avenue du General Leclerc, Pantin, France
+IBM Cloud, Global Switch Paris East, Global Switch
+7-9 Rue Petit, Clichy, France
+Microsoft Azure, Digital Realty PAR5, Digital Realty
+11-13 Avenue des Arts et Metiers, Paris, France
+Microsoft Azure, Equinix PA4, Equinix
+110 Bis Avenue du General Leclerc, Pantin, France
+Oracle Cloud, TELEHOUSE Paris (Voltaire), TELEHOUSE
+137 Boulevard Voltaire, Paris, France
+OVH, Equinix PA1, Equinix
+167 Rue de la Belle Etoile, Roissy, France
+OVH, Global Switch Paris East, Global Switch
+7-9 Rue Petit, Clichy, France
+OVH, TELEHOUSE Paris (Voltaire), TELEHOUSE
+137 Boulevard Voltaire, Paris, France
+Berlin
+Germany
+Amazon Web Services, CarrierColo Berlin B (IPB Berlin), CarrierColo
+Lutzowstrasse 105-106, Berlin, Germany
+Google Cloud, NorthC Data Center Berlin 2, Lumen
+Gradestrasse 60, Berlin, Germany
+Google Cloud, NTT GDC Berlin BER1, NTT Global Data Centers
+Nonnendammallee 15, Berlin, Germany
+Microsoft Azure, NTT GDC Berlin BER1, NTT Global Data Centers
+Nonnendammallee 15, Berlin, Germany
+Düsseldorf
+Germany
+Google Cloud, Digital Realty DUS1, Digital Realty
+In der Steele 25-45, Düsseldorf, Germany
+Frankfurt
+Germany
+Alibaba Cloud, Equinix FR4, Equinix
+Larchenstrasse 110, Frankfurt, Germany
+Alibaba Cloud, NTT GDC Frankfurt FRA1A, NTT Global Data Centers
+Eschborner Landstrasse 100, Frankfurt, Germany
+Amazon Web Services, Digital Realty FRA6, Digital Realty
+Hanauer Landstrasse 300-300a, Frankfurt, Germany
+Amazon Web Services, Equinix FR5, Equinix
+Schwalbacher Str. 60-62, Eschborn, Germany
+Google Cloud, Digital Realty FRA1, Digital Realty
+Hanauer Landstrasse 302, Frankfurt, Germany
+Google Cloud, Equinix FR4, Equinix
+Larchenstrasse 110, Frankfurt, Germany
+Google Cloud, NTT GDC Frankfurt FRA1A, NTT Global Data Centers
+Eschborner Landstrasse 100, Frankfurt, Germany
+IBM Cloud, CyrusOne FRA1, CyrusOne
+Leonhard-Heisswolf Strasse 4, Frankfurt, Germany
+IBM Cloud, Digital Realty FRA1, Digital Realty
+Hanauer Landstrasse 302, Frankfurt, Germany
+IBM Cloud, Equinix FR4, Equinix
+Larchenstrasse 110, Frankfurt, Germany
+IBM Cloud, NTT GDC Frankfurt FRA1A, NTT Global Data Centers
+Eschborner Landstrasse 100, Frankfurt, Germany
+Microsoft Azure, Digital Realty FRA11, Digital Realty
+Weissmuellerstrasse 40, Frankfurt, Germany
+Microsoft Azure, Equinix FR7, Equinix
+Gutleutstrasse 310, Frankfurt, Germany
+Oracle Cloud, Digital Realty FRA10, Digital Realty
+Weissmuellerstrasse 38, Frankfurt, Germany
+Oracle Cloud, Equinix FR5, Equinix
+Schwalbacher Str. 60-62, Eschborn, Germany
+OVH, Equinix FR5, Equinix
+Schwalbacher Str. 60-62, Eschborn, Germany
+Tencent Cloud, China Mobile Frankfurt, China Mobile
+Starkenburgstrasse 12, Mörfelden, Germany
+Tencent Cloud, Digital Realty FRA1, Digital Realty
+Hanauer Landstrasse 302, Frankfurt, Germany
+Hamburg
+Germany
+Amazon Web Services, Portus (IPHH3/R1), *Internet Port Hamburg (IPHH)* under Portus
+Wendenstrasse 251, Hamburg, Germany
+Google Cloud, Global Connect Hamburg I, Global Connect
+Flughafenstrasse 54 A, Hamburg, Germany
+Google Cloud, Lumen Hamburg, CenturyLink
+Suderstrasse 198, Hamburg, Germany
+Munich
+Germany
+Amazon Web Services, Equinix MU1, Equinix
+Seidlstrasse 3, Munich, Germany
+Google Cloud, Equinix MU1, Equinix
+Seidlstrasse 3, Munich, Germany
+Microsoft Azure, EdgeConneX MUC01, EdgeConneX
+Marsstraße 5, Kirchheim bei München, Germany
+Athens
+Greece
+Amazon Web Services, Digital Realty ATH3, Digital Realty
+Ifestou 74, Koropi, Greece
+Google Cloud, Digital Realty ATH1, Digital Realty
+Ifestou 76, Koropi, Greece
+Bangalore
+India
+Amazon Web Services, NTT Bangalore BLR2, NTT Global Data Centers
+112, 7th Cross Rd., Bangalore, India
+Chennai
+India
+Amazon Web Services, STT Chennai 1, STT GDC India Pvt Ltd
+4 Swami Sivananda Salai Road, Chennai, India
+Google Cloud, NTT Chennai CNN1, NTT Global Data Centers
+67, Mathiravedu, Velappanchavadi, Chennai, India
+Google Cloud, STT Chennai 1, STT GDC India Pvt Ltd
+4 Swami Sivananda Salai Road, Chennai, India
+IBM Cloud, STT Chennai 1, STT GDC India Pvt Ltd
+4 Swami Sivananda Salai Road, Chennai, India
+Microsoft Azure, Nxtra Chennai III, Nxtra
+101 Santhome High Road, Chennai, India
+Microsoft Azure, STT Chennai 1, STT GDC India Pvt Ltd
+4 Swami Sivananda Salai Road, Chennai, India
+Hyderabad
+India
+Amazon Web Services, STT Hyderabad 1, STT GDC India Pvt Ltd
+Software Units Layout CFC-1, Hyderabad, India
+Google Cloud, STT Hyderabad 1, STT GDC India Pvt Ltd
+Software Units Layout CFC-1, Hyderabad, India
+Oracle Cloud, Sify Hyderabad, Sify
+Survey No 115, Financial District, Nanakram Guda, Gachibowli, Hyderabad, India
+Kolkata
+India
+Amazon Web Services, STT Kolkata 1, STT GDC India Pvt Ltd
+1, Videsh Sanchar Bhavan, 18, CIT Rd, Kolkata, India
+Mumbai
+India
+Amazon Web Services, Equinix MB1, Equinix
+Unit A-001 Boomerang, Chandivali Road, Mumbai, India
+Amazon Web Services, Equinix MB2, Equinix
+Plot 37, Chandivali Farm Road, Andheri East, Mumbai, India
+Amazon Web Services, Sify Mumbai 03 Rabale (Towers 1-4), Sify
+Plot no. 847/1/2, TTC Industrial Area, Navi Mumbai, India
+Google Cloud, Equinix MB1, Equinix
+Unit A-001 Boomerang, Chandivali Road, Mumbai, India
+Google Cloud, STT Mumbai 1, STT GDC India Pvt Ltd
+Lokmanya Videsh Sanchar Bhavan, Kashinath Dhuru Marg, Oppo. Kirti College, Mumbai, India
+IBM Cloud, Equinix MB2, Equinix
+Plot 37, Chandivali Farm Road, Andheri East, Mumbai, India
+Microsoft Azure, Nxtra Mumbai I, Nxtra
+Sector 2, Kopar Khairane, Navi Mumbai, India
+Microsoft Azure, STT Mumbai 1, STT GDC India Pvt Ltd
+Lokmanya Videsh Sanchar Bhavan, Kashinath Dhuru Marg, Oppo. Kirti College, Mumbai, India
+Oracle Cloud, Equinix MB1, Equinix
+Unit A-001 Boomerang, Chandivali Road, Mumbai, India
+Oracle Cloud, Sify Mumbai 03 Rabale (Towers 1-4), Sify
+Plot no. 847/1/2, TTC Industrial Area, Navi Mumbai, India
+OVH, Equinix MB2, Equinix
+Plot 37, Chandivali Farm Road, Andheri East, Mumbai, India
+Tencent Cloud, CtrlS Mumbai DC1, CtrlS
+Plot No. GEN 72/1/A, S Central Rd, TTC Industrial Area, Electronic Zone, MIDC Industrial Area, Navi Mumbai, India
+Tencent Cloud, NTT Mumbai 5, NTT Global Data Centers
+Lighthall C Wing, Mumbai, India
+New Delhi
+India
+Amazon Web Services, STT Delhi 2, STT GDC India Pvt Ltd
+IDC Building, Opp Savitri Cinema, New Delhi, India
+Google Cloud, Sify Noida 01, Sify
+Sify Technologies Ltd. Plot Number B7, Noida, India
+Google Cloud, STT Delhi 1, STT GDC India Pvt Ltd
+Videsh Sanchar Bhavan, New Delhi, India
+Pune
+India
+Microsoft Azure, STT Pune 1, STT GDC India Pvt Ltd
+Alandi Rd, V S N L Old Colony, Dighi, Pune, India
+Batam
+Indonesia
+Oracle Cloud, Oracle Cloud Indonesia North (Batam), Oracle Cloud
+Batam, Indonesia
+Jakarta
+Indonesia
+Alibaba Cloud, DCI Indonesia, H1 - JK1, DCI Indonesia
+Jawa Blok GG-5-1, Cikarang, Indonesia
+Alibaba Cloud, EdgeConneX JKT01, EdgeConneX
+Jl. Mataram no. 6A-6B, Lippo Cikarang, Jakarta, Indonesia
+Alibaba Cloud, NTT GDC Jakarta JKT2, NTT Global Data Centers
+Jl. Kuningan Barat Raya No.8, Jakarta, Indonesia
+Amazon Web Services, DCI Indonesia, H1 - JK3, DCI Indonesia
+Jawa Blok GG-5-1, Cikarang, Indonesia
+Amazon Web Services, NTT GDC Jakarta JKT2, NTT Global Data Centers
+Jl. Kuningan Barat Raya No.8, Jakarta, Indonesia
+Google Cloud, DCI Indonesia, H1 - JK1, DCI Indonesia
+Jawa Blok GG-5-1, Cikarang, Indonesia
+Google Cloud, NTT GDC Jakarta JKT2, NTT Global Data Centers
+Jl. Kuningan Barat Raya No.8, Jakarta, Indonesia
+Huawei Cloud, EDGE Jakarta, EDGE
+Jakarta, Indonesia
+Huawei Cloud, JK5 Jakarta, JK5
+Jakarta, Indonesia
+Microsoft Azure, Telkomsigma Serpong (DUPE), Telkomsigma
+Jl Kapt. Subijanto Dj, Tangerang, Indonesia
+Tencent Cloud, ap-jakarta-a-gambir, Tencent Cloud
+Jl Medan Merdeka Barat No. 21, Jakarta, Indonesia
+Tencent Cloud, Princeton Digital JC1, Princeton Digital Group
+Jl. Sumbawa Blok Bi 1, Cibitung, Indonesia
+Dublin
+Ireland
+Amazon Web Services, Digital Realty DUB2, Digital Realty
+24 Hume Ave, Dublin, Ireland
+Amazon Web Services, Eircom Clonshaugh, eir
+Willsborough Industrial Estate, Clonshaugh, Ireland
+Amazon Web Services, ServeCentric Dublin, ServeCentric
+Blanchardstown Corporate Park, Dublin, Ireland
+Google Cloud, Keppel DC Dublin 1, Keppel Data Centres
+4033 Citywest Ave, Citywest Business Campus, Dublin, Ireland
+Microsoft Azure, Digital Realty DUB2, Digital Realty
+24 Hume Ave, Dublin, Ireland
+Microsoft Azure, Equinix DB3, Equinix
+U2 North West Business Park, Dublin, Ireland
+Haifa
+Israel
+Amazon Web Services, MedOne Tirat Carmel (TC2), MedOne
+Carmelin St 4, Tirat Carmel, Israel
+Jerusalem
+Israel
+Oracle Cloud, Bynet Data Center Jerusalem of Silver, Bynet Data Communications
+Hartom St 14, Jerusalem, Israel
+Modi'in-Maccabim-Re'ut
+Israel
+Google Cloud, SDS1 Modiin, Shonfeld Data Services (SDS)
+Tsela HaHar 35, Modi'in-Maccabim-Re'ut, Israel
+Tel Aviv
+Israel
+Amazon Web Services, EdgeConneX TLV01, EdgeConneX
+Ha-Sadna'ot St 10, Herzliya, Israel
+Google Cloud, TIS Tel Aviv Burla Hub and Data Center, Telecom Italia Sparkle
+46 Burla Street, Tel Aviv, Israel
+Microsoft Azure, Bezeq International Ha’Sivim, Bezeq International
+18 Hasivim Street , Petah Tikva, Israel
+Microsoft Azure, SDS4 Petah Tikva, Shonfeld Data Services (SDS)
+Harakevet 8, Petah Tikva, Israel
+Milan
+Italy
+Amazon Web Services, CDLAN Caldera21, CDLAN
+Via Caldera 21 , Milan, Italy
+Amazon Web Services, Equinix ML2, Equinix
+Via Savona 125, Milan, Italy
+Google Cloud, Data4 Campus MIL01, DATA4 Group
+Via Monzoro 105, Cornaredo, Italy
+Google Cloud, IRIDEOS Avalon , IRIDEOS (Asterion)
+Via Caldera 21 , Milan, Italy
+Google Cloud, Telecom Italia Milano, Telecom Italia Sparkle
+Via Strada Antica di Cassano, 8, Milan, Italy
+Google Cloud, Telecom Italia Rozzano, Telecom Italia Sparkle
+Viale Toscana 3, Milan, Italy
+IBM Cloud, Data4 Campus MIL01, DATA4 Group
+Via Monzoro 105, Cornaredo, Italy
+IBM Cloud, IRIDEOS Avalon , IRIDEOS (Asterion)
+Via Caldera 21 , Milan, Italy
+Microsoft Azure, Data4 Campus MIL01, DATA4 Group
+Via Monzoro 105, Cornaredo, Italy
+Microsoft Azure, IRIDEOS Avalon , IRIDEOS (Asterion)
+Via Caldera 21 , Milan, Italy
+Oracle Cloud, Equinix ML2, Equinix
+Via Savona 125, Milan, Italy
+Turin
+Italy
+Google Cloud, DC Noovle - Cebrosa, Telecom Italia Sparkle
+Via Marisa Bellisario 2, Settimo Torinese, Italy
+Google Cloud, DC Noovle - Moncalieri , Telecom Italia Sparkle
+Via Alessandro Cruto, 2, Turin, Italy
+Osaka
+Japan
+Amazon Web Services, Equinix OS1, Equinix
+Shinmachi, 1 Chome−26−1, Osaka, Japan
+Amazon Web Services, TELEHOUSE Osaka (Osaka O2) , TELEHOUSE
+Osaka, Japan
+Google Cloud, Equinix OS1, Equinix
+Shinmachi, 1 Chome−26−1, Osaka, Japan
+Google Cloud, NTT West Osaka 3, NTT West
+3-1-7 Doujima, Osaka, Japan
+IBM Cloud, Equinix OS1, Equinix
+Shinmachi, 1 Chome−26−1, Osaka, Japan
+IBM Cloud, IDC Frontier Suita, IDC Frontier (SoftBank IDC)
+Osaka, Japan
+Microsoft Azure, Equinix OS1, Equinix
+Shinmachi, 1 Chome−26−1, Osaka, Japan
+Oracle Cloud, NTT Data Dojima, NTT Data
+3-1-21 Doujima, Osaka, Japan
+
+Tokyo
+Japan
+Amazon Web Services, Equinix TY10, Equinix
+2-2-19 Edagawa, Koto-ku, Tokyo, Japan
+Amazon Web Services, Equinix TY2, Equinix
+1-9-20 Higashi-Shinagawa, Shinagawa-ku, Tokyo, Japan
+Amazon Web Services, Equinix TY4, Equinix
+1-3-7 Otemachi, Chiyoda-ku, Tokyo, Japan
+Amazon Web Services, IIJ Cool Shiroi Data Center, IIJ
+Shiroi-shi, Chiba, Tokyo, Japan
+Google Cloud, @Tokyo CC1, @Tokyo
+5-6-36 Toyosa, Koto-ku, Tokyo, Japan
+Google Cloud, Equinix TY2, Equinix
+1-9-20 Higashi-Shinagawa, Shinagawa-ku, Tokyo, Japan
+Google Cloud, Equinix TY4, Equinix
+1-3-7 Otemachi, Chiyoda-ku, Tokyo, Japan
+Google Cloud, NTTData Com Otemachi, NTT Data
+Chiyoda-ku, Tokyo, Japan
+IBM Cloud, Equinix TY2, Equinix
+1-9-20 Higashi-Shinagawa, Shinagawa-ku, Tokyo, Japan
+IBM Cloud, Equinix TY3, Equinix
+1-2-16 Ariake, Koto-ku, Tokyo, Japan
+IBM Cloud, Equinix TY4, Equinix
+1-3-7 Otemachi, Chiyoda-ku, Tokyo, Japan
+IBM Cloud, IBM Tokyo (Makuhari), IBM
+1-1 Nakase, Mihama-ku, Tokyo, Japan
+Microsoft Azure, @Tokyo CC1, @Tokyo
+5-6-36 Toyosa, Koto-ku, Tokyo, Japan
+Microsoft Azure, Colt Tokyo Shiohama, Colt
+2-10-1 Shiohama, Koto-ku, Tokyo, Japan
+Microsoft Azure, Equinix TY4, Equinix
+1-3-7 Otemachi, Chiyoda-ku, Tokyo, Japan
+Oracle Cloud, Equinix TY4, Equinix
+1-3-7 Otemachi, Chiyoda-ku, Tokyo, Japan
+Oracle Cloud, NTTData Com Otemachi, NTT Data
+Chiyoda-ku, Tokyo, Japan
+Tencent Cloud, ap-tokyo-1, Tencent Cloud
+Tokyo, Japan
+Tencent Cloud, ap-tokyo-2, Tencent Cloud
+Tokyo, Japan
+Tencent Cloud, Equinix TY8, Equinix
+1-9-20 Higashi-Shinagawa, Shinagawa-ku, Tokyo, Japan
+Nairobi
+Kenya
+Google Cloud, IXAfrica NBO1, IXAfrica
+Nairobi, Kenya
+Oracle Cloud, iColo.io NBO1, iColo.io
+Mombasa Road, Nairobi, Kenya
+Kuala Lumpur
+Malaysia
+Alibaba Cloud, Kul-A, VNET
+Kuala Lumpur, Malaysia
+Alibaba Cloud, Kul-B, TM ONE
+Kuala Lumpur, Malaysia
+Alibaba Cloud, Kul-C, TIME dotcom
+Kuala Lumpur, Malaysia
+Microsoft Azure, AIMS Kuala Lumpur, AIMS
+Menara AIMS, Kuala Lumpur, Malaysia
+Microsoft Azure, Vantage KUL11, Vantage Data Centers
+Cyberjaya, Kuala Lumpur, Malaysia
+Mexico City
+Mexico
+Huawei Cloud, Elara Comunicaciones Mexico, Elara Comunicaciones
+Mexico City, Mexico
+Huawei Cloud, KIO Networks MEX 1, KIO Networks
+Mexico City, Mexico
+Huawei Cloud, KIO Networks MEX 2, KIO Networks
+Mexico City, Mexico
+Santiago de Querétaro
+Mexico
+Google Cloud, Equinix MX1, Equinix
+Carretera Estatal 431, "El Colorado-Galindo' km 3+800, Santiago de Querétaro, Mexico
+Google Cloud, Telmex Queretaro (Triara), Telmex
+Santiago de Querétaro, Mexico
+Microsoft Azure, KIO Networks QRO 1, KIO Networks
+Santiago de Querétaro, Mexico
+Oracle Cloud, Equinix MX1, Equinix
+Carretera Estatal 431, "El Colorado-Galindo' km 3+800, Santiago de Querétaro, Mexico
+Oracle Cloud, Telmex Queretaro (Triara), Telmex
+Santiago de Querétaro, Mexico
+Auckland
+New Zealand
+Amazon Web Services, Datacom Orbit, Datacom
+16-18 Piermark Drive, Rosedale, Auckland, New Zealand
+Microsoft Azure, Datacom Orbit, Datacom
+16-18 Piermark Drive, Rosedale, Auckland, New Zealand
+Lagos
+Nigeria
+Google Cloud, OADC Lagos, OADC
+Lekki, Lagos, Nigeria
+Oslo
+Norway
+Microsoft Azure, DigiPlex Ulven, DigiPlex
+Ulvenveien 82-89, Oslo, Norway
+Muscat
+Oman
+Amazon Web Services, Equinix MC1, Equinix
+Muscat, Oman
+Oracle Cloud, Datamount Jebel Akhdar, Datamount
+Jebel Akhdar, Muscat, Indonesia
+Manila
+Philippines
+Alibaba Cloud, ePLDT Vitro Makati, PLDT
+Makati City, Manila, Philippines
+Alibaba Cloud, Globe MK2, Globe
+Makati City, Manila, Philippines
+Google Cloud, ePLDT Vitro Makati, PLDT
+Makati City, Manila, Philippines
+Huawei Cloud, ePLDT Vitro Makati, PLDT
+Makati City, Manila, Philippines
+Huawei Cloud, ePLDT Vitro Pasig, PLDT
+Pasig City, Manila, Philippines
+Huawei Cloud, Globe MK2, Globe
+Makati City, Manila, Philippines
+Warsaw
+Poland
+Google Cloud, Equinix WA3, Equinix
+Aleje Jerozolimskie, Warsaw, Poland
+Google Cloud, Polcom Skawina, Polcom
+Skawina, Warsaw, Poland
+Microsoft Azure, Equinix WA3, Equinix
+Aleje Jerozolimskie, Warsaw, Poland
+Lisbon
+Portugal
+Google Cloud, Equinix LS1, Equinix
+Avenida Severiano Falcaol, Lisbon, Portugal
+Doha
+Qatar
+Google Cloud, Meeza M-Vault 2, Meeza
+Doha, Qatar
+Google Cloud, Meeza M-Vault 3, Meeza
+Doha, Qatar
+Google Cloud, Ooredoo QDC5, Ooredoo
+Mesaimeer, Doha, Qatar
+Microsoft Azure, Ooredoo QDC5, Ooredoo
+Mesaimeer, Doha, Qatar
+Jeddah
+Saudi Arabia
+Oracle Cloud, Center3 Jeddah (MG1), Center3
+Al Andalus 2623, Jeddah, Saudi Arabia
+Riyadh
+Saudi Arabia
+Huawei Cloud, Center3 Riyadh (DC2), Center3
+3291 Al Imam Saud Ibn Abdul Aziz Branch, Riyadh, Saudi Arabia
+Huawei Cloud, Mobily Malga 2, Mobily
+Riyadh, Saudi Arabia
+Oracle Cloud, Center3 Riyadh (DC2), Center3
+3291 Al Imam Saud Ibn Abdul Aziz Branch, Riyadh, Saudi Arabia
+Singapore
+Singapore
+Alibaba Cloud, Digital Realty SIN11 (Jurong West), Digital Realty
+36 Joo Koon Circle, Singapore, Singapore
+Alibaba Cloud, Equinix SG2, Equinix
+15 Pioneer Walk, Singapore, Singapore
+Alibaba Cloud, Global Switch Singapore Tai Seng, Global Switch
+2 Tai Seng Avenue, Singapore, Singapore
+Amazon Web Services, Equinix SG2, Equinix
+15 Pioneer Walk, Singapore, Singapore
+Amazon Web Services, Global Switch Singapore Tai Seng, Global Switch
+2 Tai Seng Avenue, Singapore, Singapore
+Amazon Web Services, New Media Express (NME) Singapore, New Media Express
+800 Upper Bukit Timah Road, Singapore, Singapore
+Google Cloud, Equinix SG2, Equinix
+15 Pioneer Walk, Singapore, Singapore
+Google Cloud, Global Switch Singapore Tai Seng, Global Switch
+2 Tai Seng Avenue, Singapore, Singapore
+Huawei Cloud, Equinix SG2, Equinix
+15 Pioneer Walk, Singapore, Singapore
+Huawei Cloud, Global Switch Singapore Tai Seng, Global Switch
+2 Tai Seng Avenue, Singapore, Singapore
+Huawei Cloud, Telin Singapore 1, Telin Singapore
+Changi North Way, Singapore, Singapore
+Huawei Cloud, Telin Singapore 3, Telin Singapore
+Tanjong Kling, Singapore, Singapore
+Microsoft Azure, Equinix SG2, Equinix
+15 Pioneer Walk, Singapore, Singapore
+Microsoft Azure, Global Switch Singapore Tai Seng, Global Switch
+2 Tai Seng Avenue, Singapore, Singapore
+Oracle Cloud, Equinix SG3, Equinix
+26A Ayer Rajah Crescent, Singapore, Singapore
+Oracle Cloud, Global Switch Singapore Tai Seng, Global Switch
+2 Tai Seng Avenue, Singapore, Singapore
+Tencent Cloud, Equinix SG3, Equinix
+26A Ayer Rajah Crescent, Singapore, Singapore
+Tencent Cloud, Keppel DC Singapore 4, Keppel Data Centres
+20 Tampines Street 92, Singapore, Singapore
+Cape Town
+South Africa
+Amazon Web Services, Teraco CT1, Teraco Data Environments
+260 Surrey Ave, Ferndale, Cape Town, South Africa
+Microsoft Azure, Teraco CT1, Teraco Data Environments
+260 Surrey Ave, Ferndale, Cape Town, South Africa
+Johannesburg
+South Africa
+Amazon Web Services, Teraco JB1, Teraco Data Environments
+18 Isando Road, Isando, Johannesburg, South Africa
+Google Cloud, Africa Data Centres JHB1, Africa Data Centres
+Die Hoewes, Centurion, Johannesburg, South Africa
+Google Cloud, Teraco JB1, Teraco Data Environments
+18 Isando Road, Isando, Johannesburg, South Africa
+Huawei Cloud, BCX Centurion, BCX
+Johannesburg, South Africa
+Huawei Cloud, MTN Centurion , MTN
+Johannesburg, South Africa
+Huawei Cloud, Teraco JB1, Teraco Data Environments
+18 Isando Road, Isando, Johannesburg, South Africa
+Microsoft Azure, Teraco JB1, Teraco Data Environments
+18 Isando Road, Isando, Johannesburg, South Africa
+Oracle Cloud, Africa Data Centres JHB1, Africa Data Centres
+Die Hoewes, Centurion, Johannesburg, South Africa
+Oracle Cloud, Telkom Park (Centurion), Telkom
+61 Oak Ave, Johannesburg, South Africa
+Seoul
+South Korea
+Alibaba Cloud, SK Broadband Seocho, SK Broadband
+Seoul, South Korea
+Alibaba Cloud, SK Broadband Sheffield, SK Broadband
+Seoul, South Korea
+Amazon Web Services, KINX Gasan, KINX
+Gasan, Seoul, South Korea
+Amazon Web Services, LG U+ Pyeongchon Mega Center, LG U+
+Pyeongchon, Seoul, South Korea
+Amazon Web Services, Lotte Data Communication (LDCC) Gasan, Lotte Data Communication
+150-1 Gasan-dong, Geumcheon-gu, Seoul, South Korea
+Google Cloud, KINX Dogok, KINX
+2624 Nambusunhwan-ro, Gangnam-gu, Seoul, South Korea
+Google Cloud, LG U+ Pyeongchon Mega Center, LG U+
+Pyeongchon, Seoul, South Korea
+Google Cloud, Sejong Telecom Yeoksam, Sejong Telecom
+Yeoksam, Seoul, South Korea
+Microsoft Azure, KINX Dogok, KINX
+2624 Nambusunhwan-ro, Gangnam-gu, Seoul, South Korea
+Microsoft Azure, LG CNS Sangam IT Center, LG CNS
+Sangam, Seoul, South Korea
+Oracle Cloud, KINX Gasan, KINX
+Gasan, Seoul, South Korea
+Oracle Cloud, KT Mokdong 1 (IDC 1), KT
+Mokdong, Seoul, South Korea
+Tencent Cloud, Equinix SL1, Equinix
+Samsung-ro, Seoul, South Korea
+Tencent Cloud, LG U+ Pyeongchon Mega Center, LG U+
+Pyeongchon, Seoul, South Korea
+Madrid
+Spain
+Google Cloud, Digital Realty MAD1, Digital Realty
+Calle de Cañada Real de las Merinas 15, Madrid, Spain
+Google Cloud, Digital Realty MAD4, Digital Realty
+Avenida de Bruselas 20, Madrid, Spain
+Google Cloud, Global Switch Madrid, Global Switch
+Calle de Yecora 4, Madrid, Spain
+IBM Cloud, Digital Realty MAD4, Digital Realty
+Avenida de Bruselas 20, Madrid, Spain
+IBM Cloud, Equinix MD2, Equinix
+Calle de Valgrande, 6, Alcobendas, Madrid, Spain
+IBM Cloud, Global Switch Madrid, Global Switch
+Calle de Yecora 4, Madrid, Spain
+Microsoft Azure, Digital Realty MAD4, Digital Realty
+Avenida de Bruselas 20, Madrid, Spain
+Microsoft Azure, Equinix MD2, Equinix
+Calle de Valgrande, 6, Alcobendas, Madrid, Spain
+Oracle Cloud, Equinix MD2, Equinix
+Calle de Valgrande, 6, Alcobendas, Madrid, Spain
+Oracle Cloud, Global Switch Madrid, Global Switch
+Calle de Yecora 4, Madrid, Spain
+Stockholm
+Sweden
+Amazon Web Services, Equinix SK1, Equinix
+Raukvaegen 3, Stockholm, Sweden
+Amazon Web Services, Equinix SK2, Equinix
+Esbogatan 11, Stockholm, Sweden
+Amazon Web Services, Equinix SK3, Equinix
+Västberga Allé 60, Stockholm, Sweden
+Google Cloud, DigiPlex Stockholm, DigiPlex
+Domnarvsgatan 11, Stockholm, Sweden
+Google Cloud, Equinix SK1, Equinix
+Raukvaegen 3, Stockholm, Sweden
+Google Cloud, ObeHosting Kista Gate, ObeHosting
+Torshamnsgatan 35-39, Kista, Stockholm, Sweden
+Oracle Cloud, Equinix SK2, Equinix
+Esbogatan 11, Stockholm, Sweden
+Geneva
+Switzerland
+Microsoft Azure, Equinix GV2, Equinix
+Rue de la Mairie, Geneva, Switzerland
+Zürich
+Switzerland
+Amazon Web Services, Equinix ZH5, Equinix
+Allmendstrasse 11-13, Zürich, Switzerland
+Google Cloud, Equinix ZH4, Equinix
+Josefstrasse 225, Zürich, Switzerland
+Google Cloud, Green Zurich West 1 & 2, Green
+Industriestrasse 33, Lupfig, Zürich, Switzerland
+Google Cloud, Interxion ZUR1, Digital Realty
+Sägereistrasse 35, Zürich, Switzerland
+Microsoft Azure, Interxion ZUR1, Digital Realty
+Sägereistrasse 35, Zürich, Switzerland
+Oracle Cloud, Interxion ZUR1, Digital Realty
+Sägereistrasse 35, Zürich, Switzerland
+Taipei
+Taiwan
+Amazon Web Services, Chief Telecom LY, Chief Telecom
+No. 216, Ruiguang Road, Neihu District, Taipei, Taiwan
+Microsoft Azure, Chief Telecom LY, Chief Telecom
+No. 216, Ruiguang Road, Neihu District, Taipei, Taiwan
+Bangkok
+Thailand
+Alibaba Cloud, True IDC - North Muang Thong, True IDC
+Bangkok, Thailand
+Amazon Web Services, Equinix BKK1, Equinix
+Bangna, Bangkok, Thailand
+Huawei Cloud, CAT Tower - Bangrak, CAT
+Bangna, Bangkok, Thailand
+Huawei Cloud, CS Loxinfo The Cloud, CS Loxinfo
+Bangna, Bangkok, Thailand
+Huawei Cloud, TCCtech-Bna-Bangna, TCC Technology (TCCtech)
+1854 Bangna-Trad Road, Bangna, Bangkok, Thailand
+Tencent Cloud, True IDC - East Bangna, True IDC
+Bangna, Bangkok, Thailand
+Tencent Cloud, True IDC - North Muang Thong, True IDC
+Bangkok, Thailand
+Istanbul
+Turkey
+Huawei Cloud, Turkcell Gebze, Turkcell
+Istanbul, Turkey
+Huawei Cloud, Turkcell Kartal, Turkcell
+Istanbul, Turkey
+Dubai
+United Arab Emirates
+Alibaba Cloud, Moro Hub (Data Hub Integrated Solutions L.L.C), Moro Hub
+Dubai, United Arab Emirates
+Amazon Web Services, Equinix DX1, Equinix
+Dubai, United Arab Emirates
+Microsoft Azure, Equinix DX1, Equinix
+Dubai, United Arab Emirates
+Microsoft Azure, Ooredoo QDC5, Ooredoo
+Mesaimeer, Doha, United Arab Emirates
+Oracle Cloud, Equinix DX1, Equinix
+Dubai, United Arab Emirates
+London
+United Kingdom
+Alibaba Cloud, Equinix LD5, Equinix
+8 Buckingham Avenue, Slough, London, United Kingdom
+Alibaba Cloud, Global Switch London East, Global Switch
+East India Dock House, 240 East India Dock Road, London, United Kingdom
+Amazon Web Services, Equinix LD5, Equinix
+8 Buckingham Avenue, Slough, London, United Kingdom
+Amazon Web Services, TELEHOUSE London Docklands West, TELEHOUSE
+14 Coriander Avenue, London, United Kingdom
+Google Cloud, Equinix LD5, Equinix
+8 Buckingham Avenue, Slough, London, United Kingdom
+Google Cloud, Global Switch London North, Global Switch
+East India Dock House, 240 East India Dock Road, London, United Kingdom
+Google Cloud, TELEHOUSE London Docklands North, TELEHOUSE
+14 Coriander Avenue, London, United Kingdom
+IBM Cloud, CenturyLink London 3 (Slough), CenturyLink
+210 Bath Road, Slough, London, United Kingdom
+IBM Cloud, Equinix LD5, Equinix
+8 Buckingham Avenue, Slough, London, United Kingdom
+IBM Cloud, Global Switch London East, Global Switch
+East India Dock House, 240 East India Dock Road, London, United Kingdom
+Microsoft Azure, Cyxtera LHR1, Cyxtera
+660-665 Ajax Avenue, Slough, London, United Kingdom
+Microsoft Azure, Equinix LD5, Equinix
+8 Buckingham Avenue, Slough, London, United Kingdom
+Oracle Cloud, Equinix LD5, Equinix
+8 Buckingham Avenue, Slough, London, United Kingdom
+Oracle Cloud, Global Switch London East, Global Switch
+East India Dock House, 240 East India Dock Road, London, United Kingdom
+Manchester
+United Kingdom
+Microsoft Azure, Equinix MA1, Equinix
+Reynolds House, 4 Lloyd Street North, Manchester, United Kingdom
+Atlanta
+United States
+Amazon Web Services, Digital Realty ATL1, Digital Realty
+56 Marietta Street, Atlanta, GA, United States
+Amazon Web Services, Equinix AT2, Equinix
+180 Peachtree Street NW, Atlanta, GA, United States
+Google Cloud, Digital Realty ATL1, Digital Realty
+56 Marietta Street, Atlanta, GA, United States
+Google Cloud, Equinix AT1, Equinix
+180 Peachtree Street NW, Atlanta, GA, United States
+Google Cloud, QTS Atlanta-Metro, QTS
+1033 Jefferson St NW, Atlanta, GA, United States
+Microsoft Azure, Digital Realty ATL1, Digital Realty
+56 Marietta Street, Atlanta, GA, United States
+Microsoft Azure, Equinix AT2, Equinix
+180 Peachtree Street NW, Atlanta, GA, United States
+Boston
+United States
+Amazon Web Services, CoreSite BO1, CoreSite
+70 Inner Belt Road, Somerville, MA, United States
+Amazon Web Services, Markley 1 Summer, Markley Group
+1 Summer Street, Boston, MA, United States
+Chicago
+United States
+Amazon Web Services, Digital Realty CHI1, Digital Realty
+350 East Cermak Road, Chicago, IL, United States
+Amazon Web Services, Equinix CH1, Equinix
+350 East Cermak Road, Chicago, IL, United States
+Amazon Web Services, Equinix CH2, Equinix
+350 East Cermak Road, Chicago, IL, United States
+Microsoft Azure, Digital Realty CHI1, Digital Realty
+350 East Cermak Road, Chicago, IL, United States
+Microsoft Azure, Equinix CH1, Equinix
+350 East Cermak Road, Chicago, IL, United States
+Microsoft Azure, T5 Data Centers Chicago, T5 Data Centers
+200 Innovation Boulevard, Elk Grove Village, Chicago, IL, United States
+Oracle Cloud, Digital Realty CHI1, Digital Realty
+350 East Cermak Road, Chicago, IL, United States
+Oracle Cloud, Equinix CH3, Equinix
+1431 Opus Place, Downers Grove, Chicago, IL, United States
+Columbus
+United States
+Amazon Web Services, Cologix COL3, Cologix
+555 Scherers Court, Columbus, OH, United States
+Dallas
+United States
+Amazon Web Services, Equinix DA1, Equinix
+1950 North Stemmons Freeway, Dallas, TX, United States
+Amazon Web Services, Equinix DA3, Equinix
+1950 North Stemmons Freeway, Dallas, TX, United States
+Google Cloud, Equinix DA1, Equinix
+1950 North Stemmons Freeway, Dallas, TX, United States
+IBM Cloud, CyrusOne Lewisville (Dallas), CyrusOne
+2501 S State Hwy 121, Lewisville, Dallas, TX, United States
+IBM Cloud, Digital Realty DAL1, Digital Realty
+2323 Bryan Street, Dallas, TX, United States
+IBM Cloud, Digital Realty DAL3, Digital Realty
+12301 North Stemmons Freeway, Dallas, TX, United States
+IBM Cloud, Equinix DA1, Equinix
+1950 North Stemmons Freeway, Dallas, TX, United States
+IBM Cloud, QTS Dallas-Irving, QTS
+6431 Longhorn Dr, Irving, Dallas, TX, United States
+Microsoft Azure, CyrusOne Carrollton (Dallas), CyrusOne
+1649 West Frankford Road, Carrollton, Dallas, TX, United States
+Microsoft Azure, Digital Realty DAL1, Digital Realty
+2323 Bryan Street, Dallas, TX, United States
+Microsoft Azure, Equinix DA1, Equinix
+1950 North Stemmons Freeway, Dallas, TX, United States
+Oracle Cloud, Digital Realty DAL1, Digital Realty
+2323 Bryan Street, Dallas, TX, United States
+Oracle Cloud, Equinix DA3, Equinix
+1950 North Stemmons Freeway, Dallas, TX, United States
+Denver
+United States
+Amazon Web Services, CoreSite DE1, CoreSite
+910 15th Street, Denver, CO, United States
+Amazon Web Services, H5 Data Centers Denver, H5 Data Centers
+5350 South Valentia Way, Denver, CO, United States
+Google Cloud, CoreSite DE1, CoreSite
+910 15th Street, Denver, CO, United States
+Microsoft Azure, CoreSite DE1, CoreSite
+910 15th Street, Denver, CO, United States
+Houston
+United States
+Amazon Web Services, DataBank HOU1, DataBank
+4001 Westpark Drive, Houston, TX, United States
+Kansas City
+United States
+Amazon Web Services, 1102 Grand, 1102 Grand
+1102 Grand Blvd, Kansas City, MO, United States
+Las Vegas
+United States
+Amazon Web Services, Switch LAS Vegas 8 (The Core Campus), Switch
+1 Superloop Circle, Las Vegas, NV, United States
+Google Cloud, Switch LAS Vegas 8 (The Core Campus), Switch
+1 Superloop Circle, Las Vegas, NV, United States
+Microsoft Azure, Switch LAS Vegas 8 (The Core Campus), Switch
+1 Superloop Circle, Las Vegas, NV, United States
+Los Angeles
+United States
+Amazon Web Services, CoreSite LA1, CoreSite
+1 Wilshire Boulevard, Los Angeles, CA, United States
+Amazon Web Services, Equinix LA1, Equinix
+1 Wilshire Boulevard, Los Angeles, CA, United States
+Amazon Web Services, Equinix LA3, Equinix
+600 West 7th Street, Los Angeles, CA, United States
+Google Cloud, CoreSite LA1, CoreSite
+1 Wilshire Boulevard, Los Angeles, CA, United States
+Google Cloud, CoreSite LA2, CoreSite
+900 North Alameda, Los Angeles, CA, United States
+Google Cloud, Equinix LA1, Equinix
+1 Wilshire Boulevard, Los Angeles, CA, United States
+Microsoft Azure, CoreSite LA1, CoreSite
+1 Wilshire Boulevard, Los Angeles, CA, United States
+Microsoft Azure, Equinix LA1, Equinix
+1 Wilshire Boulevard, Los Angeles, CA, United States
+Miami
+United States
+Amazon Web Services, Digital Realty MIA1, Digital Realty
+36 NE 2nd Street, Miami, FL, United States
+Amazon Web Services, Equinix MI1, Equinix
+50 NE 9th Street, Miami, FL, United States
+Microsoft Azure, Equinix MI1, Equinix
+50 NE 9th Street, Miami, FL, United States
+Minneapolis
+United States
+Amazon Web Services, Cologix MIN1, Cologix
+511 11th Avenue South, Minneapolis, MN, United States
+New York
+United States
+Amazon Web Services, CoreSite NY1, CoreSite
+32 Avenue of the Americas, New York, NY, United States
+Amazon Web Services, Equinix NY1, Equinix
+165 Halsey Street, Newark, New York, NY, United States
+Google Cloud, Digital Realty NYC1, Digital Realty
+111 8th Avenue, New York, NY, United States
+Google Cloud, Equinix NY2, Equinix
+275 Hartz Way, Secaucus, New York, NY, United States
+Google Cloud, Equinix NY9, Equinix
+111 8th Avenue, New York, NY, United States
+Microsoft Azure, CoreSite NY1, CoreSite
+32 Avenue of the Americas, New York, NY, United States
+Microsoft Azure, Digital Realty NYC1, Digital Realty
+111 8th Avenue, New York, NY, United States
+Microsoft Azure, Equinix NY1, Equinix
+165 Halsey Street, Newark, New York, NY, United States
+Oracle Cloud, Digital Realty NYC1, Digital Realty
+111 8th Avenue, New York, NY, United States
+Phoenix
+United States
+Amazon Web Services, Cyxtera PHX1, Cyxtera
+120 East Van Buren Street, Phoenix, AZ, United States
+Amazon Web Services, Iron Mountain Phoenix, Iron Mountain
+615 North 48th Street, Phoenix, AZ, United States
+Microsoft Azure, EdgeConneX PHX01, EdgeConneX
+3011 South 52nd Street, Tempe, Phoenix, AZ, United States
+Oracle Cloud, Digital Realty PHX1, Digital Realty
+120 East Van Buren Street, Phoenix, AZ, United States
+Portland
+United States
+Amazon Web Services, Digital Realty PDX1, Digital Realty
+3825 NW Aloclek Place, Hillsboro, Portland, OR, United States
+Amazon Web Services, Flexential Portland - Hillsboro 2, Flexential
+5737 NE Huffman St, Hillsboro, Portland, OR, United States
+Salt Lake City
+United States
+Google Cloud, DataBank SLC1, DataBank
+650 South Main Street, Salt Lake City, UT, United States
+San Antonio
+United States
+Microsoft Azure, CyrusOne San Antonio I, CyrusOne
+9999 Westover Hills Boulevard, San Antonio, TX, United States
+Microsoft Azure, Frost Bank San Antonio, Frost Bank
+San Antonio, TX, United States
+Microsoft Azure, Microsoft San Antonio (SAT11), Microsoft
+5150 Rogers Road, San Antonio, TX, United States
+San Francisco
+United States
+Alibaba Cloud, Digital Realty SFO1, Digital Realty
+200 Paul Avenue, San Francisco, CA, United States
+Alibaba Cloud, Equinix SV5, Equinix
+900 Trimble Road, San Jose, San Francisco, CA, United States
+Amazon Web Services, CoreSite SV1, CoreSite
+55 South Market Street, San Jose, San Francisco, CA, United States
+Amazon Web Services, Digital Realty SFO1, Digital Realty
+200 Paul Avenue, San Francisco, CA, United States
+Amazon Web Services, Equinix SV1, Equinix
+11 Great Oaks Boulevard, San Jose, San Francisco, CA, United States
+Google Cloud, CoreSite SV1, CoreSite
+55 South Market Street, San Jose, San Francisco, CA, United States
+Google Cloud, Digital Realty SFO1, Digital Realty
+200 Paul Avenue, San Francisco, CA, United States
+Google Cloud, Equinix SV1, Equinix
+11 Great Oaks Boulevard, San Jose, San Francisco, CA, United States
+IBM Cloud, Digital Realty SFO1, Digital Realty
+200 Paul Avenue, San Francisco, CA, United States
+IBM Cloud, Equinix SV1, Equinix
+11 Great Oaks Boulevard, San Jose, San Francisco, CA, United States
+IBM Cloud, Equinix SV5, Equinix
+900 Trimble Road, San Jose, San Francisco, CA, United States
+Microsoft Azure, CoreSite SV2, CoreSite
+1350 Duane Avenue, Santa Clara, San Francisco, CA, United States
+Microsoft Azure, Equinix SV2, Equinix
+1350 Duane Avenue, Santa Clara, San Francisco, CA, United States
+Oracle Cloud, CoreSite SV1, CoreSite
+55 South Market Street, San Jose, San Francisco, CA, United States
+Oracle Cloud, Equinix SV1, Equinix
+11 Great Oaks Boulevard, San Jose, San Francisco, CA, United States
+Oracle Cloud, Equinix SV5, Equinix
+900 Trimble Road, San Jose, San Francisco, CA, United States
+Tencent Cloud, Equinix SV5, Equinix
+900 Trimble Road, San Jose, San Francisco, CA, United States
+Seattle
+United States
+Amazon Web Services, Equinix SE2, Equinix
+2001 6th Avenue, Seattle, WA, United States
+Amazon Web Services, Westin Building Exchange Seattle, Westin Building Exchange
+2001 6th Avenue, Seattle, WA, United States
+Google Cloud, Equinix SE2, Equinix
+2001 6th Avenue, Seattle, WA, United States
+Google Cloud, Equinix SE3, Equinix
+2001 6th Avenue, Seattle, WA, United States
+Microsoft Azure, Equinix SE2, Equinix
+2001 6th Avenue, Seattle, WA, United States
+Oracle Cloud, Equinix SE2, Equinix
+2001 6th Avenue, Seattle, WA, United States
+Washington
+United States
+Alibaba Cloud, Digital Realty IAD1, Digital Realty
+21110 Stanwell Drive, Ashburn, Washington, DC, United States
+Amazon Web Services, Digital Realty IAD1, Digital Realty
+21110 Stanwell Drive, Ashburn, Washington, DC, United States
+Amazon Web Services, Equinix DC2, Equinix
+21715 Filigree Court, Ashburn, Washington, DC, United States
+Amazon Web Services, Equinix DC6, Equinix
+21715 Filigree Court, Ashburn, Washington, DC, United States
+Google Cloud, Digital Realty IAD1, Digital Realty
+21110 Stanwell Drive, Ashburn, Washington, DC, United States
+Google Cloud, Equinix DC2, Equinix
+21715 Filigree Court, Ashburn, Washington, DC, United States
+IBM Cloud, Digital Realty IAD1, Digital Realty
+21110 Stanwell Drive, Ashburn, Washington, DC, United States
+IBM Cloud, Equinix DC11, Equinix
+21715 Filigree Court, Ashburn, Washington, DC, United States
+IBM Cloud, Equinix DC2, Equinix
+21715 Filigree Court, Ashburn, Washington, DC, United States
+Microsoft Azure, Digital Realty IAD1, Digital Realty
+21110 Stanwell Drive, Ashburn, Washington, DC, United States
+Microsoft Azure, Equinix DC2, Equinix
+21715 Filigree Court, Ashburn, Washington, DC, United States
+Oracle Cloud, Digital Realty IAD1, Digital Realty
+21110 Stanwell Drive, Ashburn, Washington, DC, United States
+Oracle Cloud, Equinix DC2, Equinix
+21715 Filigree Court, Ashburn, Washington, DC, United States
+Tencent Cloud, Equinix DC10, Equinix
+21715 Filigree Court, Ashburn, Washington, DC, United States
+Ho Chi Minh City
+Vietnam
+Alibaba Cloud, NTT GDC Ho Chi Minh HCMC1, NTT Global Data Centers
+Saigon High-Tech Park, Ho Chi Minh City, Vietnam

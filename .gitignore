@@ -38,9 +38,11 @@ venv.bak/
 data/raw/*
 !data/raw/seed_infrastructure.json
 !data/raw/.gitkeep
+!data/raw/cloud_infrastructure_map_raw.txt
 data/processed/*
 !data/processed/.gitkeep
 !data/processed/infrastructure_master.json
+!data/processed/cloud_infrastructure_map.json
 
 # Project Specific - Outputs
 # Outputs can be large, but we may want to track some final reports.

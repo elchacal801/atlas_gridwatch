@@ -1,0 +1,6303 @@
+# Cloud Infrastructure Intelligence (OSINT)
+
+**Source**: cloudinfrastructuremap.com (parsed raw text)
+**Total Assets**: 1535
+
+## Abu Dhabi
+- **Microsoft Azure - tr-west-1 Region** (tr-west-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: UAE Central (Abu Dhabi)1 Zones
+- **Oracle Cloud - tr-west-1 Region** (tr-west-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: United Arab Emirates (Abu Dhabi)1 Zones
+## Argentina
+- **Huawei Cloud - Buenos Aires Region** (Buenos Aires)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: LA Buenos Aires1 Zones
+- **Amazon Web Services - Buenos Aires Local Zone** (Buenos Aires)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-bue-1a, US East (Northern Virginia),
+- **OVH - Buenos Aires Local Zone** (Buenos Aires)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Buenos Aires, , Planned
+## Athens
+- **Microsoft Azure - eu-frankfurt Region** (eu-frankfurt)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Greece Central (Athens)3 ZonesPlanned
+## Atlanta
+- **Microsoft Azure - uk-cardiff-1 Region** (uk-cardiff-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: East US 3 (Atlanta)3 ZonesPlanned
+## Auckland
+- **Amazon Web Services - europe-west4 Region** (europe-west4)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Asia Pacific (Auckland)3 Zones
+- **Google Cloud - europe-west4 Region** (europe-west4)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: New Zealand3 ZonesPlanned
+- **Microsoft Azure - europe-west4 Region** (europe-west4)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: New Zealand North (Auckland)3 Zones
+## Austin
+- **Microsoft Azure - eastus3 Region** (eastus3)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: US Gov Texas1 Zones
+## Australia
+- **Google Cloud - Melbourne Local Zone** (Melbourne)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, mel-zone1-1988, Melbourne (australia-southeast2),
+- **Google Cloud - Melbourne Local Zone** (Melbourne)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, mel-zone1-4843, Melbourne (australia-southeast2),
+- **Amazon Web Services - Perth Local Zone** (Perth)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, ap-southeast-2-per-1a, Asia Pacific (Sydney),
+- **Microsoft Azure - Perth Local Zone** (Perth)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Perth, , Planned
+- **Google Cloud - Sydney Local Zone** (Sydney)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, syd-zone1-1660, Sydney (australia-southeast1),
+- **Google Cloud - Sydney Local Zone** (Sydney)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, syd-zone1-1605, Sydney (australia-southeast1),
+## Austria
+- **Microsoft Azure - Vienna Region** (Vienna)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Austria East (Vienna)3 Zones
+- **Amazon Web Services - Vienna Local Zone** (Vienna)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, eu-central-1-vie-1a, Europe (Frankfurt), Planned
+- **OVH - Vienna Local Zone** (Vienna)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Vienna, ,
+## Bangkok
+- **Alibaba Cloud - taiwannorth Region** (taiwannorth)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: Asia Pacific SE 7 (Bangkok)1 Zones
+- **Amazon Web Services - taiwannorth Region** (taiwannorth)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: AWS Thailand3 Zones
+- **Google Cloud - taiwannorth Region** (taiwannorth)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Thailand3 ZonesPlanned
+- **Huawei Cloud - taiwannorth Region** (taiwannorth)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: AP-Bangkok3 Zones
+- **Microsoft Azure - taiwannorth Region** (taiwannorth)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Thailand3 ZonesPlanned
+- **Tencent Cloud - taiwannorth Region** (taiwannorth)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Southeast Asia (Bangkok)2 Zones
+## Batam
+- **Oracle Cloud - centralindia Region** (centralindia)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Indonesia North (Batam)1 Zones
+## Beijing
+- **Alibaba Cloud - sa-valparaiso-1 Region** (sa-valparaiso-1)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China North 2 (Beijing)12 Zones
+- **Amazon Web Services - sa-valparaiso-1 Region** (sa-valparaiso-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Mainland China (Beijing)3 Zones
+- **Huawei Cloud - sa-valparaiso-1 Region** (sa-valparaiso-1)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: CN North Beijing13 Zones
+- **Huawei Cloud - sa-valparaiso-1 Region** (sa-valparaiso-1)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: CN North Beijing22 Zones
+- **Huawei Cloud - sa-valparaiso-1 Region** (sa-valparaiso-1)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: CN North Beijing32 Zones
+- **Microsoft Azure - sa-valparaiso-1 Region** (sa-valparaiso-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: China North (Beijing)1 Zones
+- **Microsoft Azure - sa-valparaiso-1 Region** (sa-valparaiso-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: China North 2 (Beijing)1 Zones
+- **Microsoft Azure - sa-valparaiso-1 Region** (sa-valparaiso-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: China North 3 (Beijing)3 Zones
+- **Tencent Cloud - sa-valparaiso-1 Region** (sa-valparaiso-1)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: North China (Beijing)10 Zones
+## Belgium
+- **Amazon Web Services - Brussels Local Zone** (Brussels)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, eu-west-3-bru-1a, Europe (Paris), Planned
+- **OVH - Brussels Local Zone** (Brussels)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Brussels, ,
+## Bogotá
+- **Oracle Cloud - cn-zhangjiakou Region** (cn-zhangjiakou)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Colombia Central (Bogota)1 Zones
+## Brazil
+- **Amazon Web Services - Rio de Janeiro Local Zone** (Rio de Janeiro)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-rio-1a, US East (Northern Virginia), Planned
+- **Google Cloud - São Paulo Local Zone** (São Paulo)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, gru-zone1-1057, São Paulo (southamerica-east1),
+- **Google Cloud - São Paulo Local Zone** (São Paulo)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, gru-zone1-165, São Paulo (southamerica-east1),
+- **Google Cloud - São Paulo Local Zone** (São Paulo)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, gru-zone1-7580, São Paulo (southamerica-east1),
+- **OVH - São Paulo Local Zone** (São Paulo)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, São Paulo, , Planned
+## Brussels
+- **Microsoft Azure - me-south-1 Region** (me-south-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Belgium Central3 ZonesPlanned
+## Bulgaria
+- **OVH - Sofia Local Zone** (Sofia)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Sofia, , Planned
+## Busan
+- **Microsoft Azure - af-johannesburg-1 Region** (af-johannesburg-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Korea South (Busan)1 Zones
+## Cairo
+- **Huawei Cloud - denmarkeast Region** (denmarkeast)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: Huawei Cloud North Africa (Cairo)1 Zones
+## Calgary
+- **Amazon Web Services - sl-saopaulo Region** (sl-saopaulo)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Canada (West) 3 Zones
+## Campinas
+- **Oracle Cloud - europe-west1 Region** (europe-west1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Brazil Southeast (Vinhedo)1 Zones
+## Canada
+- **Google Cloud - London Local Zone** (London)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, lhr-zone1-47, London (europe-west2),
+- **Google Cloud - London Local Zone** (London)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, lhr-zone1-832, London (europe-west2),
+- **Google Cloud - Montréal Local Zone** (Montréal)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, yul-zone1-1944, Montreal (northamerica-northeast1),
+- **Microsoft Azure - Quebec City Region** (Quebec City)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Canada East (Quebec City)1 Zones
+- **Amazon Web Services - Toronto Local Zone** (Toronto)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, ca-central-1-yto-1a, Canada (Central), Planned
+- **Google Cloud - Toronto Local Zone** (Toronto)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, yyz-zone1-2206, Toronto (northamerica-northeast2),
+- **Google Cloud - Toronto Local Zone** (Toronto)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, yyz-zone1-392, Toronto (northamerica-northeast2),
+- **Amazon Web Services - Vancouver Local Zone** (Vancouver)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, ca-west-1-yvr-1a, Canada (West), Planned
+## Canberra
+- **Microsoft Azure - sa-argentina-1 Region** (sa-argentina-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Australia Central (Canberra)1 Zones
+- **Microsoft Azure - sa-argentina-1 Region** (sa-argentina-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Australia Central 2 (Canberra)1 Zones
+- **Oracle Cloud - sa-argentina-1 Region** (sa-argentina-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Australian Gov (Canberra)1 Zones
+## Cape Town
+- **Amazon Web Services - ap-singapore Region** (ap-singapore)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Africa (Cape Town)3 Zones
+- **Microsoft Azure - ap-singapore Region** (ap-singapore)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: South Africa West (Cape Town)1 Zones
+## Cardiff
+- **Microsoft Azure - me-dubai-1 Region** (me-dubai-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: UK West (Cardiff)1 Zones
+## Casablanca
+- **Oracle Cloud - mx-queretaro-1 Region** (mx-queretaro-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Morocco 1 (Casablanca)1 ZonesPlanned
+## Charleston
+- **Google Cloud - usgovtexas Region** (usgovtexas)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: South Carolina3 Zones
+## Chengdu
+- **Alibaba Cloud - ap-beijing Region** (ap-beijing)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China West 1 (Chengdu)2 Zones
+- **Tencent Cloud - ap-beijing Region** (ap-beijing)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Southwest China (Chengdu)2 Zones
+## Chennai
+- **Microsoft Azure - greececentral Region** (greececentral)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: South India (Chennai)1 Zones
+## Cheyenne
+- **Microsoft Azure - us-east1 Region** (us-east1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: West Central US (Cheyenne)3 Zones
+## Chicago
+- **Microsoft Azure - westcentralus Region** (westcentralus)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: North Central US (Chicago)1 Zones
+- **Oracle Cloud - westcentralus Region** (westcentralus)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: US DoD North1 Zones
+- **Oracle Cloud - westcentralus Region** (westcentralus)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: US Midwest (Chicago)1 Zones
+## Chile
+- **Amazon Web Services - Santiago Local Zone** (Santiago)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-scl-1a, US East (Northern Virginia),
+- **Google Cloud - Santiago Local Zone** (Santiago)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, scl-zone1-1779, Santiago (southamerica-west1),
+- **OVH - Santiago Local Zone** (Santiago)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Santiago, , Planned
+## China
+- **Google Cloud - Hong Kong Local Zone** (Hong Kong)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, hkg-zone1-225, Hong Kong (asia-east2),
+- **Google Cloud - Hong Kong Local Zone** (Hong Kong)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, hkg-zone1-1118, Hong Kong (asia-east2),
+- **Alibaba Cloud - Huhehaote Local Zone** (Huhehaote)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, @hub Inner Mongolia, @hub
+- **Huhehaote - Huhehaote Local Zone** (Huhehaote)
+  - Owner: Huhehaote
+  - Category: Local Zone
+  - Notes: Huhehaote, China
+- **Alibaba Cloud - Huhehaote Local Zone** (Huhehaote)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Alibaba China North 5 (Hohhot), Alibaba Cloud
+- **Huhehaote - Huhehaote Local Zone** (Huhehaote)
+  - Owner: Huhehaote
+  - Category: Local Zone
+  - Notes: Huhehaote, China
+- **Alibaba Cloud - Huhehaote Local Zone** (Huhehaote)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Inner Mongolia-Hohhot-A, Chief Telecom
+- **Huhehaote - Huhehaote Local Zone** (Huhehaote)
+  - Owner: Huhehaote
+  - Category: Local Zone
+  - Notes: Huhehaote, China
+- **Alibaba Cloud - Jinan Local Zone** (Jinan)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, ap-cn-jinan-gx-A, Chief Telecom
+- **Jinan - Jinan Local Zone** (Jinan)
+  - Owner: Jinan
+  - Category: Local Zone
+  - Notes: Jinan, China
+- **Tencent Cloud - Jinan Local Zone** (Jinan)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-jinan-a-ch, Tencent Cloud
+- **Jinan - Jinan Local Zone** (Jinan)
+  - Owner: Jinan
+  - Category: Local Zone
+  - Notes: Jinan, China
+- **Alibaba Cloud - Nanjing Local Zone** (Nanjing)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Alibaba China East 3 (Nanjing), Alibaba Cloud
+- **Nanjing - Nanjing Local Zone** (Nanjing)
+  - Owner: Nanjing
+  - Category: Local Zone
+  - Notes: Nanjing, China
+- **Tencent Cloud - Nanjing Local Zone** (Nanjing)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-nanjing-2, Tencent Cloud
+- **Nanjing - Nanjing Local Zone** (Nanjing)
+  - Owner: Nanjing
+  - Category: Local Zone
+  - Notes: Nanjing, China
+- **Tencent Cloud - Nanjing Local Zone** (Nanjing)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-nanjing-3, Tencent Cloud
+- **Nanjing - Nanjing Local Zone** (Nanjing)
+  - Owner: Nanjing
+  - Category: Local Zone
+  - Notes: Nanjing, China
+- **Tencent Cloud - Nanjing Local Zone** (Nanjing)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, Princeton Digital NJ1 (Building 1), Princeton Digital Group
+- **Jiangning National High-Tech Industrial Zone - Nanjing Local Zone** (Nanjing)
+  - Owner: Jiangning National High-Tech Industrial Zone
+  - Category: Local Zone
+  - Notes: Jiangning National High-Tech Industrial Zone, Nanjing, China
+- **Alibaba Cloud - Qingdao Local Zone** (Qingdao)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Qingdao-Laoshan-A, China Unicom
+- **Qingdao - Qingdao Local Zone** (Qingdao)
+  - Owner: Qingdao
+  - Category: Local Zone
+  - Notes: Qingdao, China
+- **Alibaba Cloud - Qingdao Local Zone** (Qingdao)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Qingdao-Licang-A, Alibaba Cloud
+- **Qingdao - Qingdao Local Zone** (Qingdao)
+  - Owner: Qingdao
+  - Category: Local Zone
+  - Notes: Qingdao, China
+- **Huawei Cloud - Qingdao Local Zone** (Qingdao)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Huawei-Qingdao-Hongdao, China Mobile
+- **Qingdao - Qingdao Local Zone** (Qingdao)
+  - Owner: Qingdao
+  - Category: Local Zone
+  - Notes: Qingdao, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Changshu-Bixi-A, Alibaba Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, China Telecom Shanghai Guilin, China Telecom
+- **7 Guijing Rd - Shanghai Local Zone** (Shanghai)
+  - Owner: 7 Guijing Rd
+  - Category: Local Zone
+  - Notes: 7 Guijing Rd, Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, GDS SH2, GDS Services
+- **6-9 Huajing Road - Shanghai Local Zone** (Shanghai)
+  - Owner: 6-9 Huajing Road
+  - Category: Local Zone
+  - Notes: 6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone, Pudong, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Shanghai-Baoshan-A, China Telecom
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Shanghai-Baoshan-C, VNET
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Shanghai-Baoshan-D, China Mobile
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Shanghai-Fengxian-A, China Telecom
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Shanghai-Jiading-A, China Telecom
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Shanghai-Minhang-A, Not specified
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Shanghai-Pudong-A, China Mobile
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Shanghai-Pudong-B, China Telecom
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Shanghai-Pudong-C, Alibaba Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Shanghai-Pudong-D, China Unicom
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Shanghai-Pudong-E, Alibaba Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Alibaba Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Taicang-Huangjing-A, Alibaba Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Amazon Web Services - Shanghai Local Zone** (Shanghai)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, GDS SH3, GDS Services
+- **6-9 Huajing Road - Shanghai Local Zone** (Shanghai)
+  - Owner: 6-9 Huajing Road
+  - Category: Local Zone
+  - Notes: 6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone, Pudong, China
+- **Huawei Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, China Mobile Shanghai Baoxin, China Mobile
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Huawei Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, China Mobile Suzhou Wujiang Fenhu, China Mobile
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Huawei Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, China Unicom Suzhou Wuzhong Guoke, China Unicom
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Huawei Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Cloud data center of Hangzhou Iron & Steel Group, Carrier-neutral data center
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Huawei Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, GDS Shanghai, Carrier-neutral data center
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Huawei Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Huawei Hangzhou Research Center, Huawei Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Huawei Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Kunshan Kunhui Suzhou, Kunshan Kunhui
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Huawei Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Shanghai-Baoshan-A, China Telecom
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Huawei Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Shanghai-Jiading-A, China Telecom
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Huawei Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Shanghai-Pudong-A, China Mobile
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Huawei Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Shanghai-Sinnet, SINNET
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Microsoft Azure - Shanghai Local Zone** (Shanghai)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, China Telecom Shanghai, China Telecom
+- **1761 Si Chuan Bei Lu - Shanghai Local Zone** (Shanghai)
+  - Owner: 1761 Si Chuan Bei Lu
+  - Category: Local Zone
+  - Notes: 1761 Si Chuan Bei Lu, Shanghai, China
+- **Microsoft Azure - Shanghai Local Zone** (Shanghai)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, GDS SH1, GDS Services
+- **6-9 Huajing Road - Shanghai Local Zone** (Shanghai)
+  - Owner: 6-9 Huajing Road
+  - Category: Local Zone
+  - Notes: 6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone, Pudong, China
+- **Microsoft Azure - Shanghai Local Zone** (Shanghai)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, GDS SH1, GDS Services
+- **6-9 Huajing Road - Shanghai Local Zone** (Shanghai)
+  - Owner: 6-9 Huajing Road
+  - Category: Local Zone
+  - Notes: 6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone, Pudong, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-financialcloud-b-bx, Tencent Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-financialcloud-shanghai-d-td, Tencent Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-financialcloud-shanghai-e-sj, Tencent Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-selfdrivingcloud-a-sj, Tencent Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-selfdrivingcloud-b-yh, Tencent Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-shanghai-1, Tencent Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-shanghai-2, Tencent Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-shanghai-4, Tencent Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-shanghai-bls-2, Tencent Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-shanghai-bls-3, Tencent Cloud
+- **Shanghai - Shanghai Local Zone** (Shanghai)
+  - Owner: Shanghai
+  - Category: Local Zone
+  - Notes: Shanghai, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, E-JS Campus 03, Not specified
+- **1368 Wanrong Road - Shanghai Local Zone** (Shanghai)
+  - Owner: 1368 Wanrong Road
+  - Category: Local Zone
+  - Notes: 1368 Wanrong Road, Shanghai, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, GDS KS1, GDS Services
+- **Huaqiao International Commerce City - Shanghai Local Zone** (Shanghai)
+  - Owner: Huaqiao International Commerce City
+  - Category: Local Zone
+  - Notes: Huaqiao International Commerce City , Kunshan, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, GDS SH2, GDS Services
+- **6-9 Huajing Road - Shanghai Local Zone** (Shanghai)
+  - Owner: 6-9 Huajing Road
+  - Category: Local Zone
+  - Notes: 6-9 Huajing Road, Shanghai Waigaoqiao Free Trade Zone, Pudong, China
+- **Tencent Cloud - Shanghai Local Zone** (Shanghai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, GDS SH5, GDS Services
+- **51 Daxiu Road - Shanghai Local Zone** (Shanghai)
+  - Owner: 51 Daxiu Road
+  - Category: Local Zone
+  - Notes: 51 Daxiu Road, Shanghai, China
+- **Tencent Cloud - Shenyang Local Zone** (Shenyang)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-shenyang-a-tx, Tencent Cloud
+- **Shenyang - Shenyang Local Zone** (Shenyang)
+  - Owner: Shenyang
+  - Category: Local Zone
+  - Notes: Shenyang, China
+- **Alibaba Cloud - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, China Unicom Guangzhou, China Unicom
+- **Shenzhen - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Shenzhen
+  - Category: Local Zone
+  - Notes: Shenzhen, China
+- **Alibaba Cloud - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, GDS SZ4, GDS Services
+- **5 Lanzhu Rd - Shenzhen Local Zone** (Shenzhen)
+  - Owner: 5 Lanzhu Rd
+  - Category: Local Zone
+  - Notes: 5 Lanzhu Rd, Shenzhen, China
+- **Alibaba Cloud - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, NETNIC Runxun Qianhai Cloud Center, NETNIC
+- **87 Hengping Road - Shenzhen Local Zone** (Shenzhen)
+  - Owner: 87 Hengping Road
+  - Category: Local Zone
+  - Notes: 87 Hengping Road, Shenzhen, China
+- **Alibaba Cloud - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Shenzhen-Baoan-B, YOVOLE
+- **Shenzhen - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Shenzhen
+  - Category: Local Zone
+  - Notes: Shenzhen, China
+- **Amazon Web Services - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, GDS SZ3, GDS Services
+- **51 Hongliu Rd - Shenzhen Local Zone** (Shenzhen)
+  - Owner: 51 Hongliu Rd
+  - Category: Local Zone
+  - Notes: 51 Hongliu Rd, Shenzhen, China
+- **Tencent Cloud - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-financialcloud-b-jx, Tencent Cloud
+- **Shenzhen - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Shenzhen
+  - Category: Local Zone
+  - Notes: Shenzhen, China
+- **Tencent Cloud - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-financialcloud-shenzhen-d-bh, Tencent Cloud
+- **Shenzhen - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Shenzhen
+  - Category: Local Zone
+  - Notes: Shenzhen, China
+- **Tencent Cloud - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-financialcloud-shenzhen-e-lj, Tencent Cloud
+- **Shenzhen - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Shenzhen
+  - Category: Local Zone
+  - Notes: Shenzhen, China
+- **Tencent Cloud - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-shenzhen-b-bh, Tencent Cloud
+- **Shenzhen - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Shenzhen
+  - Category: Local Zone
+  - Notes: Shenzhen, China
+- **Tencent Cloud - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-shenzhen-f-lj, Tencent Cloud
+- **Shenzhen - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Shenzhen
+  - Category: Local Zone
+  - Notes: Shenzhen, China
+- **Tencent Cloud - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, China Telecom Shahe IDC, China Telecom
+- **4 Shenyun Road - Shenzhen Local Zone** (Shenzhen)
+  - Owner: 4 Shenyun Road
+  - Category: Local Zone
+  - Notes: 4 Shenyun Road , Shenzhen, China
+- **Tencent Cloud - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, GDS SZ3, GDS Services
+- **51 Hongliu Rd - Shenzhen Local Zone** (Shenzhen)
+  - Owner: 51 Hongliu Rd
+  - Category: Local Zone
+  - Notes: 51 Hongliu Rd, Shenzhen, China
+- **Tencent Cloud - Shenzhen Local Zone** (Shenzhen)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, Souidc Shenzhen Shahe, SouiDC
+- **4 Shenyun Road - Shenzhen Local Zone** (Shenzhen)
+  - Owner: 4 Shenyun Road
+  - Category: Local Zone
+  - Notes: 4 Shenyun Road , Shenzhen, China
+- **Tencent Cloud - Shijiazhuang Local Zone** (Shijiazhuang)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-shijiazhuang-a-cs, Tencent Cloud
+- **Shijiazhuang - Shijiazhuang Local Zone** (Shijiazhuang)
+  - Owner: Shijiazhuang
+  - Category: Local Zone
+  - Notes: Shijiazhuang, China
+- **Tencent Cloud - Taiyuan Local Zone** (Taiyuan)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-taiyuan-a-zx, Tencent Cloud
+- **Taiyuan - Taiyuan Local Zone** (Taiyuan)
+  - Owner: Taiyuan
+  - Category: Local Zone
+  - Notes: Taiyuan, China
+- **Alibaba Cloud - Tianjin Local Zone** (Tianjin)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, ap-cn-tianjin-jn-A, Alibaba Cloud
+- **Tianjin - Tianjin Local Zone** (Tianjin)
+  - Owner: Tianjin
+  - Category: Local Zone
+  - Notes: Tianjin, China
+- **Tencent Cloud - Tianjin Local Zone** (Tianjin)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-c-tianjin-gx, Tencent Cloud
+- **Tianjin - Tianjin Local Zone** (Tianjin)
+  - Owner: Tianjin
+  - Category: Local Zone
+  - Notes: Tianjin, China
+- **Alibaba Cloud - Ulanqab Local Zone** (Ulanqab)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Ulanqab-Development Zone-A, Alibaba Cloud
+- **Ulanqab - Ulanqab Local Zone** (Ulanqab)
+  - Owner: Ulanqab
+  - Category: Local Zone
+  - Notes: Ulanqab, China
+- **Alibaba Cloud - Ulanqab Local Zone** (Ulanqab)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Ulanqab-Jining-A, Alibaba Cloud
+- **Ulanqab - Ulanqab Local Zone** (Ulanqab)
+  - Owner: Ulanqab
+  - Category: Local Zone
+  - Notes: Ulanqab, China
+- **Alibaba Cloud - Ulanqab Local Zone** (Ulanqab)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Ulanqab-Qianqi-A, Alibaba Cloud
+- **Ulanqab - Ulanqab Local Zone** (Ulanqab)
+  - Owner: Ulanqab
+  - Category: Local Zone
+  - Notes: Ulanqab, China
+- **Huawei Cloud - Ulanqab Local Zone** (Ulanqab)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Huawei-Ulanqab-Jining, Huawei Cloud
+- **Ulanqab - Ulanqab Local Zone** (Ulanqab)
+  - Owner: Ulanqab
+  - Category: Local Zone
+  - Notes: Ulanqab, China
+- **Huawei Cloud - Ulanqab Local Zone** (Ulanqab)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Huawei-Ulanqab-Meiguiying, Huawei Cloud
+- **Ulanqab - Ulanqab Local Zone** (Ulanqab)
+  - Owner: Ulanqab
+  - Category: Local Zone
+  - Notes: Ulanqab, China
+- **Alibaba Cloud - Wuhan Local Zone** (Wuhan)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, ap-cn-wuhan-lr-dh-A, Alibaba Cloud
+- **Wuhan - Wuhan Local Zone** (Wuhan)
+  - Owner: Wuhan
+  - Category: Local Zone
+  - Notes: Wuhan, China
+- **Huawei Cloud - Wuhan Local Zone** (Wuhan)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Huawei-Wuhan-Huawei, Huawei Cloud
+- **Wuhan - Wuhan Local Zone** (Wuhan)
+  - Owner: Wuhan
+  - Category: Local Zone
+  - Notes: Wuhan, China
+- **Huawei Cloud - Wuhan Local Zone** (Wuhan)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Huawei-Wuhan-Wugang, Huawei Cloud
+- **Wuhan - Wuhan Local Zone** (Wuhan)
+  - Owner: Wuhan
+  - Category: Local Zone
+  - Notes: Wuhan, China
+- **Tencent Cloud - Wuhan Local Zone** (Wuhan)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-wuhan-ec, Tencent Cloud
+- **Wuhan - Wuhan Local Zone** (Wuhan)
+  - Owner: Wuhan
+  - Category: Local Zone
+  - Notes: Wuhan, China
+- **Huawei Cloud - Wuhu Local Zone** (Wuhu)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Huawei-Wuhu-Zhijiao, Huawei Cloud
+- **Wuhu - Wuhu Local Zone** (Wuhu)
+  - Owner: Wuhu
+  - Category: Local Zone
+  - Notes: Wuhu, China
+- **Huawei Cloud - Wuhu Local Zone** (Wuhu)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Huawei-Wuhu–Jiangbei, Huawei Cloud
+- **Wuhu - Wuhu Local Zone** (Wuhu)
+  - Owner: Wuhu
+  - Category: Local Zone
+  - Notes: Wuhu, China
+- **Huawei Cloud - Wuhu Local Zone** (Wuhu)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Huawei-Wuhu–Sanshan, Huawei Cloud
+- **Wuhu - Wuhu Local Zone** (Wuhu)
+  - Owner: Wuhu
+  - Category: Local Zone
+  - Notes: Wuhu, China
+- **Alibaba Cloud - Xi'an Local Zone** (Xi'an)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, China Telecom Xi’an, China Telecom
+- **56 Gao Xin Lu - Xi'an Local Zone** (Xi'an)
+  - Owner: 56 Gao Xin Lu
+  - Category: Local Zone
+  - Notes: 56 Gao Xin Lu, Xi'an, China
+- **Tencent Cloud - Xi'an Local Zone** (Xi'an)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-xian-a-xx, Tencent Cloud
+- **Xi'an - Xi'an Local Zone** (Xi'an)
+  - Owner: Xi'an
+  - Category: Local Zone
+  - Notes: Xi'an, China
+- **Amazon Web Services - Yinchuan Local Zone** (Yinchuan)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Industrial Park IDC, Ningxia West Cloud Data
+- **Yinchuan - Yinchuan Local Zone** (Yinchuan)
+  - Owner: Yinchuan
+  - Category: Local Zone
+  - Notes: Yinchuan, China
+- **Amazon Web Services - Yinchuan Local Zone** (Yinchuan)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Shapotou IDC, Ningxia West Cloud Data
+- **Yinchuan - Yinchuan Local Zone** (Yinchuan)
+  - Owner: Yinchuan
+  - Category: Local Zone
+  - Notes: Yinchuan, China
+- **Alibaba Cloud - Zhangjiakou Region** (Zhangjiakou)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China North 3 (Zhangjiakou)3 Zones
+- **Alibaba Cloud - Zhangjiakou Local Zone** (Zhangjiakou)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Zhangjiakou-Miaotan-A, Alibaba Cloud
+- **Zhangjiakou - Zhangjiakou Local Zone** (Zhangjiakou)
+  - Owner: Zhangjiakou
+  - Category: Local Zone
+  - Notes: Zhangjiakou, China
+- **Alibaba Cloud - Zhangjiakou Local Zone** (Zhangjiakou)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Zhangjiakou-Zhangbei-A, Alibaba Cloud
+- **Zhangjiakou - Zhangjiakou Local Zone** (Zhangjiakou)
+  - Owner: Zhangjiakou
+  - Category: Local Zone
+  - Notes: Zhangjiakou, China
+- **Alibaba Cloud - Zhangjiakou Local Zone** (Zhangjiakou)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Zhangjiakou-Zhangbei-B, Alibaba Cloud
+- **Zhangjiakou - Zhangjiakou Local Zone** (Zhangjiakou)
+  - Owner: Zhangjiakou
+  - Category: Local Zone
+  - Notes: Zhangjiakou, China
+- **Alibaba Cloud - Zhengzhou Local Zone** (Zhengzhou)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Zhengzhou-HighTech-A, China Telecom
+- **Zhengzhou - Zhengzhou Local Zone** (Zhengzhou)
+  - Owner: Zhengzhou
+  - Category: Local Zone
+  - Notes: Zhengzhou, China
+- **Tencent Cloud - Zhengzhou Local Zone** (Zhengzhou)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-zhengzhou-a-gx, Tencent Cloud
+- **Zhengzhou - Zhengzhou Local Zone** (Zhengzhou)
+  - Owner: Zhengzhou
+  - Category: Local Zone
+  - Notes: Zhengzhou, China
+## Chongqing
+- **Tencent Cloud - ap-chengdu Region** (ap-chengdu)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Southwest China (Chongqing)1 Zones
+## Chuncheon
+- **Oracle Cloud - koreasouth Region** (koreasouth)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: South Korea North (Chuncheon)1 Zones
+## Colombia
+- **Amazon Web Services - Bogotá Local Zone** (Bogotá)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-bog-1a, US East (Northern Virginia), Planned
+- **Amazon Web Services - Bogotá Local Zone** (Bogotá)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix BG1, Equinix
+- **Carrera 106 #15 a 25 - Bogotá Local Zone** (Bogotá)
+  - Owner: Carrera 106 #15 a 25
+  - Category: Local Zone
+  - Notes: Carrera 106 #15 a 25, Bogotá, Colombia
+- **Google Cloud - Bogotá Local Zone** (Bogotá)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix BG1, Equinix
+- **Carrera 106 #15 a 25 - Bogotá Local Zone** (Bogotá)
+  - Owner: Carrera 106 #15 a 25
+  - Category: Local Zone
+  - Notes: Carrera 106 #15 a 25, Bogotá, Colombia
+- **Google Cloud - Bogotá Local Zone** (Bogotá)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, ODATA BG01, Aligned Data Centers
+- **Zona Franca Metropolitana de Cota Predio San Rafael - Bogotá Local Zone** (Bogotá)
+  - Owner: Zona Franca Metropolitana de Cota Predio San Rafael
+  - Category: Local Zone
+  - Notes: Zona Franca Metropolitana de Cota Predio San Rafael, Cota, Colombia
+- **Oracle Cloud - Bogotá Local Zone** (Bogotá)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Claro Triara Cota, Claro
+- **Kilómetro7.5 autopista Medellín - Bogotá Local Zone** (Bogotá)
+  - Owner: Kilómetro7.5 autopista Medellín
+  - Category: Local Zone
+  - Notes: Kilómetro7.5 autopista Medellín, Funza, Colombia
+- **Oracle Cloud - Bogotá Local Zone** (Bogotá)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix BG1, Equinix
+- **Carrera 106 #15 a 25 - Bogotá Local Zone** (Bogotá)
+  - Owner: Carrera 106 #15 a 25
+  - Category: Local Zone
+  - Notes: Carrera 106 #15 a 25, Bogotá, Colombia
+## Columbus
+- **Amazon Web Services - us-chicago-1 Region** (us-chicago-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: AWS GovCloud (US-East)3 Zones
+- **Amazon Web Services - us-chicago-1 Region** (us-chicago-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: US East (Ohio)3 Zones
+- **Google Cloud - us-chicago-1 Region** (us-chicago-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Columbus3 Zones
+## Copenhagen
+- **Microsoft Azure - sa-bogota-1 Region** (sa-bogota-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Denmark East (Copenhagen)3 ZonesPlanned
+## Czech Republic
+- **Amazon Web Services - Prague Local Zone** (Prague)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, eu-central-1-prg-1a, Europe (Frankfurt), Planned
+- **OVH - Prague Local Zone** (Prague)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Prague, ,
+- **Amazon Web Services - Prague Local Zone** (Prague)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, CE Colo DC, CE Colo
+- **Nad Elektrarnou 1428/47 - Prague Local Zone** (Prague)
+  - Owner: Nad Elektrarnou 1428/47
+  - Category: Local Zone
+  - Notes: Nad Elektrarnou 1428/47, Prague, Czech Republic
+- **Google Cloud - Prague Local Zone** (Prague)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, CE Colo DC, CE Colo
+- **Nad Elektrarnou 1428/47 - Prague Local Zone** (Prague)
+  - Owner: Nad Elektrarnou 1428/47
+  - Category: Local Zone
+  - Notes: Nad Elektrarnou 1428/47, Prague, Czech Republic
+## Côte d'Ivoire
+- **OVH - Abidjan Local Zone** (Abidjan)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Abidjan, , Planned
+## Dallas
+- **Google Cloud - us-east5 Region** (us-east5)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Dallas3 Zones
+- **IBM Cloud - us-east5 Region** (us-east5)
+  - Owner: IBM Cloud
+  - Category: Cloud Region
+  - Notes: Dallas3 Zones
+## Dammam
+- **Google Cloud - qatarcentral Region** (qatarcentral)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Damman3 Zones
+## Denmark
+- **Amazon Web Services - Copenhagen Local Zone** (Copenhagen)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, eu-north-1-cph-1a, Europe (Stockholm),
+- **OVH - Copenhagen Local Zone** (Copenhagen)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Copenhagen, , Planned
+- **Amazon Web Services - Copenhagen Local Zone** (Copenhagen)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Digital Realty CPH2, Digital Realty
+- **Industriparken 20 - Copenhagen Local Zone** (Copenhagen)
+  - Owner: Industriparken 20
+  - Category: Local Zone
+  - Notes: Industriparken 20, Ballerup, Denmark
+- **Google Cloud - Copenhagen Local Zone** (Copenhagen)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty CPH1, Digital Realty
+- **Industriparken 20 - Copenhagen Local Zone** (Copenhagen)
+  - Owner: Industriparken 20
+  - Category: Local Zone
+  - Notes: Industriparken 20, Ballerup, Denmark
+- **Microsoft Azure - Copenhagen Local Zone** (Copenhagen)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Digital Realty CPH1, Digital Realty
+- **Industriparken 20 - Copenhagen Local Zone** (Copenhagen)
+  - Owner: Industriparken 20
+  - Category: Local Zone
+  - Notes: Industriparken 20, Ballerup, Denmark
+## Des Moines
+- **Microsoft Azure - us-south Region** (us-south)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Central US (Des Moines)3 Zones
+- **Microsoft Azure - us-south Region** (us-south)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: US DoD Central1 Zones
+- **Microsoft Azure - us-south Region** (us-south)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: US Sec West Central3 Zones
+## Dubai
+- **Alibaba Cloud - me-abudhabi-1 Region** (me-abudhabi-1)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: Middle East 1 (Dubai)1 Zones
+- **Amazon Web Services - me-abudhabi-1 Region** (me-abudhabi-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: United Arab Emirates3 Zones
+- **Microsoft Azure - me-abudhabi-1 Region** (me-abudhabi-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: UAE North (Dubai)3 Zones
+- **Oracle Cloud - me-abudhabi-1 Region** (me-abudhabi-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: United Arab Emirates (Dubai)1 Zones
+## Dublin
+- **Amazon Web Services - ap-jakarta Region** (ap-jakarta)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Europe West (Ireland)3 Zones
+- **Huawei Cloud - ap-jakarta Region** (ap-jakarta)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: EU Dublin2 Zones
+- **Microsoft Azure - ap-jakarta Region** (ap-jakarta)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: North Europe (Dublin)3 Zones
+## Dunkerque
+- **OVH - finlandcentral Region** (finlandcentral)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: France (Gravelines)1 Zones
+## Egypt
+- **Huawei Cloud - Cairo Local Zone** (Cairo)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Huawei Cloud North Africa (Cairo), Huawei Cloud
+- **Cairo - Cairo Local Zone** (Cairo)
+  - Owner: Cairo
+  - Category: Local Zone
+  - Notes: Cairo, Egypt
+## Finland
+- **Google Cloud - Hamina Region** (Hamina)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Finland3 Zones
+- **Amazon Web Services - Helsinki Local Zone** (Helsinki)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, eu-north-1-hel-1a, US East (Northern Virginia),
+- **Google Cloud - Helsinki Local Zone** (Helsinki)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, hem-zone1-7098, Finland (europe-north1),
+- **Google Cloud - Helsinki Local Zone** (Helsinki)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, hem-zone1-8128, Finland (europe-north1),
+- **OVH - Helsinki Local Zone** (Helsinki)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Helsinki, , Planned
+- **Amazon Web Services - Helsinki Local Zone** (Helsinki)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix HE6, Equinix
+- **Sinimaentie 12 - Helsinki Local Zone** (Helsinki)
+  - Owner: Sinimaentie 12
+  - Category: Local Zone
+  - Notes: Sinimaentie 12, Espoo, Finland
+- **Google Cloud - Helsinki Local Zone** (Helsinki)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Arelion Helsinki, Arelion
+- **Valimotie 5 - Helsinki Local Zone** (Helsinki)
+  - Owner: Valimotie 5
+  - Category: Local Zone
+  - Notes: Valimotie 5, 00380 , Helsinki, Finland
+- **Google Cloud - Helsinki Local Zone** (Helsinki)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix HE7, Equinix
+- **Sinimaentie 8 - Helsinki Local Zone** (Helsinki)
+  - Owner: Sinimaentie 8
+  - Category: Local Zone
+  - Notes: Sinimaentie 8, Helsinki, Finland
+## France
+- **OVH - Lille Region** (Lille)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: Western Europe (Roubaix)1 Zones
+- **OVH - Lille Local Zone** (Lille)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Etix Lille #2, Etix Everywhere
+- **1681 Rue des Saules - Lille Local Zone** (Lille)
+  - Owner: 1681 Rue des Saules
+  - Category: Local Zone
+  - Notes: 1681 Rue des Saules, Sainghin-en-Mélantois, France
+- **Microsoft Azure - Marseille Region** (Marseille)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: France South (Marseille)1 Zones
+- **Oracle Cloud - Marseille Region** (Marseille)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: France (Marseille)1 Zones
+- **OVH - Marseille Local Zone** (Marseille)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Marseille, ,
+- **Amazon Web Services - Marseille Local Zone** (Marseille)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Digital Realty MRS1, Digital Realty
+- **40 Avenue Roger Salengro - Marseille Local Zone** (Marseille)
+  - Owner: 40 Avenue Roger Salengro
+  - Category: Local Zone
+  - Notes: 40 Avenue Roger Salengro, Marseille, France
+- **Google Cloud - Marseille Local Zone** (Marseille)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty MRS1, Digital Realty
+- **40 Avenue Roger Salengro - Marseille Local Zone** (Marseille)
+  - Owner: 40 Avenue Roger Salengro
+  - Category: Local Zone
+  - Notes: 40 Avenue Roger Salengro, Marseille, France
+- **Google Cloud - Marseille Local Zone** (Marseille)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty MRS2, Digital Realty
+- **6 Bassin Léon Gourret - Marseille Local Zone** (Marseille)
+  - Owner: 6 Bassin Léon Gourret
+  - Category: Local Zone
+  - Notes: 6 Bassin Léon Gourret, Marseille, France
+- **Microsoft Azure - Marseille Local Zone** (Marseille)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Digital Realty MRS1, Digital Realty
+- **40 Avenue Roger Salengro - Marseille Local Zone** (Marseille)
+  - Owner: 40 Avenue Roger Salengro
+  - Category: Local Zone
+  - Notes: 40 Avenue Roger Salengro, Marseille, France
+- **Oracle Cloud - Marseille Local Zone** (Marseille)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Digital Realty MRS2, Digital Realty
+- **6 Bassin Léon Gourret - Marseille Local Zone** (Marseille)
+  - Owner: 6 Bassin Léon Gourret
+  - Category: Local Zone
+  - Notes: 6 Bassin Léon Gourret, Marseille, France
+- **Google Cloud - Paris Local Zone** (Paris)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, cdg-zone1-1536, Paris (europe-west9),
+- **Google Cloud - Paris Local Zone** (Paris)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, cdg-zone1-181, Paris (europe-west9),
+- **Google Cloud - Paris Local Zone** (Paris)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, cdg-zone1-3342, Paris (europe-west9),
+- **Google Cloud - Paris Local Zone** (Paris)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, cdg-zone1-53, Paris (europe-west9),
+- **Amazon Web Services - Paris Local Zone** (Paris)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Digital Realty PAR7, Digital Realty
+- **1-3 Rue Rateau - Paris Local Zone** (Paris)
+  - Owner: 1-3 Rue Rateau
+  - Category: Local Zone
+  - Notes: 1-3 Rue Rateau, Paris, France
+- **Amazon Web Services - Paris Local Zone** (Paris)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix PA3, Equinix
+- **114 Rue Ambroise Croizat - Paris Local Zone** (Paris)
+  - Owner: 114 Rue Ambroise Croizat
+  - Category: Local Zone
+  - Notes: 114 Rue Ambroise Croizat, Saint Denis, France
+- **Amazon Web Services - Paris Local Zone** (Paris)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, TELEHOUSE Paris (Voltaire), TELEHOUSE
+- **137 Boulevard Voltaire - Paris Local Zone** (Paris)
+  - Owner: 137 Boulevard Voltaire
+  - Category: Local Zone
+  - Notes: 137 Boulevard Voltaire, Paris, France
+- **Google Cloud - Paris Local Zone** (Paris)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Data4 PAR 01 DC1, DATA4 Group
+- **Route de Nozay - Paris Local Zone** (Paris)
+  - Owner: Route de Nozay
+  - Category: Local Zone
+  - Notes: Route de Nozay, Marcoussis, France
+- **Google Cloud - Paris Local Zone** (Paris)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty PAR7, Digital Realty
+- **1-3 Rue Rateau - Paris Local Zone** (Paris)
+  - Owner: 1-3 Rue Rateau
+  - Category: Local Zone
+  - Notes: 1-3 Rue Rateau, Paris, France
+- **Google Cloud - Paris Local Zone** (Paris)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Global Switch Paris East, Global Switch
+- **7-9 Rue Petit - Paris Local Zone** (Paris)
+  - Owner: 7-9 Rue Petit
+  - Category: Local Zone
+  - Notes: 7-9 Rue Petit, Clichy, France
+- **Google Cloud - Paris Local Zone** (Paris)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, TELEHOUSE Paris (Voltaire), TELEHOUSE
+- **137 Boulevard Voltaire - Paris Local Zone** (Paris)
+  - Owner: 137 Boulevard Voltaire
+  - Category: Local Zone
+  - Notes: 137 Boulevard Voltaire, Paris, France
+- **IBM Cloud - Paris Local Zone** (Paris)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix PA2, Equinix
+- **114 Rue Ambroise Croizat - Paris Local Zone** (Paris)
+  - Owner: 114 Rue Ambroise Croizat
+  - Category: Local Zone
+  - Notes: 114 Rue Ambroise Croizat, Saint Denis, France
+- **IBM Cloud - Paris Local Zone** (Paris)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix PA4, Equinix
+- **110 Bis Avenue du General Leclerc - Paris Local Zone** (Paris)
+  - Owner: 110 Bis Avenue du General Leclerc
+  - Category: Local Zone
+  - Notes: 110 Bis Avenue du General Leclerc, Pantin, France
+- **IBM Cloud - Paris Local Zone** (Paris)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Global Switch Paris East, Global Switch
+- **7-9 Rue Petit - Paris Local Zone** (Paris)
+  - Owner: 7-9 Rue Petit
+  - Category: Local Zone
+  - Notes: 7-9 Rue Petit, Clichy, France
+- **Microsoft Azure - Paris Local Zone** (Paris)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Digital Realty PAR5, Digital Realty
+- **11-13 Avenue des Arts et Metiers - Paris Local Zone** (Paris)
+  - Owner: 11-13 Avenue des Arts et Metiers
+  - Category: Local Zone
+  - Notes: 11-13 Avenue des Arts et Metiers, Paris, France
+- **Microsoft Azure - Paris Local Zone** (Paris)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix PA4, Equinix
+- **110 Bis Avenue du General Leclerc - Paris Local Zone** (Paris)
+  - Owner: 110 Bis Avenue du General Leclerc
+  - Category: Local Zone
+  - Notes: 110 Bis Avenue du General Leclerc, Pantin, France
+- **Oracle Cloud - Paris Local Zone** (Paris)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, TELEHOUSE Paris (Voltaire), TELEHOUSE
+- **137 Boulevard Voltaire - Paris Local Zone** (Paris)
+  - Owner: 137 Boulevard Voltaire
+  - Category: Local Zone
+  - Notes: 137 Boulevard Voltaire, Paris, France
+- **OVH - Paris Local Zone** (Paris)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Equinix PA1, Equinix
+- **167 Rue de la Belle Etoile - Paris Local Zone** (Paris)
+  - Owner: 167 Rue de la Belle Etoile
+  - Category: Local Zone
+  - Notes: 167 Rue de la Belle Etoile, Roissy, France
+- **OVH - Paris Local Zone** (Paris)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Global Switch Paris East, Global Switch
+- **7-9 Rue Petit - Paris Local Zone** (Paris)
+  - Owner: 7-9 Rue Petit
+  - Category: Local Zone
+  - Notes: 7-9 Rue Petit, Clichy, France
+- **OVH - Paris Local Zone** (Paris)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, TELEHOUSE Paris (Voltaire), TELEHOUSE
+- **137 Boulevard Voltaire - Paris Local Zone** (Paris)
+  - Owner: 137 Boulevard Voltaire
+  - Category: Local Zone
+  - Notes: 137 Boulevard Voltaire, Paris, France
+- **OVH - Strasbourg Region** (Strasbourg)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: Western Europe (Strasbourg)1 Zones
+## Frankfurt
+- **Alibaba Cloud - germanynorth Region** (germanynorth)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: EU Central 1 (Frankfurt)3 Zones
+- **Amazon Web Services - germanynorth Region** (germanynorth)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Europe Central (Frankfurt)3 Zones
+- **Amazon Web Services - germanynorth Region** (germanynorth)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: European Sovereign Cloud (Germany)3 ZonesPlanned
+- **Google Cloud - germanynorth Region** (germanynorth)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Frankfurt3 Zones
+- **IBM Cloud - germanynorth Region** (germanynorth)
+  - Owner: IBM Cloud
+  - Category: Cloud Region
+  - Notes: Frankfurt3 Zones
+- **Microsoft Azure - germanynorth Region** (germanynorth)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Germany West Central (Frankfurt)3 Zones
+- **Oracle Cloud - germanynorth Region** (germanynorth)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: EU Sovereign Central (Frankfurt)1 Zones
+- **Oracle Cloud - germanynorth Region** (germanynorth)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Germany Central (Frankfurt)3 Zones
+- **OVH - germanynorth Region** (germanynorth)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: Central Europe (Frankfurt)1 Zones
+- **Tencent Cloud - germanynorth Region** (germanynorth)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Central Europe (Frankfurt)2 Zones
+## Fuzhou
+- **Alibaba Cloud - ap-chongqing Region** (ap-chongqing)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China (Fuzhou - Local Region)1 Zones
+## Geneva
+- **Microsoft Azure - eu-stockholm-1 Region** (eu-stockholm-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Switzerland West (Geneva)1 Zones
+## Germany
+- **Google Cloud - Berlin Region** (Berlin)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Berlin3 Zones
+- **Microsoft Azure - Berlin Region** (Berlin)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Germany North (Berlin)1 Zones
+- **Amazon Web Services - Berlin Local Zone** (Berlin)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, CarrierColo Berlin B (IPB Berlin), CarrierColo
+- **Lutzowstrasse 105-106 - Berlin Local Zone** (Berlin)
+  - Owner: Lutzowstrasse 105-106
+  - Category: Local Zone
+  - Notes: Lutzowstrasse 105-106, Berlin, Germany
+- **Google Cloud - Berlin Local Zone** (Berlin)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, NorthC Data Center Berlin 2, Lumen
+- **Gradestrasse 60 - Berlin Local Zone** (Berlin)
+  - Owner: Gradestrasse 60
+  - Category: Local Zone
+  - Notes: Gradestrasse 60, Berlin, Germany
+- **Google Cloud - Berlin Local Zone** (Berlin)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, NTT GDC Berlin BER1, NTT Global Data Centers
+- **Nonnendammallee 15 - Berlin Local Zone** (Berlin)
+  - Owner: Nonnendammallee 15
+  - Category: Local Zone
+  - Notes: Nonnendammallee 15, Berlin, Germany
+- **Microsoft Azure - Berlin Local Zone** (Berlin)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, NTT GDC Berlin BER1, NTT Global Data Centers
+- **Nonnendammallee 15 - Berlin Local Zone** (Berlin)
+  - Owner: Nonnendammallee 15
+  - Category: Local Zone
+  - Notes: Nonnendammallee 15, Berlin, Germany
+- **Google Cloud - Düsseldorf Local Zone** (Düsseldorf)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty DUS1, Digital Realty
+- **In der Steele 25-45 - Düsseldorf Local Zone** (Düsseldorf)
+  - Owner: In der Steele 25-45
+  - Category: Local Zone
+  - Notes: In der Steele 25-45, Düsseldorf, Germany
+- **Google Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, fra-zone1-58, Frankfurt (europe-west3),
+- **Google Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, fra-zone1-277, Frankfurt (europe-west3),
+- **Google Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, fra-zone1-683, Frankfurt (europe-west3),
+- **Alibaba Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Equinix FR4, Equinix
+- **Larchenstrasse 110 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Larchenstrasse 110
+  - Category: Local Zone
+  - Notes: Larchenstrasse 110, Frankfurt, Germany
+- **Alibaba Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, NTT GDC Frankfurt FRA1A, NTT Global Data Centers
+- **Eschborner Landstrasse 100 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Eschborner Landstrasse 100
+  - Category: Local Zone
+  - Notes: Eschborner Landstrasse 100, Frankfurt, Germany
+- **Amazon Web Services - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Digital Realty FRA6, Digital Realty
+- **Hanauer Landstrasse 300-300a - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Hanauer Landstrasse 300-300a
+  - Category: Local Zone
+  - Notes: Hanauer Landstrasse 300-300a, Frankfurt, Germany
+- **Amazon Web Services - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix FR5, Equinix
+- **Schwalbacher Str. 60-62 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Schwalbacher Str. 60-62
+  - Category: Local Zone
+  - Notes: Schwalbacher Str. 60-62, Eschborn, Germany
+- **Google Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty FRA1, Digital Realty
+- **Hanauer Landstrasse 302 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Hanauer Landstrasse 302
+  - Category: Local Zone
+  - Notes: Hanauer Landstrasse 302, Frankfurt, Germany
+- **Google Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix FR4, Equinix
+- **Larchenstrasse 110 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Larchenstrasse 110
+  - Category: Local Zone
+  - Notes: Larchenstrasse 110, Frankfurt, Germany
+- **Google Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, NTT GDC Frankfurt FRA1A, NTT Global Data Centers
+- **Eschborner Landstrasse 100 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Eschborner Landstrasse 100
+  - Category: Local Zone
+  - Notes: Eschborner Landstrasse 100, Frankfurt, Germany
+- **IBM Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, CyrusOne FRA1, CyrusOne
+- **Leonhard-Heisswolf Strasse 4 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Leonhard-Heisswolf Strasse 4
+  - Category: Local Zone
+  - Notes: Leonhard-Heisswolf Strasse 4, Frankfurt, Germany
+- **IBM Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Digital Realty FRA1, Digital Realty
+- **Hanauer Landstrasse 302 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Hanauer Landstrasse 302
+  - Category: Local Zone
+  - Notes: Hanauer Landstrasse 302, Frankfurt, Germany
+- **IBM Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix FR4, Equinix
+- **Larchenstrasse 110 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Larchenstrasse 110
+  - Category: Local Zone
+  - Notes: Larchenstrasse 110, Frankfurt, Germany
+- **IBM Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, NTT GDC Frankfurt FRA1A, NTT Global Data Centers
+- **Eschborner Landstrasse 100 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Eschborner Landstrasse 100
+  - Category: Local Zone
+  - Notes: Eschborner Landstrasse 100, Frankfurt, Germany
+- **Microsoft Azure - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Digital Realty FRA11, Digital Realty
+- **Weissmuellerstrasse 40 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Weissmuellerstrasse 40
+  - Category: Local Zone
+  - Notes: Weissmuellerstrasse 40, Frankfurt, Germany
+- **Microsoft Azure - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix FR7, Equinix
+- **Gutleutstrasse 310 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Gutleutstrasse 310
+  - Category: Local Zone
+  - Notes: Gutleutstrasse 310, Frankfurt, Germany
+- **Oracle Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Digital Realty FRA10, Digital Realty
+- **Weissmuellerstrasse 38 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Weissmuellerstrasse 38
+  - Category: Local Zone
+  - Notes: Weissmuellerstrasse 38, Frankfurt, Germany
+- **Oracle Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix FR5, Equinix
+- **Schwalbacher Str. 60-62 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Schwalbacher Str. 60-62
+  - Category: Local Zone
+  - Notes: Schwalbacher Str. 60-62, Eschborn, Germany
+- **OVH - Frankfurt Local Zone** (Frankfurt)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Equinix FR5, Equinix
+- **Schwalbacher Str. 60-62 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Schwalbacher Str. 60-62
+  - Category: Local Zone
+  - Notes: Schwalbacher Str. 60-62, Eschborn, Germany
+- **Tencent Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, China Mobile Frankfurt, China Mobile
+- **Starkenburgstrasse 12 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Starkenburgstrasse 12
+  - Category: Local Zone
+  - Notes: Starkenburgstrasse 12, Mörfelden, Germany
+- **Tencent Cloud - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, Digital Realty FRA1, Digital Realty
+- **Hanauer Landstrasse 302 - Frankfurt Local Zone** (Frankfurt)
+  - Owner: Hanauer Landstrasse 302
+  - Category: Local Zone
+  - Notes: Hanauer Landstrasse 302, Frankfurt, Germany
+- **Amazon Web Services - Hamburg Local Zone** (Hamburg)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, eu-central-1-ham-1a, Europe (Frankfurt),
+- **Amazon Web Services - Hamburg Local Zone** (Hamburg)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Portus (IPHH3/R1), *Internet Port Hamburg (IPHH)* under Portus
+- **Wendenstrasse 251 - Hamburg Local Zone** (Hamburg)
+  - Owner: Wendenstrasse 251
+  - Category: Local Zone
+  - Notes: Wendenstrasse 251, Hamburg, Germany
+- **Google Cloud - Hamburg Local Zone** (Hamburg)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Global Connect Hamburg I, Global Connect
+- **Flughafenstrasse 54 A - Hamburg Local Zone** (Hamburg)
+  - Owner: Flughafenstrasse 54 A
+  - Category: Local Zone
+  - Notes: Flughafenstrasse 54 A, Hamburg, Germany
+- **Google Cloud - Hamburg Local Zone** (Hamburg)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Lumen Hamburg, CenturyLink
+- **Suderstrasse 198 - Hamburg Local Zone** (Hamburg)
+  - Owner: Suderstrasse 198
+  - Category: Local Zone
+  - Notes: Suderstrasse 198, Hamburg, Germany
+- **Amazon Web Services - Munich Local Zone** (Munich)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix MU1, Equinix
+- **Seidlstrasse 3 - Munich Local Zone** (Munich)
+  - Owner: Seidlstrasse 3
+  - Category: Local Zone
+  - Notes: Seidlstrasse 3, Munich, Germany
+- **Google Cloud - Munich Local Zone** (Munich)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix MU1, Equinix
+- **Seidlstrasse 3 - Munich Local Zone** (Munich)
+  - Owner: Seidlstrasse 3
+  - Category: Local Zone
+  - Notes: Seidlstrasse 3, Munich, Germany
+- **Microsoft Azure - Munich Local Zone** (Munich)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, EdgeConneX MUC01, EdgeConneX
+- **Marsstraße 5 - Munich Local Zone** (Munich)
+  - Owner: Marsstraße 5
+  - Category: Local Zone
+  - Notes: Marsstraße 5, Kirchheim bei München, Germany
+## Greece
+- **Amazon Web Services - Athens Local Zone** (Athens)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, eu-south-1-ath-1a, Europe (Milan), Planned
+- **Amazon Web Services - Athens Local Zone** (Athens)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Digital Realty ATH3, Digital Realty
+- **Ifestou 74 - Athens Local Zone** (Athens)
+  - Owner: Ifestou 74
+  - Category: Local Zone
+  - Notes: Ifestou 74, Koropi, Greece
+- **Google Cloud - Athens Local Zone** (Athens)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty ATH1, Digital Realty
+- **Ifestou 76 - Athens Local Zone** (Athens)
+  - Owner: Ifestou 76
+  - Category: Local Zone
+  - Notes: Ifestou 76, Koropi, Greece
+## Groningen
+- **Google Cloud - eu-amsterdam-1 Region** (eu-amsterdam-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Netherlands3 Zones
+## Guangzhou
+- **Alibaba Cloud - cn-fuzhou Region** (cn-fuzhou)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China South 3 (Guangzhou)2 Zones
+- **Huawei Cloud - cn-fuzhou Region** (cn-fuzhou)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: CN South Guangzhou6 Zones
+- **Tencent Cloud - cn-fuzhou Region** (cn-fuzhou)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: South China (Guangzhou)5 Zones
+## Guiyang
+- **Huawei Cloud - ap-guangzhou Region** (ap-guangzhou)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: CN Southwest Guiyang3 Zones
+## Gävle
+- **Microsoft Azure - eu-south-2 Region** (eu-south-2)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Sweden Central (Gävle)3 Zones
+## Hangzhou
+- **Alibaba Cloud - cn-southwest-2 Region** (cn-southwest-2)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China East 1 (Hangzhou)8 Zones
+## Helsinki
+- **Microsoft Azure - europe-north1 Region** (europe-north1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Finland (Helsinki)3 ZonesPlanned
+## Heyuan
+- **Alibaba Cloud - cn-hangzhou Region** (cn-hangzhou)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China South 2 (Heyuan)2 Zones
+## Hong Kong
+- **Alibaba Cloud - cn-heyuan Region** (cn-heyuan)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China (Hong Kong)3 Zones
+- **Amazon Web Services - cn-heyuan Region** (cn-heyuan)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: China (Hong Kong)3 Zones
+- **Google Cloud - cn-heyuan Region** (cn-heyuan)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Hong Kong3 Zones
+- **Huawei Cloud - cn-heyuan Region** (cn-heyuan)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: CN-Hong Kong4 Zones
+- **Microsoft Azure - cn-heyuan Region** (cn-heyuan)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: East Asia (Hong Kong)3 Zones
+- **Tencent Cloud - cn-heyuan Region** (cn-heyuan)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Hong Kong3 Zones
+## Huhehaote
+- **Alibaba Cloud - ap-hongkong Region** (ap-hongkong)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China North 5 (Hohhot)2 Zones
+## Hyderabad
+- **Amazon Web Services - southindia Region** (southindia)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Asia Pacific (Hyderabad)3 Zones
+- **Microsoft Azure - southindia Region** (southindia)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Southcentral (Hyderabad)3 ZonesPlanned
+- **Oracle Cloud - southindia Region** (southindia)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: India South (Hyderabad)1 Zones
+## India
+- **OVH - Bangalore Local Zone** (Bangalore)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Bangalore, , Planned
+- **Amazon Web Services - Bangalore Local Zone** (Bangalore)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, NTT Bangalore BLR2, NTT Global Data Centers
+- **112 - Bangalore Local Zone** (Bangalore)
+  - Owner: 112
+  - Category: Local Zone
+  - Notes: 112, 7th Cross Rd., Bangalore, India
+- **Amazon Web Services - Chennai Local Zone** (Chennai)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, STT Chennai 1, STT GDC India Pvt Ltd
+- **4 Swami Sivananda Salai Road - Chennai Local Zone** (Chennai)
+  - Owner: 4 Swami Sivananda Salai Road
+  - Category: Local Zone
+  - Notes: 4 Swami Sivananda Salai Road, Chennai, India
+- **Google Cloud - Chennai Local Zone** (Chennai)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, NTT Chennai CNN1, NTT Global Data Centers
+- **67 - Chennai Local Zone** (Chennai)
+  - Owner: 67
+  - Category: Local Zone
+  - Notes: 67, Mathiravedu, Velappanchavadi, Chennai, India
+- **Google Cloud - Chennai Local Zone** (Chennai)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, STT Chennai 1, STT GDC India Pvt Ltd
+- **4 Swami Sivananda Salai Road - Chennai Local Zone** (Chennai)
+  - Owner: 4 Swami Sivananda Salai Road
+  - Category: Local Zone
+  - Notes: 4 Swami Sivananda Salai Road, Chennai, India
+- **IBM Cloud - Chennai Local Zone** (Chennai)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, STT Chennai 1, STT GDC India Pvt Ltd
+- **4 Swami Sivananda Salai Road - Chennai Local Zone** (Chennai)
+  - Owner: 4 Swami Sivananda Salai Road
+  - Category: Local Zone
+  - Notes: 4 Swami Sivananda Salai Road, Chennai, India
+- **Microsoft Azure - Chennai Local Zone** (Chennai)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Nxtra Chennai III, Nxtra
+- **101 Santhome High Road - Chennai Local Zone** (Chennai)
+  - Owner: 101 Santhome High Road
+  - Category: Local Zone
+  - Notes: 101 Santhome High Road, Chennai, India
+- **Microsoft Azure - Chennai Local Zone** (Chennai)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, STT Chennai 1, STT GDC India Pvt Ltd
+- **4 Swami Sivananda Salai Road - Chennai Local Zone** (Chennai)
+  - Owner: 4 Swami Sivananda Salai Road
+  - Category: Local Zone
+  - Notes: 4 Swami Sivananda Salai Road, Chennai, India
+- **Amazon Web Services - Hyderabad Local Zone** (Hyderabad)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, STT Hyderabad 1, STT GDC India Pvt Ltd
+- **Software Units Layout CFC-1 - Hyderabad Local Zone** (Hyderabad)
+  - Owner: Software Units Layout CFC-1
+  - Category: Local Zone
+  - Notes: Software Units Layout CFC-1, Hyderabad, India
+- **Google Cloud - Hyderabad Local Zone** (Hyderabad)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, STT Hyderabad 1, STT GDC India Pvt Ltd
+- **Software Units Layout CFC-1 - Hyderabad Local Zone** (Hyderabad)
+  - Owner: Software Units Layout CFC-1
+  - Category: Local Zone
+  - Notes: Software Units Layout CFC-1, Hyderabad, India
+- **Oracle Cloud - Hyderabad Local Zone** (Hyderabad)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Sify Hyderabad, Sify
+- **Survey No 115 - Hyderabad Local Zone** (Hyderabad)
+  - Owner: Survey No 115
+  - Category: Local Zone
+  - Notes: Survey No 115, Financial District, Nanakram Guda, Gachibowli, Hyderabad, India
+- **Amazon Web Services - Kolkata Local Zone** (Kolkata)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, ap-south-1-ccu-1a, Asia Pacific (Mumbai),
+- **Amazon Web Services - Kolkata Local Zone** (Kolkata)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, STT Kolkata 1, STT GDC India Pvt Ltd
+- **1 - Kolkata Local Zone** (Kolkata)
+  - Owner: 1
+  - Category: Local Zone
+  - Notes: 1, Videsh Sanchar Bhavan, 18, CIT Rd, Kolkata, India
+- **Google Cloud - Mumbai Local Zone** (Mumbai)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, bom-zone1-2310, Mumbai (asia-south1),
+- **Google Cloud - Mumbai Local Zone** (Mumbai)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, bom-zone1-554, Mumbai (asia-south1),
+- **Amazon Web Services - Mumbai Local Zone** (Mumbai)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix MB1, Equinix
+- **Unit A-001 Boomerang - Mumbai Local Zone** (Mumbai)
+  - Owner: Unit A-001 Boomerang
+  - Category: Local Zone
+  - Notes: Unit A-001 Boomerang, Chandivali Road, Mumbai, India
+- **Amazon Web Services - Mumbai Local Zone** (Mumbai)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix MB2, Equinix
+- **Plot 37 - Mumbai Local Zone** (Mumbai)
+  - Owner: Plot 37
+  - Category: Local Zone
+  - Notes: Plot 37, Chandivali Farm Road, Andheri East, Mumbai, India
+- **Amazon Web Services - Mumbai Local Zone** (Mumbai)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Sify Mumbai 03 Rabale (Towers 1-4), Sify
+- **Plot no. 847/1/2 - Mumbai Local Zone** (Mumbai)
+  - Owner: Plot no. 847/1/2
+  - Category: Local Zone
+  - Notes: Plot no. 847/1/2, TTC Industrial Area, Navi Mumbai, India
+- **Google Cloud - Mumbai Local Zone** (Mumbai)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix MB1, Equinix
+- **Unit A-001 Boomerang - Mumbai Local Zone** (Mumbai)
+  - Owner: Unit A-001 Boomerang
+  - Category: Local Zone
+  - Notes: Unit A-001 Boomerang, Chandivali Road, Mumbai, India
+- **Google Cloud - Mumbai Local Zone** (Mumbai)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, STT Mumbai 1, STT GDC India Pvt Ltd
+- **Lokmanya Videsh Sanchar Bhavan - Mumbai Local Zone** (Mumbai)
+  - Owner: Lokmanya Videsh Sanchar Bhavan
+  - Category: Local Zone
+  - Notes: Lokmanya Videsh Sanchar Bhavan, Kashinath Dhuru Marg, Oppo. Kirti College, Mumbai, India
+- **IBM Cloud - Mumbai Local Zone** (Mumbai)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix MB2, Equinix
+- **Plot 37 - Mumbai Local Zone** (Mumbai)
+  - Owner: Plot 37
+  - Category: Local Zone
+  - Notes: Plot 37, Chandivali Farm Road, Andheri East, Mumbai, India
+- **Microsoft Azure - Mumbai Local Zone** (Mumbai)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Nxtra Mumbai I, Nxtra
+- **Sector 2 - Mumbai Local Zone** (Mumbai)
+  - Owner: Sector 2
+  - Category: Local Zone
+  - Notes: Sector 2, Kopar Khairane, Navi Mumbai, India
+- **Microsoft Azure - Mumbai Local Zone** (Mumbai)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, STT Mumbai 1, STT GDC India Pvt Ltd
+- **Lokmanya Videsh Sanchar Bhavan - Mumbai Local Zone** (Mumbai)
+  - Owner: Lokmanya Videsh Sanchar Bhavan
+  - Category: Local Zone
+  - Notes: Lokmanya Videsh Sanchar Bhavan, Kashinath Dhuru Marg, Oppo. Kirti College, Mumbai, India
+- **Oracle Cloud - Mumbai Local Zone** (Mumbai)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix MB1, Equinix
+- **Unit A-001 Boomerang - Mumbai Local Zone** (Mumbai)
+  - Owner: Unit A-001 Boomerang
+  - Category: Local Zone
+  - Notes: Unit A-001 Boomerang, Chandivali Road, Mumbai, India
+- **Oracle Cloud - Mumbai Local Zone** (Mumbai)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Sify Mumbai 03 Rabale (Towers 1-4), Sify
+- **Plot no. 847/1/2 - Mumbai Local Zone** (Mumbai)
+  - Owner: Plot no. 847/1/2
+  - Category: Local Zone
+  - Notes: Plot no. 847/1/2, TTC Industrial Area, Navi Mumbai, India
+- **OVH - Mumbai Local Zone** (Mumbai)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Equinix MB2, Equinix
+- **Plot 37 - Mumbai Local Zone** (Mumbai)
+  - Owner: Plot 37
+  - Category: Local Zone
+  - Notes: Plot 37, Chandivali Farm Road, Andheri East, Mumbai, India
+- **Tencent Cloud - Mumbai Local Zone** (Mumbai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, CtrlS Mumbai DC1, CtrlS
+- **Plot No. GEN 72/1/A - Mumbai Local Zone** (Mumbai)
+  - Owner: Plot No. GEN 72/1/A
+  - Category: Local Zone
+  - Notes: Plot No. GEN 72/1/A, S Central Rd, TTC Industrial Area, Electronic Zone, MIDC Industrial Area, Navi Mumbai, India
+- **Tencent Cloud - Mumbai Local Zone** (Mumbai)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, NTT Mumbai 5, NTT Global Data Centers
+- **Lighthall C Wing - Mumbai Local Zone** (Mumbai)
+  - Owner: Lighthall C Wing
+  - Category: Local Zone
+  - Notes: Lighthall C Wing, Mumbai, India
+- **Amazon Web Services - New Delhi Local Zone** (New Delhi)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, ap-south-1-del-1a, Asia Pacific (Mumbai),
+- **Google Cloud - New Delhi Local Zone** (New Delhi)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, del-zone1-1622, Delhi (asia-south2),
+- **Google Cloud - New Delhi Local Zone** (New Delhi)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, del-zone1-2411, Delhi (asia-south2),
+- **OVH - New Delhi Local Zone** (New Delhi)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, New Delhi, , Planned
+- **Amazon Web Services - New Delhi Local Zone** (New Delhi)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, STT Delhi 2, STT GDC India Pvt Ltd
+- **IDC Building - New Delhi Local Zone** (New Delhi)
+  - Owner: IDC Building
+  - Category: Local Zone
+  - Notes: IDC Building, Opp Savitri Cinema, New Delhi, India
+- **Google Cloud - New Delhi Local Zone** (New Delhi)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Sify Noida 01, Sify
+- **Sify Technologies Ltd. Plot Number B7 - New Delhi Local Zone** (New Delhi)
+  - Owner: Sify Technologies Ltd. Plot Number B7
+  - Category: Local Zone
+  - Notes: Sify Technologies Ltd. Plot Number B7, Noida, India
+- **Google Cloud - New Delhi Local Zone** (New Delhi)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, STT Delhi 1, STT GDC India Pvt Ltd
+- **Videsh Sanchar Bhavan - New Delhi Local Zone** (New Delhi)
+  - Owner: Videsh Sanchar Bhavan
+  - Category: Local Zone
+  - Notes: Videsh Sanchar Bhavan, New Delhi, India
+- **Microsoft Azure - Pune Local Zone** (Pune)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, STT Pune 1, STT GDC India Pvt Ltd
+- **Alandi Rd - Pune Local Zone** (Pune)
+  - Owner: Alandi Rd
+  - Category: Local Zone
+  - Notes: Alandi Rd, V S N L Old Colony, Dighi, Pune, India
+## Indonesia
+- **Oracle Cloud - Batam Local Zone** (Batam)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Oracle Cloud Indonesia North (Batam), Oracle Cloud
+- **Batam - Batam Local Zone** (Batam)
+  - Owner: Batam
+  - Category: Local Zone
+  - Notes: Batam, Indonesia
+- **Alibaba Cloud - Jakarta Region** (Jakarta)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: Asia Pacific SE 5 (Jakarta)3 Zones
+- **Amazon Web Services - Jakarta Region** (Jakarta)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Indonesia (Jakarta)3 Zones
+- **Google Cloud - Jakarta Region** (Jakarta)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Jakarta3 Zones
+- **Huawei Cloud - Jakarta Region** (Jakarta)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: AP Jakarta3 Zones
+- **Microsoft Azure - Jakarta Region** (Jakarta)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Indonesia Central (Jakarta)3 Zones
+- **Tencent Cloud - Jakarta Region** (Jakarta)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Southeast Asia Pacific (Jakarta)2 Zones
+- **Google Cloud - Jakarta Local Zone** (Jakarta)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, cgk-zone1-5865, Jakarta (asia-southeast2),
+- **Google Cloud - Jakarta Local Zone** (Jakarta)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, cgk-zone1-8168, Jakarta (asia-southeast2),
+- **Alibaba Cloud - Jakarta Local Zone** (Jakarta)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, DCI Indonesia, H1 - JK1, DCI Indonesia
+- **Jawa Blok GG-5-1 - Jakarta Local Zone** (Jakarta)
+  - Owner: Jawa Blok GG-5-1
+  - Category: Local Zone
+  - Notes: Jawa Blok GG-5-1, Cikarang, Indonesia
+- **Alibaba Cloud - Jakarta Local Zone** (Jakarta)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, EdgeConneX JKT01, EdgeConneX
+- **Jl. Mataram no. 6A-6B - Jakarta Local Zone** (Jakarta)
+  - Owner: Jl. Mataram no. 6A-6B
+  - Category: Local Zone
+  - Notes: Jl. Mataram no. 6A-6B, Lippo Cikarang, Jakarta, Indonesia
+- **Alibaba Cloud - Jakarta Local Zone** (Jakarta)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, NTT GDC Jakarta JKT2, NTT Global Data Centers
+- **Jl. Kuningan Barat Raya No.8 - Jakarta Local Zone** (Jakarta)
+  - Owner: Jl. Kuningan Barat Raya No.8
+  - Category: Local Zone
+  - Notes: Jl. Kuningan Barat Raya No.8, Jakarta, Indonesia
+- **Amazon Web Services - Jakarta Local Zone** (Jakarta)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, DCI Indonesia, H1 - JK3, DCI Indonesia
+- **Jawa Blok GG-5-1 - Jakarta Local Zone** (Jakarta)
+  - Owner: Jawa Blok GG-5-1
+  - Category: Local Zone
+  - Notes: Jawa Blok GG-5-1, Cikarang, Indonesia
+- **Amazon Web Services - Jakarta Local Zone** (Jakarta)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, NTT GDC Jakarta JKT2, NTT Global Data Centers
+- **Jl. Kuningan Barat Raya No.8 - Jakarta Local Zone** (Jakarta)
+  - Owner: Jl. Kuningan Barat Raya No.8
+  - Category: Local Zone
+  - Notes: Jl. Kuningan Barat Raya No.8, Jakarta, Indonesia
+- **Google Cloud - Jakarta Local Zone** (Jakarta)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, DCI Indonesia, H1 - JK1, DCI Indonesia
+- **Jawa Blok GG-5-1 - Jakarta Local Zone** (Jakarta)
+  - Owner: Jawa Blok GG-5-1
+  - Category: Local Zone
+  - Notes: Jawa Blok GG-5-1, Cikarang, Indonesia
+- **Google Cloud - Jakarta Local Zone** (Jakarta)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, NTT GDC Jakarta JKT2, NTT Global Data Centers
+- **Jl. Kuningan Barat Raya No.8 - Jakarta Local Zone** (Jakarta)
+  - Owner: Jl. Kuningan Barat Raya No.8
+  - Category: Local Zone
+  - Notes: Jl. Kuningan Barat Raya No.8, Jakarta, Indonesia
+- **Huawei Cloud - Jakarta Local Zone** (Jakarta)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, EDGE Jakarta, EDGE
+- **Jakarta - Jakarta Local Zone** (Jakarta)
+  - Owner: Jakarta
+  - Category: Local Zone
+  - Notes: Jakarta, Indonesia
+- **Huawei Cloud - Jakarta Local Zone** (Jakarta)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, JK5 Jakarta, JK5
+- **Jakarta - Jakarta Local Zone** (Jakarta)
+  - Owner: Jakarta
+  - Category: Local Zone
+  - Notes: Jakarta, Indonesia
+- **Microsoft Azure - Jakarta Local Zone** (Jakarta)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Telkomsigma Serpong (DUPE), Telkomsigma
+- **Jl Kapt. Subijanto Dj - Jakarta Local Zone** (Jakarta)
+  - Owner: Jl Kapt. Subijanto Dj
+  - Category: Local Zone
+  - Notes: Jl Kapt. Subijanto Dj, Tangerang, Indonesia
+- **Tencent Cloud - Jakarta Local Zone** (Jakarta)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-jakarta-a-gambir, Tencent Cloud
+- **Jl Medan Merdeka Barat No. 21 - Jakarta Local Zone** (Jakarta)
+  - Owner: Jl Medan Merdeka Barat No. 21
+  - Category: Local Zone
+  - Notes: Jl Medan Merdeka Barat No. 21, Jakarta, Indonesia
+- **Tencent Cloud - Jakarta Local Zone** (Jakarta)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, Princeton Digital JC1, Princeton Digital Group
+- **Jl. Sumbawa Blok Bi 1 - Jakarta Local Zone** (Jakarta)
+  - Owner: Jl. Sumbawa Blok Bi 1
+  - Category: Local Zone
+  - Notes: Jl. Sumbawa Blok Bi 1, Cibitung, Indonesia
+## Ireland
+- **Amazon Web Services - Dublin Local Zone** (Dublin)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Digital Realty DUB2, Digital Realty
+- **24 Hume Ave - Dublin Local Zone** (Dublin)
+  - Owner: 24 Hume Ave
+  - Category: Local Zone
+  - Notes: 24 Hume Ave, Dublin, Ireland
+- **Amazon Web Services - Dublin Local Zone** (Dublin)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Eircom Clonshaugh, eir
+- **Willsborough Industrial Estate - Dublin Local Zone** (Dublin)
+  - Owner: Willsborough Industrial Estate
+  - Category: Local Zone
+  - Notes: Willsborough Industrial Estate, Clonshaugh, Ireland
+- **Amazon Web Services - Dublin Local Zone** (Dublin)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, ServeCentric Dublin, ServeCentric
+- **Blanchardstown Corporate Park - Dublin Local Zone** (Dublin)
+  - Owner: Blanchardstown Corporate Park
+  - Category: Local Zone
+  - Notes: Blanchardstown Corporate Park, Dublin, Ireland
+- **Google Cloud - Dublin Local Zone** (Dublin)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Keppel DC Dublin 1, Keppel Data Centres
+- **4033 Citywest Ave - Dublin Local Zone** (Dublin)
+  - Owner: 4033 Citywest Ave
+  - Category: Local Zone
+  - Notes: 4033 Citywest Ave, Citywest Business Campus, Dublin, Ireland
+- **Microsoft Azure - Dublin Local Zone** (Dublin)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Digital Realty DUB2, Digital Realty
+- **24 Hume Ave - Dublin Local Zone** (Dublin)
+  - Owner: 24 Hume Ave
+  - Category: Local Zone
+  - Notes: 24 Hume Ave, Dublin, Ireland
+- **Microsoft Azure - Dublin Local Zone** (Dublin)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix DB3, Equinix
+- **U2 North West Business Park - Dublin Local Zone** (Dublin)
+  - Owner: U2 North West Business Park
+  - Category: Local Zone
+  - Notes: U2 North West Business Park, Dublin, Ireland
+## Israel
+- **Amazon Web Services - Haifa Local Zone** (Haifa)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, MedOne Tirat Carmel (TC2), MedOne
+- **Carmelin St 4 - Haifa Local Zone** (Haifa)
+  - Owner: Carmelin St 4
+  - Category: Local Zone
+  - Notes: Carmelin St 4, Tirat Carmel, Israel
+- **Oracle Cloud - Jerusalem Local Zone** (Jerusalem)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Bynet Data Center Jerusalem of Silver, Bynet Data Communications
+- **Hartom St 14 - Jerusalem Local Zone** (Jerusalem)
+  - Owner: Hartom St 14
+  - Category: Local Zone
+  - Notes: Hartom St 14, Jerusalem, Israel
+- **Google Cloud - Modi'in-Maccabim-Re'ut Local Zone** (Modi'in-Maccabim-Re'ut)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, SDS1 Modiin, Shonfeld Data Services (SDS)
+- **Tsela HaHar 35 - Modi'in-Maccabim-Re'ut Local Zone** (Modi'in-Maccabim-Re'ut)
+  - Owner: Tsela HaHar 35
+  - Category: Local Zone
+  - Notes: Tsela HaHar 35, Modi'in-Maccabim-Re'ut, Israel
+- **Google Cloud - Tel Aviv Local Zone** (Tel Aviv)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, tlv-zone1-99030, Tel Aviv (me-west1),
+- **Google Cloud - Tel Aviv Local Zone** (Tel Aviv)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, tlv-zone1-99047, Tel Aviv (me-west1),
+- **Amazon Web Services - Tel Aviv Local Zone** (Tel Aviv)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, EdgeConneX TLV01, EdgeConneX
+- **Ha-Sadna'ot St 10 - Tel Aviv Local Zone** (Tel Aviv)
+  - Owner: Ha-Sadna'ot St 10
+  - Category: Local Zone
+  - Notes: Ha-Sadna'ot St 10, Herzliya, Israel
+- **Google Cloud - Tel Aviv Local Zone** (Tel Aviv)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, TIS Tel Aviv Burla Hub and Data Center, Telecom Italia Sparkle
+- **46 Burla Street - Tel Aviv Local Zone** (Tel Aviv)
+  - Owner: 46 Burla Street
+  - Category: Local Zone
+  - Notes: 46 Burla Street, Tel Aviv, Israel
+- **Microsoft Azure - Tel Aviv Local Zone** (Tel Aviv)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Bezeq International Ha’Sivim, Bezeq International
+- **18 Hasivim Street - Tel Aviv Local Zone** (Tel Aviv)
+  - Owner: 18 Hasivim Street
+  - Category: Local Zone
+  - Notes: 18 Hasivim Street , Petah Tikva, Israel
+- **Microsoft Azure - Tel Aviv Local Zone** (Tel Aviv)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, SDS4 Petah Tikva, Shonfeld Data Services (SDS)
+- **Harakevet 8 - Tel Aviv Local Zone** (Tel Aviv)
+  - Owner: Harakevet 8
+  - Category: Local Zone
+  - Notes: Harakevet 8, Petah Tikva, Israel
+## Istanbul
+- **Huawei Cloud - ap-bangkok Region** (ap-bangkok)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: TR-Istanbul3 Zones
+## Italy
+- **Amazon Web Services - Milan Region** (Milan)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Europe (Milan)3 Zones
+- **Google Cloud - Milan Region** (Milan)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Milan3 Zones
+- **Microsoft Azure - Milan Region** (Milan)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Italy North (Milan)3 Zones
+- **Oracle Cloud - Milan Region** (Milan)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Italy Northwest (Milan)1 Zones
+- **Google Cloud - Milan Local Zone** (Milan)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, mil-zone1-1974, Milan (europe-west8),
+- **Google Cloud - Milan Local Zone** (Milan)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, mil-zone1-3348, Milan (europe-west8),
+- **Google Cloud - Milan Local Zone** (Milan)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, mil-zone1-99013, Milan (europe-west8),
+- **Google Cloud - Milan Local Zone** (Milan)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, mil-zone1-99034, Milan (europe-west8),
+- **OVH - Milan Local Zone** (Milan)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Milan, ,
+- **Amazon Web Services - Milan Local Zone** (Milan)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, CDLAN Caldera21, CDLAN
+- **Via Caldera 21 - Milan Local Zone** (Milan)
+  - Owner: Via Caldera 21
+  - Category: Local Zone
+  - Notes: Via Caldera 21 , Milan, Italy
+- **Amazon Web Services - Milan Local Zone** (Milan)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix ML2, Equinix
+- **Via Savona 125 - Milan Local Zone** (Milan)
+  - Owner: Via Savona 125
+  - Category: Local Zone
+  - Notes: Via Savona 125, Milan, Italy
+- **Google Cloud - Milan Local Zone** (Milan)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Data4 Campus MIL01, DATA4 Group
+- **Via Monzoro 105 - Milan Local Zone** (Milan)
+  - Owner: Via Monzoro 105
+  - Category: Local Zone
+  - Notes: Via Monzoro 105, Cornaredo, Italy
+- **Google Cloud - Milan Local Zone** (Milan)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, IRIDEOS Avalon , IRIDEOS (Asterion)
+- **Via Caldera 21 - Milan Local Zone** (Milan)
+  - Owner: Via Caldera 21
+  - Category: Local Zone
+  - Notes: Via Caldera 21 , Milan, Italy
+- **Google Cloud - Milan Local Zone** (Milan)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Telecom Italia Milano, Telecom Italia Sparkle
+- **Via Strada Antica di Cassano - Milan Local Zone** (Milan)
+  - Owner: Via Strada Antica di Cassano
+  - Category: Local Zone
+  - Notes: Via Strada Antica di Cassano, 8, Milan, Italy
+- **Google Cloud - Milan Local Zone** (Milan)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Telecom Italia Rozzano, Telecom Italia Sparkle
+- **Viale Toscana 3 - Milan Local Zone** (Milan)
+  - Owner: Viale Toscana 3
+  - Category: Local Zone
+  - Notes: Viale Toscana 3, Milan, Italy
+- **IBM Cloud - Milan Local Zone** (Milan)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Data4 Campus MIL01, DATA4 Group
+- **Via Monzoro 105 - Milan Local Zone** (Milan)
+  - Owner: Via Monzoro 105
+  - Category: Local Zone
+  - Notes: Via Monzoro 105, Cornaredo, Italy
+- **IBM Cloud - Milan Local Zone** (Milan)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, IRIDEOS Avalon , IRIDEOS (Asterion)
+- **Via Caldera 21 - Milan Local Zone** (Milan)
+  - Owner: Via Caldera 21
+  - Category: Local Zone
+  - Notes: Via Caldera 21 , Milan, Italy
+- **Microsoft Azure - Milan Local Zone** (Milan)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Data4 Campus MIL01, DATA4 Group
+- **Via Monzoro 105 - Milan Local Zone** (Milan)
+  - Owner: Via Monzoro 105
+  - Category: Local Zone
+  - Notes: Via Monzoro 105, Cornaredo, Italy
+- **Microsoft Azure - Milan Local Zone** (Milan)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, IRIDEOS Avalon , IRIDEOS (Asterion)
+- **Via Caldera 21 - Milan Local Zone** (Milan)
+  - Owner: Via Caldera 21
+  - Category: Local Zone
+  - Notes: Via Caldera 21 , Milan, Italy
+- **Oracle Cloud - Milan Local Zone** (Milan)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix ML2, Equinix
+- **Via Savona 125 - Milan Local Zone** (Milan)
+  - Owner: Via Savona 125
+  - Category: Local Zone
+  - Notes: Via Savona 125, Milan, Italy
+- **Google Cloud - Turin Local Zone** (Turin)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, DC Noovle - Cebrosa, Telecom Italia Sparkle
+- **Via Marisa Bellisario 2 - Turin Local Zone** (Turin)
+  - Owner: Via Marisa Bellisario 2
+  - Category: Local Zone
+  - Notes: Via Marisa Bellisario 2, Settimo Torinese, Italy
+- **Google Cloud - Turin Local Zone** (Turin)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, DC Noovle - Moncalieri , Telecom Italia Sparkle
+- **Via Alessandro Cruto - Turin Local Zone** (Turin)
+  - Owner: Via Alessandro Cruto
+  - Category: Local Zone
+  - Notes: Via Alessandro Cruto, 2, Turin, Italy
+## Japan
+- **Amazon Web Services - Osaka Region** (Osaka)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Asia Pacific (Osaka)3 Zones
+- **Google Cloud - Osaka Region** (Osaka)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Osaka3 Zones
+- **IBM Cloud - Osaka Region** (Osaka)
+  - Owner: IBM Cloud
+  - Category: Cloud Region
+  - Notes: Osaka3 Zones
+- **Microsoft Azure - Osaka Region** (Osaka)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Japan West (Osaka)1 Zones
+- **Oracle Cloud - Osaka Region** (Osaka)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Japan Central (Osaka)1 Zones
+- **Tencent Cloud - Osaka Region** (Osaka)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Northeast Asia Pacific 2 (Osaka)1 ZonesPlanned
+- **Google Cloud - Osaka Local Zone** (Osaka)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, kix-zone1-1791, Osaka (asia-northeast2),
+- **Google Cloud - Osaka Local Zone** (Osaka)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, kix-zone1-2072, Osaka (asia-northeast2),
+- **Amazon Web Services - Osaka Local Zone** (Osaka)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix OS1, Equinix
+- **Shinmachi - Osaka Local Zone** (Osaka)
+  - Owner: Shinmachi
+  - Category: Local Zone
+  - Notes: Shinmachi, 1 Chome−26−1, Osaka, Japan
+- **Amazon Web Services - Osaka Local Zone** (Osaka)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, TELEHOUSE Osaka (Osaka O2) , TELEHOUSE
+- **Osaka - Osaka Local Zone** (Osaka)
+  - Owner: Osaka
+  - Category: Local Zone
+  - Notes: Osaka, Japan
+- **Google Cloud - Osaka Local Zone** (Osaka)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix OS1, Equinix
+- **Shinmachi - Osaka Local Zone** (Osaka)
+  - Owner: Shinmachi
+  - Category: Local Zone
+  - Notes: Shinmachi, 1 Chome−26−1, Osaka, Japan
+- **Google Cloud - Osaka Local Zone** (Osaka)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, NTT West Osaka 3, NTT West
+- **3-1-7 Doujima - Osaka Local Zone** (Osaka)
+  - Owner: 3-1-7 Doujima
+  - Category: Local Zone
+  - Notes: 3-1-7 Doujima, Osaka, Japan
+- **IBM Cloud - Osaka Local Zone** (Osaka)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix OS1, Equinix
+- **Shinmachi - Osaka Local Zone** (Osaka)
+  - Owner: Shinmachi
+  - Category: Local Zone
+  - Notes: Shinmachi, 1 Chome−26−1, Osaka, Japan
+- **IBM Cloud - Osaka Local Zone** (Osaka)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, IDC Frontier Suita, IDC Frontier (SoftBank IDC)
+- **Osaka - Osaka Local Zone** (Osaka)
+  - Owner: Osaka
+  - Category: Local Zone
+  - Notes: Osaka, Japan
+- **Microsoft Azure - Osaka Local Zone** (Osaka)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix OS1, Equinix
+- **Shinmachi - Osaka Local Zone** (Osaka)
+  - Owner: Shinmachi
+  - Category: Local Zone
+  - Notes: Shinmachi, 1 Chome−26−1, Osaka, Japan
+- **Oracle Cloud - Osaka Local Zone** (Osaka)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, NTT Data Dojima, NTT Data
+- **3-1-21 Doujima - Osaka Local Zone** (Osaka)
+  - Owner: 3-1-21 Doujima
+  - Category: Local Zone
+  - Notes: 3-1-21 Doujima, Osaka, Japan
+- **Alibaba Cloud - Tokyo Region** (Tokyo)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: Asia Pacific NE 1 (Tokyo)3 Zones
+- **Amazon Web Services - Tokyo Region** (Tokyo)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Asia Pacific (Tokyo)4 Zones
+- **Google Cloud - Tokyo Region** (Tokyo)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Tokyo3 Zones
+- **IBM Cloud - Tokyo Region** (Tokyo)
+  - Owner: IBM Cloud
+  - Category: Cloud Region
+  - Notes: Tokyo3 Zones
+- **Microsoft Azure - Tokyo Region** (Tokyo)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Japan East (Saitama, Tokyo)3 Zones
+- **Oracle Cloud - Tokyo Region** (Tokyo)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Japan East (Tokyo)1 Zones
+- **Tencent Cloud - Tokyo Region** (Tokyo)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Northeast Asia Pacific (Tokyo)2 Zones
+- **Google Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, nrt-zone1-452, Tokyo (asia-northeast1),
+- **Google Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, nrt-zone1-738, Tokyo (asia-northeast1), Planned
+- **Google Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, nrt-zone1-1893, Tokyo (asia-northeast1),
+- **Amazon Web Services - Tokyo Local Zone** (Tokyo)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix TY10, Equinix
+- **2-2-19 Edagawa - Tokyo Local Zone** (Tokyo)
+  - Owner: 2-2-19 Edagawa
+  - Category: Local Zone
+  - Notes: 2-2-19 Edagawa, Koto-ku, Tokyo, Japan
+- **Amazon Web Services - Tokyo Local Zone** (Tokyo)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix TY2, Equinix
+- **1-9-20 Higashi-Shinagawa - Tokyo Local Zone** (Tokyo)
+  - Owner: 1-9-20 Higashi-Shinagawa
+  - Category: Local Zone
+  - Notes: 1-9-20 Higashi-Shinagawa, Shinagawa-ku, Tokyo, Japan
+- **Amazon Web Services - Tokyo Local Zone** (Tokyo)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix TY4, Equinix
+- **1-3-7 Otemachi - Tokyo Local Zone** (Tokyo)
+  - Owner: 1-3-7 Otemachi
+  - Category: Local Zone
+  - Notes: 1-3-7 Otemachi, Chiyoda-ku, Tokyo, Japan
+- **Amazon Web Services - Tokyo Local Zone** (Tokyo)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, IIJ Cool Shiroi Data Center, IIJ
+- **Shiroi-shi - Tokyo Local Zone** (Tokyo)
+  - Owner: Shiroi-shi
+  - Category: Local Zone
+  - Notes: Shiroi-shi, Chiba, Tokyo, Japan
+- **Google Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, @Tokyo CC1, @Tokyo
+- **5-6-36 Toyosa - Tokyo Local Zone** (Tokyo)
+  - Owner: 5-6-36 Toyosa
+  - Category: Local Zone
+  - Notes: 5-6-36 Toyosa, Koto-ku, Tokyo, Japan
+- **Google Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix TY2, Equinix
+- **1-9-20 Higashi-Shinagawa - Tokyo Local Zone** (Tokyo)
+  - Owner: 1-9-20 Higashi-Shinagawa
+  - Category: Local Zone
+  - Notes: 1-9-20 Higashi-Shinagawa, Shinagawa-ku, Tokyo, Japan
+- **Google Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix TY4, Equinix
+- **1-3-7 Otemachi - Tokyo Local Zone** (Tokyo)
+  - Owner: 1-3-7 Otemachi
+  - Category: Local Zone
+  - Notes: 1-3-7 Otemachi, Chiyoda-ku, Tokyo, Japan
+- **Google Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, NTTData Com Otemachi, NTT Data
+- **Chiyoda-ku - Tokyo Local Zone** (Tokyo)
+  - Owner: Chiyoda-ku
+  - Category: Local Zone
+  - Notes: Chiyoda-ku, Tokyo, Japan
+- **IBM Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix TY2, Equinix
+- **1-9-20 Higashi-Shinagawa - Tokyo Local Zone** (Tokyo)
+  - Owner: 1-9-20 Higashi-Shinagawa
+  - Category: Local Zone
+  - Notes: 1-9-20 Higashi-Shinagawa, Shinagawa-ku, Tokyo, Japan
+- **IBM Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix TY3, Equinix
+- **1-2-16 Ariake - Tokyo Local Zone** (Tokyo)
+  - Owner: 1-2-16 Ariake
+  - Category: Local Zone
+  - Notes: 1-2-16 Ariake, Koto-ku, Tokyo, Japan
+- **IBM Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix TY4, Equinix
+- **1-3-7 Otemachi - Tokyo Local Zone** (Tokyo)
+  - Owner: 1-3-7 Otemachi
+  - Category: Local Zone
+  - Notes: 1-3-7 Otemachi, Chiyoda-ku, Tokyo, Japan
+- **IBM Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, IBM Tokyo (Makuhari), IBM
+- **1-1 Nakase - Tokyo Local Zone** (Tokyo)
+  - Owner: 1-1 Nakase
+  - Category: Local Zone
+  - Notes: 1-1 Nakase, Mihama-ku, Tokyo, Japan
+- **Microsoft Azure - Tokyo Local Zone** (Tokyo)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, @Tokyo CC1, @Tokyo
+- **5-6-36 Toyosa - Tokyo Local Zone** (Tokyo)
+  - Owner: 5-6-36 Toyosa
+  - Category: Local Zone
+  - Notes: 5-6-36 Toyosa, Koto-ku, Tokyo, Japan
+- **Microsoft Azure - Tokyo Local Zone** (Tokyo)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Colt Tokyo Shiohama, Colt
+- **2-10-1 Shiohama - Tokyo Local Zone** (Tokyo)
+  - Owner: 2-10-1 Shiohama
+  - Category: Local Zone
+  - Notes: 2-10-1 Shiohama, Koto-ku, Tokyo, Japan
+- **Microsoft Azure - Tokyo Local Zone** (Tokyo)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix TY4, Equinix
+- **1-3-7 Otemachi - Tokyo Local Zone** (Tokyo)
+  - Owner: 1-3-7 Otemachi
+  - Category: Local Zone
+  - Notes: 1-3-7 Otemachi, Chiyoda-ku, Tokyo, Japan
+- **Oracle Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix TY4, Equinix
+- **1-3-7 Otemachi - Tokyo Local Zone** (Tokyo)
+  - Owner: 1-3-7 Otemachi
+  - Category: Local Zone
+  - Notes: 1-3-7 Otemachi, Chiyoda-ku, Tokyo, Japan
+- **Oracle Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, NTTData Com Otemachi, NTT Data
+- **Chiyoda-ku - Tokyo Local Zone** (Tokyo)
+  - Owner: Chiyoda-ku
+  - Category: Local Zone
+  - Notes: Chiyoda-ku, Tokyo, Japan
+- **Tencent Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-tokyo-1, Tencent Cloud
+- **Tokyo - Tokyo Local Zone** (Tokyo)
+  - Owner: Tokyo
+  - Category: Local Zone
+  - Notes: Tokyo, Japan
+- **Tencent Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, ap-tokyo-2, Tencent Cloud
+- **Tokyo - Tokyo Local Zone** (Tokyo)
+  - Owner: Tokyo
+  - Category: Local Zone
+  - Notes: Tokyo, Japan
+- **Tencent Cloud - Tokyo Local Zone** (Tokyo)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, Equinix TY8, Equinix
+- **1-9-20 Higashi-Shinagawa - Tokyo Local Zone** (Tokyo)
+  - Owner: 1-9-20 Higashi-Shinagawa
+  - Category: Local Zone
+  - Notes: 1-9-20 Higashi-Shinagawa, Shinagawa-ku, Tokyo, Japan
+## Jeddah
+- **Oracle Cloud - me-central2 Region** (me-central2)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Saudi Arabia West (Jeddah)1 Zones
+## Jerusalem
+- **Oracle Cloud - northeurope Region** (northeurope)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Israel Central (Jerusalem)1 Zones
+## Johannesburg
+- **Google Cloud - southafricawest Region** (southafricawest)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Johannesburg3 Zones
+- **Huawei Cloud - southafricawest Region** (southafricawest)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: AF-Johannesburg3 Zones
+- **Microsoft Azure - southafricawest Region** (southafricawest)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: South Africa North (Johannesburg)3 Zones
+- **Oracle Cloud - southafricawest Region** (southafricawest)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: South Africa Central(Johannesburg)1 Zones
+## Karamay
+- **Huawei Cloud - cn-huhehaote Region** (cn-huhehaote)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: CN Northwest Karamay1 Zones
+## Kenya
+- **Amazon Web Services - Nairobi Local Zone** (Nairobi)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, af-south-1-nbo-1a, Africa (Cape Town), Planned
+- **Google Cloud - Nairobi Local Zone** (Nairobi)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, IXAfrica NBO1, IXAfrica
+- **Nairobi - Nairobi Local Zone** (Nairobi)
+  - Owner: Nairobi
+  - Category: Local Zone
+  - Notes: Nairobi, Kenya
+- **Oracle Cloud - Nairobi Local Zone** (Nairobi)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, iColo.io NBO1, iColo.io
+- **Mombasa Road - Nairobi Local Zone** (Nairobi)
+  - Owner: Mombasa Road
+  - Category: Local Zone
+  - Notes: Mombasa Road, Nairobi, Kenya
+## Las Vegas
+- **Google Cloud - us-west-1 Region** (us-west-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Las Vegas3 Zones
+## Lima
+- **Huawei Cloud - norwaywest Region** (norwaywest)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: LA-Lima12 Zones
+## London
+- **Alibaba Cloud - ukwest Region** (ukwest)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: UK (London)2 Zones
+- **Amazon Web Services - ukwest Region** (ukwest)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Europe West (London)3 Zones
+- **Google Cloud - ukwest Region** (ukwest)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: London3 Zones
+- **IBM Cloud - ukwest Region** (ukwest)
+  - Owner: IBM Cloud
+  - Category: Cloud Region
+  - Notes: London3 Zones
+- **Microsoft Azure - ukwest Region** (ukwest)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: UK South (London)3 Zones
+- **Oracle Cloud - ukwest Region** (ukwest)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: UK Gov South (London)1 Zones
+- **Oracle Cloud - ukwest Region** (ukwest)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: UK South (London)3 Zones
+- **OVH - ukwest Region** (ukwest)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: Western Europe (London)1 Zones
+## Los Angeles
+- **Google Cloud - us-west4 Region** (us-west4)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Los Angeles3 Zones
+## Luxembourg
+- **OVH - Luxembourg Local Zone** (Luxembourg)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Luxembourg, , Planned
+## Madrid
+- **Google Cloud - ap-seoul Region** (ap-seoul)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Madrid3 Zones
+- **IBM Cloud - ap-seoul Region** (ap-seoul)
+  - Owner: IBM Cloud
+  - Category: Cloud Region
+  - Notes: Madrid3 Zones
+- **Microsoft Azure - ap-seoul Region** (ap-seoul)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Spain Central (Madrid)3 Zones
+- **Oracle Cloud - ap-seoul Region** (ap-seoul)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: EU Sovereign South (Madrid)1 Zones
+- **Oracle Cloud - ap-seoul Region** (ap-seoul)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Spain Central (Madrid)1 Zones
+- **Oracle Cloud - ap-seoul Region** (ap-seoul)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Spain Central (Madrid)1 ZonesPlanned
+## Malaysia
+- **Alibaba Cloud - Kuala Lumpur Region** (Kuala Lumpur)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: Asia Pacific SE 3 (Kuala Lumpur)3 Zones
+- **Amazon Web Services - Kuala Lumpur Region** (Kuala Lumpur)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Malaysia3 Zones
+- **Microsoft Azure - Kuala Lumpur Region** (Kuala Lumpur)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Malaysia West (Kuala Lumpur)3 Zones
+- **Oracle Cloud - Kuala Lumpur Region** (Kuala Lumpur)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Malaysia1 ZonesPlanned
+- **Alibaba Cloud - Kuala Lumpur Local Zone** (Kuala Lumpur)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Kul-A, VNET
+- **Kuala Lumpur - Kuala Lumpur Local Zone** (Kuala Lumpur)
+  - Owner: Kuala Lumpur
+  - Category: Local Zone
+  - Notes: Kuala Lumpur, Malaysia
+- **Alibaba Cloud - Kuala Lumpur Local Zone** (Kuala Lumpur)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Kul-B, TM ONE
+- **Kuala Lumpur - Kuala Lumpur Local Zone** (Kuala Lumpur)
+  - Owner: Kuala Lumpur
+  - Category: Local Zone
+  - Notes: Kuala Lumpur, Malaysia
+- **Alibaba Cloud - Kuala Lumpur Local Zone** (Kuala Lumpur)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Kul-C, TIME dotcom
+- **Kuala Lumpur - Kuala Lumpur Local Zone** (Kuala Lumpur)
+  - Owner: Kuala Lumpur
+  - Category: Local Zone
+  - Notes: Kuala Lumpur, Malaysia
+- **Microsoft Azure - Kuala Lumpur Local Zone** (Kuala Lumpur)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, AIMS Kuala Lumpur, AIMS
+- **Menara AIMS - Kuala Lumpur Local Zone** (Kuala Lumpur)
+  - Owner: Menara AIMS
+  - Category: Local Zone
+  - Notes: Menara AIMS, Kuala Lumpur, Malaysia
+- **Microsoft Azure - Kuala Lumpur Local Zone** (Kuala Lumpur)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Vantage KUL11, Vantage Data Centers
+- **Cyberjaya - Kuala Lumpur Local Zone** (Kuala Lumpur)
+  - Owner: Cyberjaya
+  - Category: Local Zone
+  - Notes: Cyberjaya, Kuala Lumpur, Malaysia
+## Malmö
+- **Microsoft Azure - swedencentral Region** (swedencentral)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Sweden South (Staffanstorp)3 Zones
+## Manama
+- **Amazon Web Services - austriaeast Region** (austriaeast)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Middle East (Bahrain)3 Zones
+## Manila
+- **Alibaba Cloud - sa-peru-1 Region** (sa-peru-1)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: Asia Pacific SE 6 (Manila)2 Zones
+- **Huawei Cloud - sa-peru-1 Region** (sa-peru-1)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: AP-Manila3 Zones
+## Melbourne
+- **Amazon Web Services - au-gov-canberra-1 Region** (au-gov-canberra-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Asia Pacific (Melbourne)3 Zones
+- **Google Cloud - au-gov-canberra-1 Region** (au-gov-canberra-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Melbourne3 Zones
+- **Microsoft Azure - au-gov-canberra-1 Region** (au-gov-canberra-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Australia Southeast (Melbourne)1 Zones
+- **Oracle Cloud - au-gov-canberra-1 Region** (au-gov-canberra-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Australia Southeast (Melbourne)1 Zones
+## Mexico
+- **Huawei Cloud - Mexico City Region** (Mexico City)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: LA-Mexico City12 Zones
+- **Huawei Cloud - Mexico City Region** (Mexico City)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: LA-Mexico City22 Zones
+- **OVH - Mexico City Local Zone** (Mexico City)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Mexico City, , Planned
+- **Huawei Cloud - Mexico City Local Zone** (Mexico City)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Elara Comunicaciones Mexico, Elara Comunicaciones
+- **Mexico City - Mexico City Local Zone** (Mexico City)
+  - Owner: Mexico City
+  - Category: Local Zone
+  - Notes: Mexico City, Mexico
+- **Huawei Cloud - Mexico City Local Zone** (Mexico City)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, KIO Networks MEX 1, KIO Networks
+- **Mexico City - Mexico City Local Zone** (Mexico City)
+  - Owner: Mexico City
+  - Category: Local Zone
+  - Notes: Mexico City, Mexico
+- **Huawei Cloud - Mexico City Local Zone** (Mexico City)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, KIO Networks MEX 2, KIO Networks
+- **Mexico City - Mexico City Local Zone** (Mexico City)
+  - Owner: Mexico City
+  - Category: Local Zone
+  - Notes: Mexico City, Mexico
+- **Amazon Web Services - Santiago de Querétaro Local Zone** (Santiago de Querétaro)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-qro-1a, US East (Northern Virginia),
+- **Google Cloud - Santiago de Querétaro Local Zone** (Santiago de Querétaro)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix MX1, Equinix
+- **Carretera Estatal 431 - Santiago de Querétaro Local Zone** (Santiago de Querétaro)
+  - Owner: Carretera Estatal 431
+  - Category: Local Zone
+  - Notes: Carretera Estatal 431, "El Colorado-Galindo' km 3+800, Santiago de Querétaro, Mexico
+- **Google Cloud - Santiago de Querétaro Local Zone** (Santiago de Querétaro)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Telmex Queretaro (Triara), Telmex
+- **Santiago de Querétaro - Santiago de Querétaro Local Zone** (Santiago de Querétaro)
+  - Owner: Santiago de Querétaro
+  - Category: Local Zone
+  - Notes: Santiago de Querétaro, Mexico
+- **Microsoft Azure - Santiago de Querétaro Local Zone** (Santiago de Querétaro)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, KIO Networks QRO 1, KIO Networks
+- **Santiago de Querétaro - Santiago de Querétaro Local Zone** (Santiago de Querétaro)
+  - Owner: Santiago de Querétaro
+  - Category: Local Zone
+  - Notes: Santiago de Querétaro, Mexico
+- **Oracle Cloud - Santiago de Querétaro Local Zone** (Santiago de Querétaro)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix MX1, Equinix
+- **Carretera Estatal 431 - Santiago de Querétaro Local Zone** (Santiago de Querétaro)
+  - Owner: Carretera Estatal 431
+  - Category: Local Zone
+  - Notes: Carretera Estatal 431, "El Colorado-Galindo' km 3+800, Santiago de Querétaro, Mexico
+- **Oracle Cloud - Santiago de Querétaro Local Zone** (Santiago de Querétaro)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Telmex Queretaro (Triara), Telmex
+- **Santiago de Querétaro - Santiago de Querétaro Local Zone** (Santiago de Querétaro)
+  - Owner: Santiago de Querétaro
+  - Category: Local Zone
+  - Notes: Santiago de Querétaro, Mexico
+## Mons
+- **Google Cloud - belgiumcentral Region** (belgiumcentral)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Belgium3 Zones
+## Monterrey
+- **Oracle Cloud - la-north-2 Region** (la-north-2)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Mexico Northeast (Monterrey)1 Zones
+## Montréal
+- **Amazon Web Services - ca-west-1 Region** (ca-west-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Canada (Central)3 Zones
+- **Google Cloud - ca-west-1 Region** (ca-west-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Montreal3 Zones
+- **IBM Cloud - ca-west-1 Region** (ca-west-1)
+  - Owner: IBM Cloud
+  - Category: Cloud Region
+  - Notes: Montreal3 Zones
+- **Oracle Cloud - ca-west-1 Region** (ca-west-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Canada Southeast (Montreal)1 Zones
+- **OVH - ca-west-1 Region** (ca-west-1)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: East Coast (Montreal)1 Zones
+## Morocco
+- **OVH - Rabat Local Zone** (Rabat)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Temara, ,
+- **Oracle Cloud - Settat Region** (Settat)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Morocco 2 (Settat)1 ZonesPlanned
+## Moses Lake
+- **Microsoft Azure - us-west2 Region** (us-west2)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: West US 2 (Quincy)3 Zones
+## Mumbai
+- **Amazon Web Services - ap-hyderabad-1 Region** (ap-hyderabad-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Asia Pacific (Mumbai)3 Zones
+- **Google Cloud - ap-hyderabad-1 Region** (ap-hyderabad-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Mumbai3 Zones
+- **Microsoft Azure - ap-hyderabad-1 Region** (ap-hyderabad-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: West India (Mumbai)1 Zones
+- **Oracle Cloud - ap-hyderabad-1 Region** (ap-hyderabad-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: India West (Mumbai)1 Zones
+- **OVH - ap-hyderabad-1 Region** (ap-hyderabad-1)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: India (Mumbai)1 Zones
+- **Tencent Cloud - ap-hyderabad-1 Region** (ap-hyderabad-1)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: South Asia (Mumbai)2 Zones
+## Nairobi
+- **Microsoft Azure - ap-tokyo Region** (ap-tokyo)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: East Africa (Nairobi)3 ZonesPlanned
+- **Oracle Cloud - ap-tokyo Region** (ap-tokyo)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Kenya (Nairobi)1 ZonesPlanned
+## Nanjing
+- **Alibaba Cloud - cn-northwest-1 Region** (cn-northwest-1)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China East 3 (Nanjing)1 Zones
+- **Microsoft Azure - cn-northwest-1 Region** (cn-northwest-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: China East 3 (Jiangsu)1 Zones
+- **Tencent Cloud - cn-northwest-1 Region** (cn-northwest-1)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: East China (Nanjing)3 Zones
+## Netherlands
+- **Microsoft Azure - Amsterdam Region** (Amsterdam)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: West Europe (Amsterdam)3 Zones
+- **Oracle Cloud - Amsterdam Region** (Amsterdam)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Netherlands Northwest (Amsterdam)1 Zones
+- **Amazon Web Services - Amsterdam Local Zone** (Amsterdam)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, eu-central-1-ams-1a, Europe (Frankfurt), Planned
+- **Google Cloud - Amsterdam Local Zone** (Amsterdam)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, ams-zone1-1236, Netherlands (europe-west4),
+- **Google Cloud - Amsterdam Local Zone** (Amsterdam)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, ams-zone1-1320, Netherlands (europe-west4),
+- **OVH - Amsterdam Local Zone** (Amsterdam)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Amsterdam, ,
+## New Delhi
+- **Google Cloud - ap-mumbai Region** (ap-mumbai)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Delhi3 Zones
+## New Zealand
+- **Amazon Web Services - Auckland Local Zone** (Auckland)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, ap-southeast-2-akl-1a, Asia Pacific (Sydney),
+- **OVH - Auckland Local Zone** (Auckland)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Auckland, , Planned
+- **Amazon Web Services - Auckland Local Zone** (Auckland)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Datacom Orbit, Datacom
+- **16-18 Piermark Drive - Auckland Local Zone** (Auckland)
+  - Owner: 16-18 Piermark Drive
+  - Category: Local Zone
+  - Notes: 16-18 Piermark Drive, Rosedale, Auckland, New Zealand
+- **Microsoft Azure - Auckland Local Zone** (Auckland)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Datacom Orbit, Datacom
+- **16-18 Piermark Drive - Auckland Local Zone** (Auckland)
+  - Owner: 16-18 Piermark Drive
+  - Category: Local Zone
+  - Notes: 16-18 Piermark Drive, Rosedale, Auckland, New Zealand
+## Nigeria
+- **Amazon Web Services - Lagos Local Zone** (Lagos)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, af-south-1-los-1a, Africa (Cape Town),
+- **Google Cloud - Lagos Local Zone** (Lagos)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, OADC Lagos, OADC
+- **Lekki - Lagos Local Zone** (Lagos)
+  - Owner: Lekki
+  - Category: Local Zone
+  - Notes: Lekki, Lagos, Nigeria
+## Ningxiang
+- **Amazon Web Services - ap-nanjing Region** (ap-nanjing)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Mainland China (Ningxia)3 Zones
+## Norway
+- **Amazon Web Services - Oslo Local Zone** (Oslo)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, eu-north-1-osl-1a, Europe (Stockholm), Planned
+- **OVH - Oslo Local Zone** (Oslo)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Oslo, , Planned
+- **Microsoft Azure - Oslo Local Zone** (Oslo)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, DigiPlex Ulven, DigiPlex
+- **Ulvenveien 82-89 - Oslo Local Zone** (Oslo)
+  - Owner: Ulvenveien 82-89
+  - Category: Local Zone
+  - Notes: Ulvenveien 82-89, Oslo, Norway
+## Omaha
+- **Google Cloud - westus2 Region** (westus2)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Iowa4 Zones
+## Oman
+- **Amazon Web Services - Muscat Local Zone** (Muscat)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, me-south-1-mct-1a, Middle East (Bahrain),
+- **Amazon Web Services - Muscat Local Zone** (Muscat)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix MC1, Equinix
+- **Muscat - Muscat Local Zone** (Muscat)
+  - Owner: Muscat
+  - Category: Local Zone
+  - Notes: Muscat, Oman
+- **Oracle Cloud - Muscat Local Zone** (Muscat)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Datamount Jebel Akhdar, Datamount
+- **Jebel Akhdar - Muscat Local Zone** (Muscat)
+  - Owner: Jebel Akhdar
+  - Category: Local Zone
+  - Notes: Jebel Akhdar, Muscat, Indonesia
+## Oslo
+- **Google Cloud - newzealandnorth Region** (newzealandnorth)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Norway3 ZonesPlanned
+- **Microsoft Azure - newzealandnorth Region** (newzealandnorth)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Norway East (Oslo)3 Zones
+## Paris
+- **Amazon Web Services - eu-marseille-1 Region** (eu-marseille-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Europe West (Paris)3 Zones
+- **Google Cloud - eu-marseille-1 Region** (eu-marseille-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Paris3 Zones
+- **Microsoft Azure - eu-marseille-1 Region** (eu-marseille-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: France Central (Paris)3 Zones
+- **Oracle Cloud - eu-marseille-1 Region** (eu-marseille-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: France Central (Paris)1 Zones
+- **OVH - eu-marseille-1 Region** (eu-marseille-1)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: Western Europe (Paris)3 Zones
+## Peru
+- **Amazon Web Services - Lima Local Zone** (Lima)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-lim-1a, US East (Northern Virginia),
+## Philippines
+- **Amazon Web Services - Manila Local Zone** (Manila)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, ap-southeast-1-mnl-1a, Asia Pacific (Singapore),
+- **Alibaba Cloud - Manila Local Zone** (Manila)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, ePLDT Vitro Makati, PLDT
+- **Makati City - Manila Local Zone** (Manila)
+  - Owner: Makati City
+  - Category: Local Zone
+  - Notes: Makati City, Manila, Philippines
+- **Alibaba Cloud - Manila Local Zone** (Manila)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Globe MK2, Globe
+- **Makati City - Manila Local Zone** (Manila)
+  - Owner: Makati City
+  - Category: Local Zone
+  - Notes: Makati City, Manila, Philippines
+- **Google Cloud - Manila Local Zone** (Manila)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, ePLDT Vitro Makati, PLDT
+- **Makati City - Manila Local Zone** (Manila)
+  - Owner: Makati City
+  - Category: Local Zone
+  - Notes: Makati City, Manila, Philippines
+- **Huawei Cloud - Manila Local Zone** (Manila)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, ePLDT Vitro Makati, PLDT
+- **Makati City - Manila Local Zone** (Manila)
+  - Owner: Makati City
+  - Category: Local Zone
+  - Notes: Makati City, Manila, Philippines
+- **Huawei Cloud - Manila Local Zone** (Manila)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, ePLDT Vitro Pasig, PLDT
+- **Pasig City - Manila Local Zone** (Manila)
+  - Owner: Pasig City
+  - Category: Local Zone
+  - Notes: Pasig City, Manila, Philippines
+- **Huawei Cloud - Manila Local Zone** (Manila)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Globe MK2, Globe
+- **Makati City - Manila Local Zone** (Manila)
+  - Owner: Makati City
+  - Category: Local Zone
+  - Notes: Makati City, Manila, Philippines
+## Phoenix
+- **Google Cloud - us-central1 Region** (us-central1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Phoenix3 ZonesPlanned
+- **Microsoft Azure - us-central1 Region** (us-central1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: US Gov Arizona1 Zones
+- **Microsoft Azure - us-central1 Region** (us-central1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: West US 3 (Phoenix)3 Zones
+- **Oracle Cloud - us-central1 Region** (us-central1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: US DoD West1 Zones
+- **Oracle Cloud - us-central1 Region** (us-central1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: US Gov West (Phoenix)1 Zones
+- **Oracle Cloud - us-central1 Region** (us-central1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: US West (Phoenix)3 Zones
+## Poland
+- **OVH - Sochaczew Region** (Sochaczew)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: Western Europe 1 Zones
+- **Google Cloud - Warsaw Region** (Warsaw)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Warsaw3 Zones
+- **Microsoft Azure - Warsaw Region** (Warsaw)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Poland Central (Warsaw)3 Zones
+- **OVH - Warsaw Region** (Warsaw)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: Central Europe (Warsaw)1 Zones
+- **Amazon Web Services - Warsaw Local Zone** (Warsaw)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, eu-central-1-waw-1a, Europe (Frankfurt),
+- **Google Cloud - Warsaw Local Zone** (Warsaw)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, waw-zone1-2570, Warsaw (europe-central2),
+- **Google Cloud - Warsaw Local Zone** (Warsaw)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, waw-zone1-509, Warsaw (europe-central2),
+- **Google Cloud - Warsaw Local Zone** (Warsaw)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix WA3, Equinix
+- **Aleje Jerozolimskie - Warsaw Local Zone** (Warsaw)
+  - Owner: Aleje Jerozolimskie
+  - Category: Local Zone
+  - Notes: Aleje Jerozolimskie, Warsaw, Poland
+- **Google Cloud - Warsaw Local Zone** (Warsaw)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Polcom Skawina, Polcom
+- **Skawina - Warsaw Local Zone** (Warsaw)
+  - Owner: Skawina
+  - Category: Local Zone
+  - Notes: Skawina, Warsaw, Poland
+- **Microsoft Azure - Warsaw Local Zone** (Warsaw)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix WA3, Equinix
+- **Aleje Jerozolimskie - Warsaw Local Zone** (Warsaw)
+  - Owner: Aleje Jerozolimskie
+  - Category: Local Zone
+  - Notes: Aleje Jerozolimskie, Warsaw, Poland
+## Portland
+- **OVH - us-phoenix-1 Region** (us-phoenix-1)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: West Coast (Seattle)1 Zones
+## Portugal
+- **Amazon Web Services - Lisbon Local Zone** (Lisbon)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, eu-south-2-lis-1a, Europe (Spain), Planned
+- **OVH - Lisbon Local Zone** (Lisbon)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Lisbon, , Planned
+- **Google Cloud - Lisbon Local Zone** (Lisbon)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix LS1, Equinix
+- **Avenida Severiano Falcaol - Lisbon Local Zone** (Lisbon)
+  - Owner: Avenida Severiano Falcaol
+  - Category: Local Zone
+  - Notes: Avenida Severiano Falcaol, Lisbon, Portugal
+## Pune
+- **Microsoft Azure - asia-south2 Region** (asia-south2)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Central India (Pune)3 Zones
+## Qatar
+- **Google Cloud - Doha Region** (Doha)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Doha3 Zones
+- **Microsoft Azure - Doha Region** (Doha)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Qatar Central (Doha)3 Zones
+- **Google Cloud - Doha Local Zone** (Doha)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Meeza M-Vault 2, Meeza
+- **Doha - Doha Local Zone** (Doha)
+  - Owner: Doha
+  - Category: Local Zone
+  - Notes: Doha, Qatar
+- **Google Cloud - Doha Local Zone** (Doha)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Meeza M-Vault 3, Meeza
+- **Doha - Doha Local Zone** (Doha)
+  - Owner: Doha
+  - Category: Local Zone
+  - Notes: Doha, Qatar
+- **Google Cloud - Doha Local Zone** (Doha)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Ooredoo QDC5, Ooredoo
+- **Mesaimeer - Doha Local Zone** (Doha)
+  - Owner: Mesaimeer
+  - Category: Local Zone
+  - Notes: Mesaimeer, Doha, Qatar
+- **Microsoft Azure - Doha Local Zone** (Doha)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Ooredoo QDC5, Ooredoo
+- **Mesaimeer - Doha Local Zone** (Doha)
+  - Owner: Mesaimeer
+  - Category: Local Zone
+  - Notes: Mesaimeer, Doha, Qatar
+## Qingdao
+- **Alibaba Cloud - cn-northwest-1 Region** (cn-northwest-1)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China North 1 (Qingdao)2 Zones
+## Rio de Janeiro
+- **Microsoft Azure - sa-vinhedo-1 Region** (sa-vinhedo-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Brazil Southeast (Rio)3 Zones
+## Riyadh
+- **Alibaba Cloud - me-jeddah-1 Region** (me-jeddah-1)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: Saudi Arabia (Riyadh)2 Zones
+- **Amazon Web Services - me-jeddah-1 Region** (me-jeddah-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Saudi Arabia (Riyadh)3 ZonesPlanned
+- **Huawei Cloud - me-jeddah-1 Region** (me-jeddah-1)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: ME Riyadh3 Zones
+- **Microsoft Azure - me-jeddah-1 Region** (me-jeddah-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Saudi Arabia East3 ZonesPlanned
+- **Oracle Cloud - me-jeddah-1 Region** (me-jeddah-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Saudi Arabia 31 ZonesPlanned
+- **Oracle Cloud - me-jeddah-1 Region** (me-jeddah-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Saudi Arabia Central (Riyadh)1 Zones
+- **Tencent Cloud - me-jeddah-1 Region** (me-jeddah-1)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Middle East (Riyadh)2 ZonesPlanned
+## Romania
+- **OVH - Bucharest Local Zone** (Bucharest)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Bucharest, , Planned
+## Salt Lake City
+- **Google Cloud - usseceast Region** (usseceast)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Salt Lake City3 Zones
+## San Antonio
+- **Microsoft Azure - us-west3 Region** (us-west3)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: South Central US (San Antonio)3 Zones
+## San Francisco
+- **Alibaba Cloud - southcentralus Region** (southcentralus)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: US West 1 (Silicon Valley)2 Zones
+- **Amazon Web Services - southcentralus Region** (southcentralus)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: US West (Northern California)3 Zones
+- **Microsoft Azure - southcentralus Region** (southcentralus)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: US Sec West1 Zones
+- **Microsoft Azure - southcentralus Region** (southcentralus)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: West US (San Francisco)1 Zones
+- **Oracle Cloud - southcentralus Region** (southcentralus)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: US West (San Jose)1 Zones
+- **Tencent Cloud - southcentralus Region** (southcentralus)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Western U.S. (Silicon Valley)2 Zones
+## Santiago
+- **Amazon Web Services - na-toronto Region** (na-toronto)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: AWS Chile (Santiago)3 ZonesPlanned
+- **Google Cloud - na-toronto Region** (na-toronto)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Santiago3 Zones
+- **Huawei Cloud - na-toronto Region** (na-toronto)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: LA-Santiago2 Zones
+- **Microsoft Azure - na-toronto Region** (na-toronto)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Chile Central (Santiago)3 Zones
+- **Oracle Cloud - na-toronto Region** (na-toronto)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Chile Central (Santiago)1 Zones
+## Santiago de Querétaro
+- **Alibaba Cloud - mx-monterrey-1 Region** (mx-monterrey-1)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: Mexico (Querétaro)1 Zones
+- **Amazon Web Services - mx-monterrey-1 Region** (mx-monterrey-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: AWS Mexico central3 Zones
+- **Google Cloud - mx-monterrey-1 Region** (mx-monterrey-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Mexico3 Zones
+- **Microsoft Azure - mx-monterrey-1 Region** (mx-monterrey-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Mexico Central (Querétaro)3 Zones
+- **Oracle Cloud - mx-monterrey-1 Region** (mx-monterrey-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Mexico Central (Querétaro)1 Zones
+## Saudi Arabia
+- **Oracle Cloud - Jeddah Local Zone** (Jeddah)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Center3 Jeddah (MG1), Center3
+- **Al Andalus 2623 - Jeddah Local Zone** (Jeddah)
+  - Owner: Al Andalus 2623
+  - Category: Local Zone
+  - Notes: Al Andalus 2623, Jeddah, Saudi Arabia
+- **Huawei Cloud - Riyadh Local Zone** (Riyadh)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Center3 Riyadh (DC2), Center3
+- **3291 Al Imam Saud Ibn Abdul Aziz Branch - Riyadh Local Zone** (Riyadh)
+  - Owner: 3291 Al Imam Saud Ibn Abdul Aziz Branch
+  - Category: Local Zone
+  - Notes: 3291 Al Imam Saud Ibn Abdul Aziz Branch, Riyadh, Saudi Arabia
+- **Huawei Cloud - Riyadh Local Zone** (Riyadh)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Mobily Malga 2, Mobily
+- **Riyadh - Riyadh Local Zone** (Riyadh)
+  - Owner: Riyadh
+  - Category: Local Zone
+  - Notes: Riyadh, Saudi Arabia
+- **Oracle Cloud - Riyadh Local Zone** (Riyadh)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Center3 Riyadh (DC2), Center3
+- **3291 Al Imam Saud Ibn Abdul Aziz Branch - Riyadh Local Zone** (Riyadh)
+  - Owner: 3291 Al Imam Saud Ibn Abdul Aziz Branch
+  - Category: Local Zone
+  - Notes: 3291 Al Imam Saud Ibn Abdul Aziz Branch, Riyadh, Saudi Arabia
+## Seoul
+- **Alibaba Cloud - ap-chuncheon-1 Region** (ap-chuncheon-1)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: Asia Pacific NE 2 (Seoul)2 Zones
+- **Amazon Web Services - ap-chuncheon-1 Region** (ap-chuncheon-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Asia Pacific (Seoul)4 Zones
+- **Google Cloud - ap-chuncheon-1 Region** (ap-chuncheon-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Seoul3 Zones
+- **Microsoft Azure - ap-chuncheon-1 Region** (ap-chuncheon-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Korea Central (Seoul)3 Zones
+- **Oracle Cloud - ap-chuncheon-1 Region** (ap-chuncheon-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: South Korea Central (Seoul)1 Zones
+- **Tencent Cloud - ap-chuncheon-1 Region** (ap-chuncheon-1)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Northeast Asia Pacific (Seoul)2 Zones
+## Serbia
+- **Oracle Cloud - Kragujevac Region** (Kragujevac)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Serbia Central (Jovanovac)1 Zones
+## Shanghai
+- **Alibaba Cloud - cn-qingdao Region** (cn-qingdao)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China East 2 (Shanghai)11 Zones
+- **Huawei Cloud - cn-qingdao Region** (cn-qingdao)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: CN East Shanghai14 Zones
+- **Huawei Cloud - cn-qingdao Region** (cn-qingdao)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: CN East Shanghai24 Zones
+- **Microsoft Azure - cn-qingdao Region** (cn-qingdao)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: China East (Shanghai)1 Zones
+- **Microsoft Azure - cn-qingdao Region** (cn-qingdao)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: China East 2 (Shanghai)1 Zones
+- **Tencent Cloud - cn-qingdao Region** (cn-qingdao)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: East China (Shanghai)9 Zones
+## Shenzhen
+- **Alibaba Cloud - ap-shanghai Region** (ap-shanghai)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China South 1 (Shenzhen)6 Zones
+- **Huawei Cloud - ap-shanghai Region** (ap-shanghai)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: CN South Shenzhen1 Zones
+- **Tencent Cloud - ap-shanghai Region** (ap-shanghai)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: South China (Shenzen) 3 Zones
+## Singapore
+- **Google Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, sin-zone1-388, Singapore (asia-southeast1),
+- **Google Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, sin-zone1-2260, Singapore (asia-southeast1),
+- **Alibaba Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Digital Realty SIN11 (Jurong West), Digital Realty
+- **36 Joo Koon Circle - Singapore Local Zone** (Singapore)
+  - Owner: 36 Joo Koon Circle
+  - Category: Local Zone
+  - Notes: 36 Joo Koon Circle, Singapore, Singapore
+- **Alibaba Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Equinix SG2, Equinix
+- **15 Pioneer Walk - Singapore Local Zone** (Singapore)
+  - Owner: 15 Pioneer Walk
+  - Category: Local Zone
+  - Notes: 15 Pioneer Walk, Singapore, Singapore
+- **Alibaba Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Global Switch Singapore Tai Seng, Global Switch
+- **2 Tai Seng Avenue - Singapore Local Zone** (Singapore)
+  - Owner: 2 Tai Seng Avenue
+  - Category: Local Zone
+  - Notes: 2 Tai Seng Avenue, Singapore, Singapore
+- **Amazon Web Services - Singapore Local Zone** (Singapore)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix SG2, Equinix
+- **15 Pioneer Walk - Singapore Local Zone** (Singapore)
+  - Owner: 15 Pioneer Walk
+  - Category: Local Zone
+  - Notes: 15 Pioneer Walk, Singapore, Singapore
+- **Amazon Web Services - Singapore Local Zone** (Singapore)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Global Switch Singapore Tai Seng, Global Switch
+- **2 Tai Seng Avenue - Singapore Local Zone** (Singapore)
+  - Owner: 2 Tai Seng Avenue
+  - Category: Local Zone
+  - Notes: 2 Tai Seng Avenue, Singapore, Singapore
+- **Amazon Web Services - Singapore Local Zone** (Singapore)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, New Media Express (NME) Singapore, New Media Express
+- **800 Upper Bukit Timah Road - Singapore Local Zone** (Singapore)
+  - Owner: 800 Upper Bukit Timah Road
+  - Category: Local Zone
+  - Notes: 800 Upper Bukit Timah Road, Singapore, Singapore
+- **Google Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix SG2, Equinix
+- **15 Pioneer Walk - Singapore Local Zone** (Singapore)
+  - Owner: 15 Pioneer Walk
+  - Category: Local Zone
+  - Notes: 15 Pioneer Walk, Singapore, Singapore
+- **Google Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Global Switch Singapore Tai Seng, Global Switch
+- **2 Tai Seng Avenue - Singapore Local Zone** (Singapore)
+  - Owner: 2 Tai Seng Avenue
+  - Category: Local Zone
+  - Notes: 2 Tai Seng Avenue, Singapore, Singapore
+- **Huawei Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Equinix SG2, Equinix
+- **15 Pioneer Walk - Singapore Local Zone** (Singapore)
+  - Owner: 15 Pioneer Walk
+  - Category: Local Zone
+  - Notes: 15 Pioneer Walk, Singapore, Singapore
+- **Huawei Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Global Switch Singapore Tai Seng, Global Switch
+- **2 Tai Seng Avenue - Singapore Local Zone** (Singapore)
+  - Owner: 2 Tai Seng Avenue
+  - Category: Local Zone
+  - Notes: 2 Tai Seng Avenue, Singapore, Singapore
+- **Huawei Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Telin Singapore 1, Telin Singapore
+- **Changi North Way - Singapore Local Zone** (Singapore)
+  - Owner: Changi North Way
+  - Category: Local Zone
+  - Notes: Changi North Way, Singapore, Singapore
+- **Huawei Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Telin Singapore 3, Telin Singapore
+- **Tanjong Kling - Singapore Local Zone** (Singapore)
+  - Owner: Tanjong Kling
+  - Category: Local Zone
+  - Notes: Tanjong Kling, Singapore, Singapore
+- **Microsoft Azure - Singapore Local Zone** (Singapore)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix SG2, Equinix
+- **15 Pioneer Walk - Singapore Local Zone** (Singapore)
+  - Owner: 15 Pioneer Walk
+  - Category: Local Zone
+  - Notes: 15 Pioneer Walk, Singapore, Singapore
+- **Microsoft Azure - Singapore Local Zone** (Singapore)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Global Switch Singapore Tai Seng, Global Switch
+- **2 Tai Seng Avenue - Singapore Local Zone** (Singapore)
+  - Owner: 2 Tai Seng Avenue
+  - Category: Local Zone
+  - Notes: 2 Tai Seng Avenue, Singapore, Singapore
+- **Oracle Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix SG3, Equinix
+- **26A Ayer Rajah Crescent - Singapore Local Zone** (Singapore)
+  - Owner: 26A Ayer Rajah Crescent
+  - Category: Local Zone
+  - Notes: 26A Ayer Rajah Crescent, Singapore, Singapore
+- **Oracle Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Global Switch Singapore Tai Seng, Global Switch
+- **2 Tai Seng Avenue - Singapore Local Zone** (Singapore)
+  - Owner: 2 Tai Seng Avenue
+  - Category: Local Zone
+  - Notes: 2 Tai Seng Avenue, Singapore, Singapore
+- **Tencent Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, Equinix SG3, Equinix
+- **26A Ayer Rajah Crescent - Singapore Local Zone** (Singapore)
+  - Owner: 26A Ayer Rajah Crescent
+  - Category: Local Zone
+  - Notes: 26A Ayer Rajah Crescent, Singapore, Singapore
+- **Tencent Cloud - Singapore Local Zone** (Singapore)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, Keppel DC Singapore 4, Keppel Data Centres
+- **20 Tampines Street 92 - Singapore Local Zone** (Singapore)
+  - Owner: 20 Tampines Street 92
+  - Category: Local Zone
+  - Notes: 20 Tampines Street 92, Singapore, Singapore
+- **Alibaba Cloud - eu-jovanovac-1 Region** (eu-jovanovac-1)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: Asia Pacific SE 1 (Singapore)3 Zones
+- **Amazon Web Services - eu-jovanovac-1 Region** (eu-jovanovac-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Asia Pacific (Singapore)3 Zones
+- **Google Cloud - eu-jovanovac-1 Region** (eu-jovanovac-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Singapore3 Zones
+- **Huawei Cloud - eu-jovanovac-1 Region** (eu-jovanovac-1)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: AP-Singapore4 Zones
+- **Microsoft Azure - eu-jovanovac-1 Region** (eu-jovanovac-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Southeast Asia (Singapore)3 Zones
+- **Oracle Cloud - eu-jovanovac-1 Region** (eu-jovanovac-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Singapore (Singapore)2 Zones
+- **Oracle Cloud - eu-jovanovac-1 Region** (eu-jovanovac-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Singapore West1 Zones
+- **OVH - eu-jovanovac-1 Region** (eu-jovanovac-1)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: Asia (Singapore)1 Zones
+- **Tencent Cloud - eu-jovanovac-1 Region** (eu-jovanovac-1)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Southeast Asia Pacific (Singapore)4 Zones
+## South Africa
+- **Amazon Web Services - Cape Town Local Zone** (Cape Town)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Teraco CT1, Teraco Data Environments
+- **260 Surrey Ave - Cape Town Local Zone** (Cape Town)
+  - Owner: 260 Surrey Ave
+  - Category: Local Zone
+  - Notes: 260 Surrey Ave, Ferndale, Cape Town, South Africa
+- **Microsoft Azure - Cape Town Local Zone** (Cape Town)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Teraco CT1, Teraco Data Environments
+- **260 Surrey Ave - Cape Town Local Zone** (Cape Town)
+  - Owner: 260 Surrey Ave
+  - Category: Local Zone
+  - Notes: 260 Surrey Ave, Ferndale, Cape Town, South Africa
+- **Amazon Web Services - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, af-south-1-jnb-1a, Africa (Cape Town), Planned
+- **Google Cloud - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, jnb-zone1-850, Johannesburg (africa-south1),
+- **Google Cloud - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, jnb-zone1-9338, Johannesburg (africa-south1),
+- **Amazon Web Services - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Teraco JB1, Teraco Data Environments
+- **18 Isando Road - Johannesburg Local Zone** (Johannesburg)
+  - Owner: 18 Isando Road
+  - Category: Local Zone
+  - Notes: 18 Isando Road, Isando, Johannesburg, South Africa
+- **Google Cloud - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Africa Data Centres JHB1, Africa Data Centres
+- **Die Hoewes - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Die Hoewes
+  - Category: Local Zone
+  - Notes: Die Hoewes, Centurion, Johannesburg, South Africa
+- **Google Cloud - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Teraco JB1, Teraco Data Environments
+- **18 Isando Road - Johannesburg Local Zone** (Johannesburg)
+  - Owner: 18 Isando Road
+  - Category: Local Zone
+  - Notes: 18 Isando Road, Isando, Johannesburg, South Africa
+- **Huawei Cloud - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, BCX Centurion, BCX
+- **Johannesburg - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Johannesburg
+  - Category: Local Zone
+  - Notes: Johannesburg, South Africa
+- **Huawei Cloud - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, MTN Centurion , MTN
+- **Johannesburg - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Johannesburg
+  - Category: Local Zone
+  - Notes: Johannesburg, South Africa
+- **Huawei Cloud - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Teraco JB1, Teraco Data Environments
+- **18 Isando Road - Johannesburg Local Zone** (Johannesburg)
+  - Owner: 18 Isando Road
+  - Category: Local Zone
+  - Notes: 18 Isando Road, Isando, Johannesburg, South Africa
+- **Microsoft Azure - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Teraco JB1, Teraco Data Environments
+- **18 Isando Road - Johannesburg Local Zone** (Johannesburg)
+  - Owner: 18 Isando Road
+  - Category: Local Zone
+  - Notes: 18 Isando Road, Isando, Johannesburg, South Africa
+- **Oracle Cloud - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Africa Data Centres JHB1, Africa Data Centres
+- **Die Hoewes - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Die Hoewes
+  - Category: Local Zone
+  - Notes: Die Hoewes, Centurion, Johannesburg, South Africa
+- **Oracle Cloud - Johannesburg Local Zone** (Johannesburg)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Telkom Park (Centurion), Telkom
+- **61 Oak Ave - Johannesburg Local Zone** (Johannesburg)
+  - Owner: 61 Oak Ave
+  - Category: Local Zone
+  - Notes: 61 Oak Ave, Johannesburg, South Africa
+## South Korea
+- **Google Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, icn-zone1-3829, Seoul (asia-northeast3),
+- **Google Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, icn-zone1-7573, Seoul (asia-northeast3),
+- **Google Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, icn-zone1-7574, Seoul (asia-northeast3),
+- **Google Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, icn-zone1-7674, Seoul (asia-northeast3),
+- **Alibaba Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, SK Broadband Seocho, SK Broadband
+- **Seoul - Seoul Local Zone** (Seoul)
+  - Owner: Seoul
+  - Category: Local Zone
+  - Notes: Seoul, South Korea
+- **Alibaba Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, SK Broadband Sheffield, SK Broadband
+- **Seoul - Seoul Local Zone** (Seoul)
+  - Owner: Seoul
+  - Category: Local Zone
+  - Notes: Seoul, South Korea
+- **Amazon Web Services - Seoul Local Zone** (Seoul)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, KINX Gasan, KINX
+- **Gasan - Seoul Local Zone** (Seoul)
+  - Owner: Gasan
+  - Category: Local Zone
+  - Notes: Gasan, Seoul, South Korea
+- **Amazon Web Services - Seoul Local Zone** (Seoul)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, LG U+ Pyeongchon Mega Center, LG U+
+- **Pyeongchon - Seoul Local Zone** (Seoul)
+  - Owner: Pyeongchon
+  - Category: Local Zone
+  - Notes: Pyeongchon, Seoul, South Korea
+- **Amazon Web Services - Seoul Local Zone** (Seoul)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Lotte Data Communication (LDCC) Gasan, Lotte Data Communication
+- **150-1 Gasan-dong - Seoul Local Zone** (Seoul)
+  - Owner: 150-1 Gasan-dong
+  - Category: Local Zone
+  - Notes: 150-1 Gasan-dong, Geumcheon-gu, Seoul, South Korea
+- **Google Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, KINX Dogok, KINX
+- **2624 Nambusunhwan-ro - Seoul Local Zone** (Seoul)
+  - Owner: 2624 Nambusunhwan-ro
+  - Category: Local Zone
+  - Notes: 2624 Nambusunhwan-ro, Gangnam-gu, Seoul, South Korea
+- **Google Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, LG U+ Pyeongchon Mega Center, LG U+
+- **Pyeongchon - Seoul Local Zone** (Seoul)
+  - Owner: Pyeongchon
+  - Category: Local Zone
+  - Notes: Pyeongchon, Seoul, South Korea
+- **Google Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Sejong Telecom Yeoksam, Sejong Telecom
+- **Yeoksam - Seoul Local Zone** (Seoul)
+  - Owner: Yeoksam
+  - Category: Local Zone
+  - Notes: Yeoksam, Seoul, South Korea
+- **Microsoft Azure - Seoul Local Zone** (Seoul)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, KINX Dogok, KINX
+- **2624 Nambusunhwan-ro - Seoul Local Zone** (Seoul)
+  - Owner: 2624 Nambusunhwan-ro
+  - Category: Local Zone
+  - Notes: 2624 Nambusunhwan-ro, Gangnam-gu, Seoul, South Korea
+- **Microsoft Azure - Seoul Local Zone** (Seoul)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, LG CNS Sangam IT Center, LG CNS
+- **Sangam - Seoul Local Zone** (Seoul)
+  - Owner: Sangam
+  - Category: Local Zone
+  - Notes: Sangam, Seoul, South Korea
+- **Oracle Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, KINX Gasan, KINX
+- **Gasan - Seoul Local Zone** (Seoul)
+  - Owner: Gasan
+  - Category: Local Zone
+  - Notes: Gasan, Seoul, South Korea
+- **Oracle Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, KT Mokdong 1 (IDC 1), KT
+- **Mokdong - Seoul Local Zone** (Seoul)
+  - Owner: Mokdong
+  - Category: Local Zone
+  - Notes: Mokdong, Seoul, South Korea
+- **Tencent Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, Equinix SL1, Equinix
+- **Samsung-ro - Seoul Local Zone** (Seoul)
+  - Owner: Samsung-ro
+  - Category: Local Zone
+  - Notes: Samsung-ro, Seoul, South Korea
+- **Tencent Cloud - Seoul Local Zone** (Seoul)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, LG U+ Pyeongchon Mega Center, LG U+
+- **Pyeongchon - Seoul Local Zone** (Seoul)
+  - Owner: Pyeongchon
+  - Category: Local Zone
+  - Notes: Pyeongchon, Seoul, South Korea
+## Spain
+- **Google Cloud - Madrid Local Zone** (Madrid)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, mad-zone1-127, Madrid (europe-southwest1),
+- **Google Cloud - Madrid Local Zone** (Madrid)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, mad-zone1-130, Madrid (europe-southwest1),
+- **OVH - Madrid Local Zone** (Madrid)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Madrid, ,
+- **Google Cloud - Madrid Local Zone** (Madrid)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty MAD1, Digital Realty
+- **Calle de Cañada Real de las Merinas 15 - Madrid Local Zone** (Madrid)
+  - Owner: Calle de Cañada Real de las Merinas 15
+  - Category: Local Zone
+  - Notes: Calle de Cañada Real de las Merinas 15, Madrid, Spain
+- **Google Cloud - Madrid Local Zone** (Madrid)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty MAD4, Digital Realty
+- **Avenida de Bruselas 20 - Madrid Local Zone** (Madrid)
+  - Owner: Avenida de Bruselas 20
+  - Category: Local Zone
+  - Notes: Avenida de Bruselas 20, Madrid, Spain
+- **Google Cloud - Madrid Local Zone** (Madrid)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Global Switch Madrid, Global Switch
+- **Calle de Yecora 4 - Madrid Local Zone** (Madrid)
+  - Owner: Calle de Yecora 4
+  - Category: Local Zone
+  - Notes: Calle de Yecora 4, Madrid, Spain
+- **IBM Cloud - Madrid Local Zone** (Madrid)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Digital Realty MAD4, Digital Realty
+- **Avenida de Bruselas 20 - Madrid Local Zone** (Madrid)
+  - Owner: Avenida de Bruselas 20
+  - Category: Local Zone
+  - Notes: Avenida de Bruselas 20, Madrid, Spain
+- **IBM Cloud - Madrid Local Zone** (Madrid)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix MD2, Equinix
+- **Calle de Valgrande - Madrid Local Zone** (Madrid)
+  - Owner: Calle de Valgrande
+  - Category: Local Zone
+  - Notes: Calle de Valgrande, 6, Alcobendas, Madrid, Spain
+- **IBM Cloud - Madrid Local Zone** (Madrid)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Global Switch Madrid, Global Switch
+- **Calle de Yecora 4 - Madrid Local Zone** (Madrid)
+  - Owner: Calle de Yecora 4
+  - Category: Local Zone
+  - Notes: Calle de Yecora 4, Madrid, Spain
+- **Microsoft Azure - Madrid Local Zone** (Madrid)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Digital Realty MAD4, Digital Realty
+- **Avenida de Bruselas 20 - Madrid Local Zone** (Madrid)
+  - Owner: Avenida de Bruselas 20
+  - Category: Local Zone
+  - Notes: Avenida de Bruselas 20, Madrid, Spain
+- **Microsoft Azure - Madrid Local Zone** (Madrid)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix MD2, Equinix
+- **Calle de Valgrande - Madrid Local Zone** (Madrid)
+  - Owner: Calle de Valgrande
+  - Category: Local Zone
+  - Notes: Calle de Valgrande, 6, Alcobendas, Madrid, Spain
+- **Oracle Cloud - Madrid Local Zone** (Madrid)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix MD2, Equinix
+- **Calle de Valgrande - Madrid Local Zone** (Madrid)
+  - Owner: Calle de Valgrande
+  - Category: Local Zone
+  - Notes: Calle de Valgrande, 6, Alcobendas, Madrid, Spain
+- **Oracle Cloud - Madrid Local Zone** (Madrid)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Global Switch Madrid, Global Switch
+- **Calle de Yecora 4 - Madrid Local Zone** (Madrid)
+  - Owner: Calle de Yecora 4
+  - Category: Local Zone
+  - Notes: Calle de Yecora 4, Madrid, Spain
+- **Amazon Web Services - Zaragoza Region** (Zaragoza)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Europe South (Spain)3 Zones
+## Stavanger
+- **Microsoft Azure - norwayeast Region** (norwayeast)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Norway West (Stavanger)1 Zones
+## Stockholm
+- **Amazon Web Services - swedensouth Region** (swedensouth)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Europe North (Stockholm)3 Zones
+- **Google Cloud - swedensouth Region** (swedensouth)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Sweden3 Zones
+- **Oracle Cloud - swedensouth Region** (swedensouth)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Sweden Central (Stockholm)1 Zones
+## Sweden
+- **OVH - Stockholm Local Zone** (Stockholm)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Stockholm, , Planned
+- **Amazon Web Services - Stockholm Local Zone** (Stockholm)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix SK1, Equinix
+- **Raukvaegen 3 - Stockholm Local Zone** (Stockholm)
+  - Owner: Raukvaegen 3
+  - Category: Local Zone
+  - Notes: Raukvaegen 3, Stockholm, Sweden
+- **Amazon Web Services - Stockholm Local Zone** (Stockholm)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix SK2, Equinix
+- **Esbogatan 11 - Stockholm Local Zone** (Stockholm)
+  - Owner: Esbogatan 11
+  - Category: Local Zone
+  - Notes: Esbogatan 11, Stockholm, Sweden
+- **Amazon Web Services - Stockholm Local Zone** (Stockholm)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix SK3, Equinix
+- **Västberga Allé 60 - Stockholm Local Zone** (Stockholm)
+  - Owner: Västberga Allé 60
+  - Category: Local Zone
+  - Notes: Västberga Allé 60, Stockholm, Sweden
+- **Google Cloud - Stockholm Local Zone** (Stockholm)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, DigiPlex Stockholm, DigiPlex
+- **Domnarvsgatan 11 - Stockholm Local Zone** (Stockholm)
+  - Owner: Domnarvsgatan 11
+  - Category: Local Zone
+  - Notes: Domnarvsgatan 11, Stockholm, Sweden
+- **Google Cloud - Stockholm Local Zone** (Stockholm)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix SK1, Equinix
+- **Raukvaegen 3 - Stockholm Local Zone** (Stockholm)
+  - Owner: Raukvaegen 3
+  - Category: Local Zone
+  - Notes: Raukvaegen 3, Stockholm, Sweden
+- **Google Cloud - Stockholm Local Zone** (Stockholm)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, ObeHosting Kista Gate, ObeHosting
+- **Torshamnsgatan 35-39 - Stockholm Local Zone** (Stockholm)
+  - Owner: Torshamnsgatan 35-39
+  - Category: Local Zone
+  - Notes: Torshamnsgatan 35-39, Kista, Stockholm, Sweden
+- **Oracle Cloud - Stockholm Local Zone** (Stockholm)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix SK2, Equinix
+- **Esbogatan 11 - Stockholm Local Zone** (Stockholm)
+  - Owner: Esbogatan 11
+  - Category: Local Zone
+  - Notes: Esbogatan 11, Stockholm, Sweden
+## Switzerland
+- **Microsoft Azure - Geneva Local Zone** (Geneva)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix GV2, Equinix
+- **Rue de la Mairie - Geneva Local Zone** (Geneva)
+  - Owner: Rue de la Mairie
+  - Category: Local Zone
+  - Notes: Rue de la Mairie, Geneva, Switzerland
+- **Google Cloud - Zürich Local Zone** (Zürich)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, zrh-zone1-81, Zurich (europe-west6),
+- **Google Cloud - Zürich Local Zone** (Zürich)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, zrh-zone1-1086, Zurich (europe-west6),
+- **OVH - Zürich Local Zone** (Zürich)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Zürich, ,
+- **Amazon Web Services - Zürich Local Zone** (Zürich)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix ZH5, Equinix
+- **Allmendstrasse 11-13 - Zürich Local Zone** (Zürich)
+  - Owner: Allmendstrasse 11-13
+  - Category: Local Zone
+  - Notes: Allmendstrasse 11-13, Zürich, Switzerland
+- **Google Cloud - Zürich Local Zone** (Zürich)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix ZH4, Equinix
+- **Josefstrasse 225 - Zürich Local Zone** (Zürich)
+  - Owner: Josefstrasse 225
+  - Category: Local Zone
+  - Notes: Josefstrasse 225, Zürich, Switzerland
+- **Google Cloud - Zürich Local Zone** (Zürich)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Green Zurich West 1 & 2, Green
+- **Industriestrasse 33 - Zürich Local Zone** (Zürich)
+  - Owner: Industriestrasse 33
+  - Category: Local Zone
+  - Notes: Industriestrasse 33, Lupfig, Zürich, Switzerland
+- **Google Cloud - Zürich Local Zone** (Zürich)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Interxion ZUR1, Digital Realty
+- **Sägereistrasse 35 - Zürich Local Zone** (Zürich)
+  - Owner: Sägereistrasse 35
+  - Category: Local Zone
+  - Notes: Sägereistrasse 35, Zürich, Switzerland
+- **Microsoft Azure - Zürich Local Zone** (Zürich)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Interxion ZUR1, Digital Realty
+- **Sägereistrasse 35 - Zürich Local Zone** (Zürich)
+  - Owner: Sägereistrasse 35
+  - Category: Local Zone
+  - Notes: Sägereistrasse 35, Zürich, Switzerland
+- **Oracle Cloud - Zürich Local Zone** (Zürich)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Interxion ZUR1, Digital Realty
+- **Sägereistrasse 35 - Zürich Local Zone** (Zürich)
+  - Owner: Sägereistrasse 35
+  - Category: Local Zone
+  - Notes: Sägereistrasse 35, Zürich, Switzerland
+## Sydney
+- **Amazon Web Services - ap-melbourne-1 Region** (ap-melbourne-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Asia Pacific (Sydney)3 Zones
+- **Google Cloud - ap-melbourne-1 Region** (ap-melbourne-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Sydney3 Zones
+- **IBM Cloud - ap-melbourne-1 Region** (ap-melbourne-1)
+  - Owner: IBM Cloud
+  - Category: Cloud Region
+  - Notes: Sydney3 Zones
+- **Microsoft Azure - ap-melbourne-1 Region** (ap-melbourne-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Australia East (Sydney)3 Zones
+- **Oracle Cloud - ap-melbourne-1 Region** (ap-melbourne-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Australia East (Sydney)1 Zones
+- **OVH - ap-melbourne-1 Region** (ap-melbourne-1)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: Australia (Sydney)1 Zones
+## São Paulo
+- **Amazon Web Services - brazilsoutheast Region** (brazilsoutheast)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: South America (São Paulo)3 Zones
+- **Google Cloud - brazilsoutheast Region** (brazilsoutheast)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Sao Paulo3 Zones
+- **Huawei Cloud - brazilsoutheast Region** (brazilsoutheast)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: LA-Sao Paulo3 Zones
+- **IBM Cloud - brazilsoutheast Region** (brazilsoutheast)
+  - Owner: IBM Cloud
+  - Category: Cloud Region
+  - Notes: São Paulo3 Zones
+- **Microsoft Azure - brazilsoutheast Region** (brazilsoutheast)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Brazil South (São Paulo)3 Zones
+- **Oracle Cloud - brazilsoutheast Region** (brazilsoutheast)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Brazil East (Sao Paulo)1 Zones
+- **Tencent Cloud - brazilsoutheast Region** (brazilsoutheast)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: South America (Sao Paulo)1 Zones
+## Taichung
+- **Google Cloud - eu-zurich-1 Region** (eu-zurich-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Taiwan3 Zones
+## Taipei
+- **Amazon Web Services - asia-east1 Region** (asia-east1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Asia Pacific (Taipei)3 Zones
+- **Microsoft Azure - asia-east1 Region** (asia-east1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Taiwan North (Taipei)3 ZonesPlanned
+## Taiwan
+- **Amazon Web Services - Taipei Local Zone** (Taipei)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, ap-northeast-1-tpe-1a, Asia Pacific (Tokyo),
+- **Google Cloud - Taipei Local Zone** (Taipei)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, tsa-zone1-456, Taiwan (asia-east1),
+- **Google Cloud - Taipei Local Zone** (Taipei)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, tsa-zone1-99004, Taiwan (asia-east1),
+- **Google Cloud - Taipei Local Zone** (Taipei)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, tsa-zone1-2886, Taiwan (asia-east1),
+- **Amazon Web Services - Taipei Local Zone** (Taipei)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Chief Telecom LY, Chief Telecom
+- **No. 216 - Taipei Local Zone** (Taipei)
+  - Owner: No. 216
+  - Category: Local Zone
+  - Notes: No. 216, Ruiguang Road, Neihu District, Taipei, Taiwan
+- **Microsoft Azure - Taipei Local Zone** (Taipei)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Chief Telecom LY, Chief Telecom
+- **No. 216 - Taipei Local Zone** (Taipei)
+  - Owner: No. 216
+  - Category: Local Zone
+  - Notes: No. 216, Ruiguang Road, Neihu District, Taipei, Taiwan
+## Tel Aviv
+- **Amazon Web Services - il-jerusalem-1 Region** (il-jerusalem-1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Middle East (Tel Aviv)3 Zones
+- **Google Cloud - il-jerusalem-1 Region** (il-jerusalem-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Tel Aviv3 Zones
+- **Microsoft Azure - il-jerusalem-1 Region** (il-jerusalem-1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Israel Central (Tel Aviv)3 Zones
+- **Oracle Cloud - il-jerusalem-1 Region** (il-jerusalem-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Israel 2 (Tel Aviv)1 ZonesPlanned
+## Thailand
+- **Amazon Web Services - Bangkok Local Zone** (Bangkok)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, ap-southeast-1-bkk-1a, Asia Pacific (Singapore),
+- **Alibaba Cloud - Bangkok Local Zone** (Bangkok)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, True IDC - North Muang Thong, True IDC
+- **Bangkok - Bangkok Local Zone** (Bangkok)
+  - Owner: Bangkok
+  - Category: Local Zone
+  - Notes: Bangkok, Thailand
+- **Amazon Web Services - Bangkok Local Zone** (Bangkok)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix BKK1, Equinix
+- **Bangna - Bangkok Local Zone** (Bangkok)
+  - Owner: Bangna
+  - Category: Local Zone
+  - Notes: Bangna, Bangkok, Thailand
+- **Huawei Cloud - Bangkok Local Zone** (Bangkok)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, CAT Tower - Bangrak, CAT
+- **Bangna - Bangkok Local Zone** (Bangkok)
+  - Owner: Bangna
+  - Category: Local Zone
+  - Notes: Bangna, Bangkok, Thailand
+- **Huawei Cloud - Bangkok Local Zone** (Bangkok)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, CS Loxinfo The Cloud, CS Loxinfo
+- **Bangna - Bangkok Local Zone** (Bangkok)
+  - Owner: Bangna
+  - Category: Local Zone
+  - Notes: Bangna, Bangkok, Thailand
+- **Huawei Cloud - Bangkok Local Zone** (Bangkok)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, TCCtech-Bna-Bangna, TCC Technology (TCCtech)
+- **1854 Bangna-Trad Road - Bangkok Local Zone** (Bangkok)
+  - Owner: 1854 Bangna-Trad Road
+  - Category: Local Zone
+  - Notes: 1854 Bangna-Trad Road, Bangna, Bangkok, Thailand
+- **Tencent Cloud - Bangkok Local Zone** (Bangkok)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, True IDC - East Bangna, True IDC
+- **Bangna - Bangkok Local Zone** (Bangkok)
+  - Owner: Bangna
+  - Category: Local Zone
+  - Notes: Bangna, Bangkok, Thailand
+- **Tencent Cloud - Bangkok Local Zone** (Bangkok)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, True IDC - North Muang Thong, True IDC
+- **Bangkok - Bangkok Local Zone** (Bangkok)
+  - Owner: Bangkok
+  - Category: Local Zone
+  - Notes: Bangkok, Thailand
+## The Dalles
+- **Google Cloud - na-siliconvalley Region** (na-siliconvalley)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Oregon3 Zones
+## Toronto
+- **Google Cloud - canadaeast Region** (canadaeast)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Toronto3 Zones
+- **IBM Cloud - canadaeast Region** (canadaeast)
+  - Owner: IBM Cloud
+  - Category: Cloud Region
+  - Notes: Toronto3 Zones
+- **Microsoft Azure - canadaeast Region** (canadaeast)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Canada Central (Toronto)3 Zones
+- **Oracle Cloud - canadaeast Region** (canadaeast)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Canada Southeast (Toronto)1 Zones
+- **OVH - canadaeast Region** (canadaeast)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: Canada (Toronto)1 Zones
+- **Tencent Cloud - canadaeast Region** (canadaeast)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: North America (Toronto)1 Zones
+## Tunisia
+- **OVH - Tunis Local Zone** (Tunis)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Tunis, , Planned
+## Turin
+- **Google Cloud - eu-milan-1 Region** (eu-milan-1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Turin3 Zones
+- **Oracle Cloud - eu-milan-1 Region** (eu-milan-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Italy 2 (Turin)1 ZonesPlanned
+## Turkey
+- **Huawei Cloud - Istanbul Local Zone** (Istanbul)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Turkcell Gebze, Turkcell
+- **Istanbul - Istanbul Local Zone** (Istanbul)
+  - Owner: Istanbul
+  - Category: Local Zone
+  - Notes: Istanbul, Turkey
+- **Huawei Cloud - Istanbul Local Zone** (Istanbul)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Turkcell Kartal, Turkcell
+- **Istanbul - Istanbul Local Zone** (Istanbul)
+  - Owner: Istanbul
+  - Category: Local Zone
+  - Notes: Istanbul, Turkey
+## Ulanqab
+- **Alibaba Cloud - ap-shenzhen Region** (ap-shenzhen)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China (Ulanqab)3 Zones
+- **Huawei Cloud - ap-shenzhen Region** (ap-shenzhen)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: CN North Ulanqab1 3 Zones
+## United Arab Emirates
+- **OVH - Dubai Local Zone** (Dubai)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Dubai, , Planned
+- **Alibaba Cloud - Dubai Local Zone** (Dubai)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Moro Hub (Data Hub Integrated Solutions L.L.C), Moro Hub
+- **Dubai - Dubai Local Zone** (Dubai)
+  - Owner: Dubai
+  - Category: Local Zone
+  - Notes: Dubai, United Arab Emirates
+- **Amazon Web Services - Dubai Local Zone** (Dubai)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix DX1, Equinix
+- **Dubai - Dubai Local Zone** (Dubai)
+  - Owner: Dubai
+  - Category: Local Zone
+  - Notes: Dubai, United Arab Emirates
+- **Microsoft Azure - Dubai Local Zone** (Dubai)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix DX1, Equinix
+- **Dubai - Dubai Local Zone** (Dubai)
+  - Owner: Dubai
+  - Category: Local Zone
+  - Notes: Dubai, United Arab Emirates
+- **Microsoft Azure - Dubai Local Zone** (Dubai)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Ooredoo QDC5, Ooredoo
+- **Mesaimeer - Dubai Local Zone** (Dubai)
+  - Owner: Mesaimeer
+  - Category: Local Zone
+  - Notes: Mesaimeer, Doha, United Arab Emirates
+- **Oracle Cloud - Dubai Local Zone** (Dubai)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix DX1, Equinix
+- **Dubai - Dubai Local Zone** (Dubai)
+  - Owner: Dubai
+  - Category: Local Zone
+  - Notes: Dubai, United Arab Emirates
+## United Kingdom
+- **Alibaba Cloud - London Local Zone** (London)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Equinix LD5, Equinix
+- **8 Buckingham Avenue - London Local Zone** (London)
+  - Owner: 8 Buckingham Avenue
+  - Category: Local Zone
+  - Notes: 8 Buckingham Avenue, Slough, London, United Kingdom
+- **Alibaba Cloud - London Local Zone** (London)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Global Switch London East, Global Switch
+- **East India Dock House - London Local Zone** (London)
+  - Owner: East India Dock House
+  - Category: Local Zone
+  - Notes: East India Dock House, 240 East India Dock Road, London, United Kingdom
+- **Amazon Web Services - London Local Zone** (London)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix LD5, Equinix
+- **8 Buckingham Avenue - London Local Zone** (London)
+  - Owner: 8 Buckingham Avenue
+  - Category: Local Zone
+  - Notes: 8 Buckingham Avenue, Slough, London, United Kingdom
+- **Amazon Web Services - London Local Zone** (London)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, TELEHOUSE London Docklands West, TELEHOUSE
+- **14 Coriander Avenue - London Local Zone** (London)
+  - Owner: 14 Coriander Avenue
+  - Category: Local Zone
+  - Notes: 14 Coriander Avenue, London, United Kingdom
+- **Google Cloud - London Local Zone** (London)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix LD5, Equinix
+- **8 Buckingham Avenue - London Local Zone** (London)
+  - Owner: 8 Buckingham Avenue
+  - Category: Local Zone
+  - Notes: 8 Buckingham Avenue, Slough, London, United Kingdom
+- **Google Cloud - London Local Zone** (London)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Global Switch London North, Global Switch
+- **East India Dock House - London Local Zone** (London)
+  - Owner: East India Dock House
+  - Category: Local Zone
+  - Notes: East India Dock House, 240 East India Dock Road, London, United Kingdom
+- **Google Cloud - London Local Zone** (London)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, TELEHOUSE London Docklands North, TELEHOUSE
+- **14 Coriander Avenue - London Local Zone** (London)
+  - Owner: 14 Coriander Avenue
+  - Category: Local Zone
+  - Notes: 14 Coriander Avenue, London, United Kingdom
+- **IBM Cloud - London Local Zone** (London)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, CenturyLink London 3 (Slough), CenturyLink
+- **210 Bath Road - London Local Zone** (London)
+  - Owner: 210 Bath Road
+  - Category: Local Zone
+  - Notes: 210 Bath Road, Slough, London, United Kingdom
+- **IBM Cloud - London Local Zone** (London)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix LD5, Equinix
+- **8 Buckingham Avenue - London Local Zone** (London)
+  - Owner: 8 Buckingham Avenue
+  - Category: Local Zone
+  - Notes: 8 Buckingham Avenue, Slough, London, United Kingdom
+- **IBM Cloud - London Local Zone** (London)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Global Switch London East, Global Switch
+- **East India Dock House - London Local Zone** (London)
+  - Owner: East India Dock House
+  - Category: Local Zone
+  - Notes: East India Dock House, 240 East India Dock Road, London, United Kingdom
+- **Microsoft Azure - London Local Zone** (London)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Cyxtera LHR1, Cyxtera
+- **660-665 Ajax Avenue - London Local Zone** (London)
+  - Owner: 660-665 Ajax Avenue
+  - Category: Local Zone
+  - Notes: 660-665 Ajax Avenue, Slough, London, United Kingdom
+- **Microsoft Azure - London Local Zone** (London)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix LD5, Equinix
+- **8 Buckingham Avenue - London Local Zone** (London)
+  - Owner: 8 Buckingham Avenue
+  - Category: Local Zone
+  - Notes: 8 Buckingham Avenue, Slough, London, United Kingdom
+- **Oracle Cloud - London Local Zone** (London)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix LD5, Equinix
+- **8 Buckingham Avenue - London Local Zone** (London)
+  - Owner: 8 Buckingham Avenue
+  - Category: Local Zone
+  - Notes: 8 Buckingham Avenue, Slough, London, United Kingdom
+- **Oracle Cloud - London Local Zone** (London)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Global Switch London East, Global Switch
+- **East India Dock House - London Local Zone** (London)
+  - Owner: East India Dock House
+  - Category: Local Zone
+  - Notes: East India Dock House, 240 East India Dock Road, London, United Kingdom
+- **OVH - Manchester Local Zone** (Manchester)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Manchester, , Planned
+- **Microsoft Azure - Manchester Local Zone** (Manchester)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix MA1, Equinix
+- **Reynolds House - Manchester Local Zone** (Manchester)
+  - Owner: Reynolds House
+  - Category: Local Zone
+  - Notes: Reynolds House, 4 Lloyd Street North, Manchester, United Kingdom
+- **Oracle Cloud - Newport Region** (Newport)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: UK Gov West (Newport)1 Zones
+- **Oracle Cloud - Newport Region** (Newport)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: UK West (Newport)1 Zones
+## United States
+- **Amazon Web Services - Atlanta Local Zone** (Atlanta)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-atl-2a, US East (Northern Virginia),
+- **Google Cloud - Atlanta Local Zone** (Atlanta)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, dfw-zone1-4, Dallas (us-south1),
+- **OVH - Atlanta Local Zone** (Atlanta)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Atlanta, ,
+- **Amazon Web Services - Atlanta Local Zone** (Atlanta)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Digital Realty ATL1, Digital Realty
+- **56 Marietta Street - Atlanta Local Zone** (Atlanta)
+  - Owner: 56 Marietta Street
+  - Category: Local Zone
+  - Notes: 56 Marietta Street, Atlanta, GA, United States
+- **Amazon Web Services - Atlanta Local Zone** (Atlanta)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix AT2, Equinix
+- **180 Peachtree Street NW - Atlanta Local Zone** (Atlanta)
+  - Owner: 180 Peachtree Street NW
+  - Category: Local Zone
+  - Notes: 180 Peachtree Street NW, Atlanta, GA, United States
+- **Google Cloud - Atlanta Local Zone** (Atlanta)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty ATL1, Digital Realty
+- **56 Marietta Street - Atlanta Local Zone** (Atlanta)
+  - Owner: 56 Marietta Street
+  - Category: Local Zone
+  - Notes: 56 Marietta Street, Atlanta, GA, United States
+- **Google Cloud - Atlanta Local Zone** (Atlanta)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix AT1, Equinix
+- **180 Peachtree Street NW - Atlanta Local Zone** (Atlanta)
+  - Owner: 180 Peachtree Street NW
+  - Category: Local Zone
+  - Notes: 180 Peachtree Street NW, Atlanta, GA, United States
+- **Google Cloud - Atlanta Local Zone** (Atlanta)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, QTS Atlanta-Metro, QTS
+- **1033 Jefferson St NW - Atlanta Local Zone** (Atlanta)
+  - Owner: 1033 Jefferson St NW
+  - Category: Local Zone
+  - Notes: 1033 Jefferson St NW, Atlanta, GA, United States
+- **Microsoft Azure - Atlanta Local Zone** (Atlanta)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Digital Realty ATL1, Digital Realty
+- **56 Marietta Street - Atlanta Local Zone** (Atlanta)
+  - Owner: 56 Marietta Street
+  - Category: Local Zone
+  - Notes: 56 Marietta Street, Atlanta, GA, United States
+- **Microsoft Azure - Atlanta Local Zone** (Atlanta)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix AT2, Equinix
+- **180 Peachtree Street NW - Atlanta Local Zone** (Atlanta)
+  - Owner: 180 Peachtree Street NW
+  - Category: Local Zone
+  - Notes: 180 Peachtree Street NW, Atlanta, GA, United States
+- **Amazon Web Services - Boston Local Zone** (Boston)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-bos-1a, US East (Northern Virginia),
+- **OVH - Boston Local Zone** (Boston)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Boston, , Planned
+- **Amazon Web Services - Boston Local Zone** (Boston)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, CoreSite BO1, CoreSite
+- **70 Inner Belt Road - Boston Local Zone** (Boston)
+  - Owner: 70 Inner Belt Road
+  - Category: Local Zone
+  - Notes: 70 Inner Belt Road, Somerville, MA, United States
+- **Amazon Web Services - Boston Local Zone** (Boston)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Markley 1 Summer, Markley Group
+- **1 Summer Street - Boston Local Zone** (Boston)
+  - Owner: 1 Summer Street
+  - Category: Local Zone
+  - Notes: 1 Summer Street, Boston, MA, United States
+- **Amazon Web Services - Chicago Local Zone** (Chicago)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-chi-2a, US East (Northern Virginia),
+- **OVH - Chicago Local Zone** (Chicago)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Chicago, ,
+- **Amazon Web Services - Chicago Local Zone** (Chicago)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Digital Realty CHI1, Digital Realty
+- **350 East Cermak Road - Chicago Local Zone** (Chicago)
+  - Owner: 350 East Cermak Road
+  - Category: Local Zone
+  - Notes: 350 East Cermak Road, Chicago, IL, United States
+- **Amazon Web Services - Chicago Local Zone** (Chicago)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix CH1, Equinix
+- **350 East Cermak Road - Chicago Local Zone** (Chicago)
+  - Owner: 350 East Cermak Road
+  - Category: Local Zone
+  - Notes: 350 East Cermak Road, Chicago, IL, United States
+- **Amazon Web Services - Chicago Local Zone** (Chicago)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix CH2, Equinix
+- **350 East Cermak Road - Chicago Local Zone** (Chicago)
+  - Owner: 350 East Cermak Road
+  - Category: Local Zone
+  - Notes: 350 East Cermak Road, Chicago, IL, United States
+- **Microsoft Azure - Chicago Local Zone** (Chicago)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Digital Realty CHI1, Digital Realty
+- **350 East Cermak Road - Chicago Local Zone** (Chicago)
+  - Owner: 350 East Cermak Road
+  - Category: Local Zone
+  - Notes: 350 East Cermak Road, Chicago, IL, United States
+- **Microsoft Azure - Chicago Local Zone** (Chicago)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix CH1, Equinix
+- **350 East Cermak Road - Chicago Local Zone** (Chicago)
+  - Owner: 350 East Cermak Road
+  - Category: Local Zone
+  - Notes: 350 East Cermak Road, Chicago, IL, United States
+- **Microsoft Azure - Chicago Local Zone** (Chicago)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, T5 Data Centers Chicago, T5 Data Centers
+- **200 Innovation Boulevard - Chicago Local Zone** (Chicago)
+  - Owner: 200 Innovation Boulevard
+  - Category: Local Zone
+  - Notes: 200 Innovation Boulevard, Elk Grove Village, Chicago, IL, United States
+- **Oracle Cloud - Chicago Local Zone** (Chicago)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Digital Realty CHI1, Digital Realty
+- **350 East Cermak Road - Chicago Local Zone** (Chicago)
+  - Owner: 350 East Cermak Road
+  - Category: Local Zone
+  - Notes: 350 East Cermak Road, Chicago, IL, United States
+- **Oracle Cloud - Chicago Local Zone** (Chicago)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix CH3, Equinix
+- **1431 Opus Place - Chicago Local Zone** (Chicago)
+  - Owner: 1431 Opus Place
+  - Category: Local Zone
+  - Notes: 1431 Opus Place, Downers Grove, Chicago, IL, United States
+- **Google Cloud - Columbus Local Zone** (Columbus)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, cmh-zone1-2377, Ohio,
+- **Amazon Web Services - Columbus Local Zone** (Columbus)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Cologix COL3, Cologix
+- **555 Scherers Court - Columbus Local Zone** (Columbus)
+  - Owner: 555 Scherers Court
+  - Category: Local Zone
+  - Notes: 555 Scherers Court, Columbus, OH, United States
+- **Amazon Web Services - Dallas Local Zone** (Dallas)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-dfw-2a, US East (Northern Virginia),
+- **OVH - Dallas Local Zone** (Dallas)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Dallas, ,
+- **Amazon Web Services - Dallas Local Zone** (Dallas)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix DA1, Equinix
+- **1950 North Stemmons Freeway - Dallas Local Zone** (Dallas)
+  - Owner: 1950 North Stemmons Freeway
+  - Category: Local Zone
+  - Notes: 1950 North Stemmons Freeway, Dallas, TX, United States
+- **Amazon Web Services - Dallas Local Zone** (Dallas)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix DA3, Equinix
+- **1950 North Stemmons Freeway - Dallas Local Zone** (Dallas)
+  - Owner: 1950 North Stemmons Freeway
+  - Category: Local Zone
+  - Notes: 1950 North Stemmons Freeway, Dallas, TX, United States
+- **Google Cloud - Dallas Local Zone** (Dallas)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix DA1, Equinix
+- **1950 North Stemmons Freeway - Dallas Local Zone** (Dallas)
+  - Owner: 1950 North Stemmons Freeway
+  - Category: Local Zone
+  - Notes: 1950 North Stemmons Freeway, Dallas, TX, United States
+- **IBM Cloud - Dallas Local Zone** (Dallas)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, CyrusOne Lewisville (Dallas), CyrusOne
+- **2501 S State Hwy 121 - Dallas Local Zone** (Dallas)
+  - Owner: 2501 S State Hwy 121
+  - Category: Local Zone
+  - Notes: 2501 S State Hwy 121, Lewisville, Dallas, TX, United States
+- **IBM Cloud - Dallas Local Zone** (Dallas)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Digital Realty DAL1, Digital Realty
+- **2323 Bryan Street - Dallas Local Zone** (Dallas)
+  - Owner: 2323 Bryan Street
+  - Category: Local Zone
+  - Notes: 2323 Bryan Street, Dallas, TX, United States
+- **IBM Cloud - Dallas Local Zone** (Dallas)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Digital Realty DAL3, Digital Realty
+- **12301 North Stemmons Freeway - Dallas Local Zone** (Dallas)
+  - Owner: 12301 North Stemmons Freeway
+  - Category: Local Zone
+  - Notes: 12301 North Stemmons Freeway, Dallas, TX, United States
+- **IBM Cloud - Dallas Local Zone** (Dallas)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix DA1, Equinix
+- **1950 North Stemmons Freeway - Dallas Local Zone** (Dallas)
+  - Owner: 1950 North Stemmons Freeway
+  - Category: Local Zone
+  - Notes: 1950 North Stemmons Freeway, Dallas, TX, United States
+- **IBM Cloud - Dallas Local Zone** (Dallas)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, QTS Dallas-Irving, QTS
+- **6431 Longhorn Dr - Dallas Local Zone** (Dallas)
+  - Owner: 6431 Longhorn Dr
+  - Category: Local Zone
+  - Notes: 6431 Longhorn Dr, Irving, Dallas, TX, United States
+- **Microsoft Azure - Dallas Local Zone** (Dallas)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, CyrusOne Carrollton (Dallas), CyrusOne
+- **1649 West Frankford Road - Dallas Local Zone** (Dallas)
+  - Owner: 1649 West Frankford Road
+  - Category: Local Zone
+  - Notes: 1649 West Frankford Road, Carrollton, Dallas, TX, United States
+- **Microsoft Azure - Dallas Local Zone** (Dallas)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Digital Realty DAL1, Digital Realty
+- **2323 Bryan Street - Dallas Local Zone** (Dallas)
+  - Owner: 2323 Bryan Street
+  - Category: Local Zone
+  - Notes: 2323 Bryan Street, Dallas, TX, United States
+- **Microsoft Azure - Dallas Local Zone** (Dallas)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix DA1, Equinix
+- **1950 North Stemmons Freeway - Dallas Local Zone** (Dallas)
+  - Owner: 1950 North Stemmons Freeway
+  - Category: Local Zone
+  - Notes: 1950 North Stemmons Freeway, Dallas, TX, United States
+- **Oracle Cloud - Dallas Local Zone** (Dallas)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Digital Realty DAL1, Digital Realty
+- **2323 Bryan Street - Dallas Local Zone** (Dallas)
+  - Owner: 2323 Bryan Street
+  - Category: Local Zone
+  - Notes: 2323 Bryan Street, Dallas, TX, United States
+- **Oracle Cloud - Dallas Local Zone** (Dallas)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix DA3, Equinix
+- **1950 North Stemmons Freeway - Dallas Local Zone** (Dallas)
+  - Owner: 1950 North Stemmons Freeway
+  - Category: Local Zone
+  - Notes: 1950 North Stemmons Freeway, Dallas, TX, United States
+- **Amazon Web Services - Denver Local Zone** (Denver)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-west-2-den-1a, US West (Oregon),
+- **OVH - Denver Local Zone** (Denver)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Denver, ,
+- **Amazon Web Services - Denver Local Zone** (Denver)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, CoreSite DE1, CoreSite
+- **910 15th Street - Denver Local Zone** (Denver)
+  - Owner: 910 15th Street
+  - Category: Local Zone
+  - Notes: 910 15th Street, Denver, CO, United States
+- **Amazon Web Services - Denver Local Zone** (Denver)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, H5 Data Centers Denver, H5 Data Centers
+- **5350 South Valentia Way - Denver Local Zone** (Denver)
+  - Owner: 5350 South Valentia Way
+  - Category: Local Zone
+  - Notes: 5350 South Valentia Way, Denver, CO, United States
+- **Google Cloud - Denver Local Zone** (Denver)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, CoreSite DE1, CoreSite
+- **910 15th Street - Denver Local Zone** (Denver)
+  - Owner: 910 15th Street
+  - Category: Local Zone
+  - Notes: 910 15th Street, Denver, CO, United States
+- **Microsoft Azure - Denver Local Zone** (Denver)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, CoreSite DE1, CoreSite
+- **910 15th Street - Denver Local Zone** (Denver)
+  - Owner: 910 15th Street
+  - Category: Local Zone
+  - Notes: 910 15th Street, Denver, CO, United States
+- **Amazon Web Services - Fresno Local Zone** (Fresno)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-west-2-pdx-1a, US West (Oregon),
+- **Amazon Web Services - Hermiston Region** (Hermiston)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: AWS GovCloud (US-West)3 Zones
+- **Amazon Web Services - Hermiston Region** (Hermiston)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: US West (Oregon)4 Zones
+- **Amazon Web Services - Honolulu Local Zone** (Honolulu)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-west-2-hnl-1a, US West (Oregon),
+- **Amazon Web Services - Houston Local Zone** (Houston)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-iah-2a, US East (Northern Virginia),
+- **Amazon Web Services - Houston Local Zone** (Houston)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, DataBank HOU1, DataBank
+- **4001 Westpark Drive - Houston Local Zone** (Houston)
+  - Owner: 4001 Westpark Drive
+  - Category: Local Zone
+  - Notes: 4001 Westpark Drive, Houston, TX, United States
+- **Amazon Web Services - Kansas City Local Zone** (Kansas City)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-mci-1a, US East (Northern Virginia),
+- **Amazon Web Services - Kansas City Local Zone** (Kansas City)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, 1102 Grand, 1102 Grand
+- **1102 Grand Blvd - Kansas City Local Zone** (Kansas City)
+  - Owner: 1102 Grand Blvd
+  - Category: Local Zone
+  - Notes: 1102 Grand Blvd, Kansas City, MO, United States
+- **Amazon Web Services - Las Vegas Local Zone** (Las Vegas)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-west-2-las-1a, US West (Oregon),
+- **Google Cloud - Las Vegas Local Zone** (Las Vegas)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, las-zone1-770, Las Vegas (us-west4),
+- **Amazon Web Services - Las Vegas Local Zone** (Las Vegas)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Switch LAS Vegas 8 (The Core Campus), Switch
+- **1 Superloop Circle - Las Vegas Local Zone** (Las Vegas)
+  - Owner: 1 Superloop Circle
+  - Category: Local Zone
+  - Notes: 1 Superloop Circle, Las Vegas, NV, United States
+- **Google Cloud - Las Vegas Local Zone** (Las Vegas)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Switch LAS Vegas 8 (The Core Campus), Switch
+- **1 Superloop Circle - Las Vegas Local Zone** (Las Vegas)
+  - Owner: 1 Superloop Circle
+  - Category: Local Zone
+  - Notes: 1 Superloop Circle, Las Vegas, NV, United States
+- **Microsoft Azure - Las Vegas Local Zone** (Las Vegas)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Switch LAS Vegas 8 (The Core Campus), Switch
+- **1 Superloop Circle - Las Vegas Local Zone** (Las Vegas)
+  - Owner: 1 Superloop Circle
+  - Category: Local Zone
+  - Notes: 1 Superloop Circle, Las Vegas, NV, United States
+- **Amazon Web Services - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-west-2-lax-1a,us-west-2-lax-1b, US West (Oregon),
+- **Google Cloud - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, lax-zone1-8, Los Angeles (us-west2),
+- **Google Cloud - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, lax-zone1-19, Los Angeles (us-west2),
+- **Google Cloud - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, lax-zone1-403, Los Angeles (us-west2),
+- **Google Cloud - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, lax-zone1-333, Los Angeles (us-west2),
+- **Microsoft Azure - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Los Angeles, ,
+- **OVH - Los Angeles Local Zone** (Los Angeles)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Los Angeles, ,
+- **Amazon Web Services - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, CoreSite LA1, CoreSite
+- **1 Wilshire Boulevard - Los Angeles Local Zone** (Los Angeles)
+  - Owner: 1 Wilshire Boulevard
+  - Category: Local Zone
+  - Notes: 1 Wilshire Boulevard, Los Angeles, CA, United States
+- **Amazon Web Services - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix LA1, Equinix
+- **1 Wilshire Boulevard - Los Angeles Local Zone** (Los Angeles)
+  - Owner: 1 Wilshire Boulevard
+  - Category: Local Zone
+  - Notes: 1 Wilshire Boulevard, Los Angeles, CA, United States
+- **Amazon Web Services - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix LA3, Equinix
+- **600 West 7th Street - Los Angeles Local Zone** (Los Angeles)
+  - Owner: 600 West 7th Street
+  - Category: Local Zone
+  - Notes: 600 West 7th Street, Los Angeles, CA, United States
+- **Google Cloud - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, CoreSite LA1, CoreSite
+- **1 Wilshire Boulevard - Los Angeles Local Zone** (Los Angeles)
+  - Owner: 1 Wilshire Boulevard
+  - Category: Local Zone
+  - Notes: 1 Wilshire Boulevard, Los Angeles, CA, United States
+- **Google Cloud - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, CoreSite LA2, CoreSite
+- **900 North Alameda - Los Angeles Local Zone** (Los Angeles)
+  - Owner: 900 North Alameda
+  - Category: Local Zone
+  - Notes: 900 North Alameda, Los Angeles, CA, United States
+- **Google Cloud - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix LA1, Equinix
+- **1 Wilshire Boulevard - Los Angeles Local Zone** (Los Angeles)
+  - Owner: 1 Wilshire Boulevard
+  - Category: Local Zone
+  - Notes: 1 Wilshire Boulevard, Los Angeles, CA, United States
+- **Microsoft Azure - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, CoreSite LA1, CoreSite
+- **1 Wilshire Boulevard - Los Angeles Local Zone** (Los Angeles)
+  - Owner: 1 Wilshire Boulevard
+  - Category: Local Zone
+  - Notes: 1 Wilshire Boulevard, Los Angeles, CA, United States
+- **Microsoft Azure - Los Angeles Local Zone** (Los Angeles)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix LA1, Equinix
+- **1 Wilshire Boulevard - Los Angeles Local Zone** (Los Angeles)
+  - Owner: 1 Wilshire Boulevard
+  - Category: Local Zone
+  - Notes: 1 Wilshire Boulevard, Los Angeles, CA, United States
+- **Amazon Web Services - Miami Local Zone** (Miami)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-mia-2a, US East (Northern Virginia),
+- **OVH - Miami Local Zone** (Miami)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Miami, ,
+- **Amazon Web Services - Miami Local Zone** (Miami)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Digital Realty MIA1, Digital Realty
+- **36 NE 2nd Street - Miami Local Zone** (Miami)
+  - Owner: 36 NE 2nd Street
+  - Category: Local Zone
+  - Notes: 36 NE 2nd Street, Miami, FL, United States
+- **Amazon Web Services - Miami Local Zone** (Miami)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix MI1, Equinix
+- **50 NE 9th Street - Miami Local Zone** (Miami)
+  - Owner: 50 NE 9th Street
+  - Category: Local Zone
+  - Notes: 50 NE 9th Street, Miami, FL, United States
+- **Microsoft Azure - Miami Local Zone** (Miami)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix MI1, Equinix
+- **50 NE 9th Street - Miami Local Zone** (Miami)
+  - Owner: 50 NE 9th Street
+  - Category: Local Zone
+  - Notes: 50 NE 9th Street, Miami, FL, United States
+- **Amazon Web Services - Minneapolis Local Zone** (Minneapolis)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-msp-1a, US East (Northern Virginia),
+- **Amazon Web Services - Minneapolis Local Zone** (Minneapolis)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Cologix MIN1, Cologix
+- **511 11th Avenue South - Minneapolis Local Zone** (Minneapolis)
+  - Owner: 511 11th Avenue South
+  - Category: Local Zone
+  - Notes: 511 11th Avenue South, Minneapolis, MN, United States
+- **Amazon Web Services - New York Local Zone** (New York)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-nyc-1a, US East (Northern Virginia),
+- **OVH - New York Local Zone** (New York)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Newark, ,
+- **Amazon Web Services - New York Local Zone** (New York)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, CoreSite NY1, CoreSite
+- **32 Avenue of the Americas - New York Local Zone** (New York)
+  - Owner: 32 Avenue of the Americas
+  - Category: Local Zone
+  - Notes: 32 Avenue of the Americas, New York, NY, United States
+- **Amazon Web Services - New York Local Zone** (New York)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix NY1, Equinix
+- **165 Halsey Street - New York Local Zone** (New York)
+  - Owner: 165 Halsey Street
+  - Category: Local Zone
+  - Notes: 165 Halsey Street, Newark, New York, NY, United States
+- **Google Cloud - New York Local Zone** (New York)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty NYC1, Digital Realty
+- **111 8th Avenue - New York Local Zone** (New York)
+  - Owner: 111 8th Avenue
+  - Category: Local Zone
+  - Notes: 111 8th Avenue, New York, NY, United States
+- **Google Cloud - New York Local Zone** (New York)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix NY2, Equinix
+- **275 Hartz Way - New York Local Zone** (New York)
+  - Owner: 275 Hartz Way
+  - Category: Local Zone
+  - Notes: 275 Hartz Way, Secaucus, New York, NY, United States
+- **Google Cloud - New York Local Zone** (New York)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix NY9, Equinix
+- **111 8th Avenue - New York Local Zone** (New York)
+  - Owner: 111 8th Avenue
+  - Category: Local Zone
+  - Notes: 111 8th Avenue, New York, NY, United States
+- **Microsoft Azure - New York Local Zone** (New York)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, CoreSite NY1, CoreSite
+- **32 Avenue of the Americas - New York Local Zone** (New York)
+  - Owner: 32 Avenue of the Americas
+  - Category: Local Zone
+  - Notes: 32 Avenue of the Americas, New York, NY, United States
+- **Microsoft Azure - New York Local Zone** (New York)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Digital Realty NYC1, Digital Realty
+- **111 8th Avenue - New York Local Zone** (New York)
+  - Owner: 111 8th Avenue
+  - Category: Local Zone
+  - Notes: 111 8th Avenue, New York, NY, United States
+- **Microsoft Azure - New York Local Zone** (New York)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix NY1, Equinix
+- **165 Halsey Street - New York Local Zone** (New York)
+  - Owner: 165 Halsey Street
+  - Category: Local Zone
+  - Notes: 165 Halsey Street, Newark, New York, NY, United States
+- **Oracle Cloud - New York Local Zone** (New York)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Digital Realty NYC1, Digital Realty
+- **111 8th Avenue - New York Local Zone** (New York)
+  - Owner: 111 8th Avenue
+  - Category: Local Zone
+  - Notes: 111 8th Avenue, New York, NY, United States
+- **Google Cloud - Omaha Local Zone** (Omaha)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, cbf-zone1-575, Iowa (us-central1),
+- **Amazon Web Services - Philadelphia Local Zone** (Philadelphia)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-east-1-phl-1a, US East (Northern Virginia),
+- **Amazon Web Services - Phoenix Local Zone** (Phoenix)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-west-2-phx-2a, US West (Oregon),
+- **OVH - Phoenix Local Zone** (Phoenix)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Phoenix, , Planned
+- **Amazon Web Services - Phoenix Local Zone** (Phoenix)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Cyxtera PHX1, Cyxtera
+- **120 East Van Buren Street - Phoenix Local Zone** (Phoenix)
+  - Owner: 120 East Van Buren Street
+  - Category: Local Zone
+  - Notes: 120 East Van Buren Street, Phoenix, AZ, United States
+- **Amazon Web Services - Phoenix Local Zone** (Phoenix)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Iron Mountain Phoenix, Iron Mountain
+- **615 North 48th Street - Phoenix Local Zone** (Phoenix)
+  - Owner: 615 North 48th Street
+  - Category: Local Zone
+  - Notes: 615 North 48th Street, Phoenix, AZ, United States
+- **Microsoft Azure - Phoenix Local Zone** (Phoenix)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, EdgeConneX PHX01, EdgeConneX
+- **3011 South 52nd Street - Phoenix Local Zone** (Phoenix)
+  - Owner: 3011 South 52nd Street
+  - Category: Local Zone
+  - Notes: 3011 South 52nd Street, Tempe, Phoenix, AZ, United States
+- **Oracle Cloud - Phoenix Local Zone** (Phoenix)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Digital Realty PHX1, Digital Realty
+- **120 East Van Buren Street - Phoenix Local Zone** (Phoenix)
+  - Owner: 120 East Van Buren Street
+  - Category: Local Zone
+  - Notes: 120 East Van Buren Street, Phoenix, AZ, United States
+- **Google Cloud - Portland Local Zone** (Portland)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, pdx-zone1-1922, Oregon (us-west1),
+- **Amazon Web Services - Portland Local Zone** (Portland)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Digital Realty PDX1, Digital Realty
+- **3825 NW Aloclek Place - Portland Local Zone** (Portland)
+  - Owner: 3825 NW Aloclek Place
+  - Category: Local Zone
+  - Notes: 3825 NW Aloclek Place, Hillsboro, Portland, OR, United States
+- **Amazon Web Services - Portland Local Zone** (Portland)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Flexential Portland - Hillsboro 2, Flexential
+- **5737 NE Huffman St - Portland Local Zone** (Portland)
+  - Owner: 5737 NE Huffman St
+  - Category: Local Zone
+  - Notes: 5737 NE Huffman St, Hillsboro, Portland, OR, United States
+- **Microsoft Azure - Richmond Region** (Richmond)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: East US (Richmond)3 Zones
+- **Microsoft Azure - Richmond Region** (Richmond)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: East US 2 (Richmond)3 Zones
+- **Microsoft Azure - Richmond Region** (Richmond)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: US DoD East1 Zones
+- **Microsoft Azure - Richmond Region** (Richmond)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: US Sec East1 Zones
+- **Google Cloud - Salt Lake City Local Zone** (Salt Lake City)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, slc-zone1-99001, Salt Lake City (us-west3),
+- **OVH - Salt Lake City Local Zone** (Salt Lake City)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Salt Lake City, , Planned
+- **Google Cloud - Salt Lake City Local Zone** (Salt Lake City)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, DataBank SLC1, DataBank
+- **650 South Main Street - Salt Lake City Local Zone** (Salt Lake City)
+  - Owner: 650 South Main Street
+  - Category: Local Zone
+  - Notes: 650 South Main Street, Salt Lake City, UT, United States
+- **Microsoft Azure - San Antonio Local Zone** (San Antonio)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, CyrusOne San Antonio I, CyrusOne
+- **9999 Westover Hills Boulevard - San Antonio Local Zone** (San Antonio)
+  - Owner: 9999 Westover Hills Boulevard
+  - Category: Local Zone
+  - Notes: 9999 Westover Hills Boulevard, San Antonio, TX, United States
+- **Microsoft Azure - San Antonio Local Zone** (San Antonio)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Frost Bank San Antonio, Frost Bank
+- **San Antonio - San Antonio Local Zone** (San Antonio)
+  - Owner: San Antonio
+  - Category: Local Zone
+  - Notes: San Antonio, TX, United States
+- **Microsoft Azure - San Antonio Local Zone** (San Antonio)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Microsoft San Antonio (SAT11), Microsoft
+- **5150 Rogers Road - San Antonio Local Zone** (San Antonio)
+  - Owner: 5150 Rogers Road
+  - Category: Local Zone
+  - Notes: 5150 Rogers Road, San Antonio, TX, United States
+- **OVH - San Francisco Local Zone** (San Francisco)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Palo Alto, ,
+- **Alibaba Cloud - San Francisco Local Zone** (San Francisco)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Digital Realty SFO1, Digital Realty
+- **200 Paul Avenue - San Francisco Local Zone** (San Francisco)
+  - Owner: 200 Paul Avenue
+  - Category: Local Zone
+  - Notes: 200 Paul Avenue, San Francisco, CA, United States
+- **Alibaba Cloud - San Francisco Local Zone** (San Francisco)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Equinix SV5, Equinix
+- **900 Trimble Road - San Francisco Local Zone** (San Francisco)
+  - Owner: 900 Trimble Road
+  - Category: Local Zone
+  - Notes: 900 Trimble Road, San Jose, San Francisco, CA, United States
+- **Amazon Web Services - San Francisco Local Zone** (San Francisco)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, CoreSite SV1, CoreSite
+- **55 South Market Street - San Francisco Local Zone** (San Francisco)
+  - Owner: 55 South Market Street
+  - Category: Local Zone
+  - Notes: 55 South Market Street, San Jose, San Francisco, CA, United States
+- **Amazon Web Services - San Francisco Local Zone** (San Francisco)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Digital Realty SFO1, Digital Realty
+- **200 Paul Avenue - San Francisco Local Zone** (San Francisco)
+  - Owner: 200 Paul Avenue
+  - Category: Local Zone
+  - Notes: 200 Paul Avenue, San Francisco, CA, United States
+- **Amazon Web Services - San Francisco Local Zone** (San Francisco)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix SV1, Equinix
+- **11 Great Oaks Boulevard - San Francisco Local Zone** (San Francisco)
+  - Owner: 11 Great Oaks Boulevard
+  - Category: Local Zone
+  - Notes: 11 Great Oaks Boulevard, San Jose, San Francisco, CA, United States
+- **Google Cloud - San Francisco Local Zone** (San Francisco)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, CoreSite SV1, CoreSite
+- **55 South Market Street - San Francisco Local Zone** (San Francisco)
+  - Owner: 55 South Market Street
+  - Category: Local Zone
+  - Notes: 55 South Market Street, San Jose, San Francisco, CA, United States
+- **Google Cloud - San Francisco Local Zone** (San Francisco)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty SFO1, Digital Realty
+- **200 Paul Avenue - San Francisco Local Zone** (San Francisco)
+  - Owner: 200 Paul Avenue
+  - Category: Local Zone
+  - Notes: 200 Paul Avenue, San Francisco, CA, United States
+- **Google Cloud - San Francisco Local Zone** (San Francisco)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix SV1, Equinix
+- **11 Great Oaks Boulevard - San Francisco Local Zone** (San Francisco)
+  - Owner: 11 Great Oaks Boulevard
+  - Category: Local Zone
+  - Notes: 11 Great Oaks Boulevard, San Jose, San Francisco, CA, United States
+- **IBM Cloud - San Francisco Local Zone** (San Francisco)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Digital Realty SFO1, Digital Realty
+- **200 Paul Avenue - San Francisco Local Zone** (San Francisco)
+  - Owner: 200 Paul Avenue
+  - Category: Local Zone
+  - Notes: 200 Paul Avenue, San Francisco, CA, United States
+- **IBM Cloud - San Francisco Local Zone** (San Francisco)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix SV1, Equinix
+- **11 Great Oaks Boulevard - San Francisco Local Zone** (San Francisco)
+  - Owner: 11 Great Oaks Boulevard
+  - Category: Local Zone
+  - Notes: 11 Great Oaks Boulevard, San Jose, San Francisco, CA, United States
+- **IBM Cloud - San Francisco Local Zone** (San Francisco)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix SV5, Equinix
+- **900 Trimble Road - San Francisco Local Zone** (San Francisco)
+  - Owner: 900 Trimble Road
+  - Category: Local Zone
+  - Notes: 900 Trimble Road, San Jose, San Francisco, CA, United States
+- **Microsoft Azure - San Francisco Local Zone** (San Francisco)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, CoreSite SV2, CoreSite
+- **1350 Duane Avenue - San Francisco Local Zone** (San Francisco)
+  - Owner: 1350 Duane Avenue
+  - Category: Local Zone
+  - Notes: 1350 Duane Avenue, Santa Clara, San Francisco, CA, United States
+- **Microsoft Azure - San Francisco Local Zone** (San Francisco)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix SV2, Equinix
+- **1350 Duane Avenue - San Francisco Local Zone** (San Francisco)
+  - Owner: 1350 Duane Avenue
+  - Category: Local Zone
+  - Notes: 1350 Duane Avenue, Santa Clara, San Francisco, CA, United States
+- **Oracle Cloud - San Francisco Local Zone** (San Francisco)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, CoreSite SV1, CoreSite
+- **55 South Market Street - San Francisco Local Zone** (San Francisco)
+  - Owner: 55 South Market Street
+  - Category: Local Zone
+  - Notes: 55 South Market Street, San Jose, San Francisco, CA, United States
+- **Oracle Cloud - San Francisco Local Zone** (San Francisco)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix SV1, Equinix
+- **11 Great Oaks Boulevard - San Francisco Local Zone** (San Francisco)
+  - Owner: 11 Great Oaks Boulevard
+  - Category: Local Zone
+  - Notes: 11 Great Oaks Boulevard, San Jose, San Francisco, CA, United States
+- **Oracle Cloud - San Francisco Local Zone** (San Francisco)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix SV5, Equinix
+- **900 Trimble Road - San Francisco Local Zone** (San Francisco)
+  - Owner: 900 Trimble Road
+  - Category: Local Zone
+  - Notes: 900 Trimble Road, San Jose, San Francisco, CA, United States
+- **Tencent Cloud - San Francisco Local Zone** (San Francisco)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, Equinix SV5, Equinix
+- **900 Trimble Road - San Francisco Local Zone** (San Francisco)
+  - Owner: 900 Trimble Road
+  - Category: Local Zone
+  - Notes: 900 Trimble Road, San Jose, San Francisco, CA, United States
+- **Amazon Web Services - Seattle Local Zone** (Seattle)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, us-west-2-sea-1a, US West (Oregon),
+- **OVH - Seattle Local Zone** (Seattle)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, Seattle, ,
+- **Amazon Web Services - Seattle Local Zone** (Seattle)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix SE2, Equinix
+- **2001 6th Avenue - Seattle Local Zone** (Seattle)
+  - Owner: 2001 6th Avenue
+  - Category: Local Zone
+  - Notes: 2001 6th Avenue, Seattle, WA, United States
+- **Amazon Web Services - Seattle Local Zone** (Seattle)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Westin Building Exchange Seattle, Westin Building Exchange
+- **2001 6th Avenue - Seattle Local Zone** (Seattle)
+  - Owner: 2001 6th Avenue
+  - Category: Local Zone
+  - Notes: 2001 6th Avenue, Seattle, WA, United States
+- **Google Cloud - Seattle Local Zone** (Seattle)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix SE2, Equinix
+- **2001 6th Avenue - Seattle Local Zone** (Seattle)
+  - Owner: 2001 6th Avenue
+  - Category: Local Zone
+  - Notes: 2001 6th Avenue, Seattle, WA, United States
+- **Google Cloud - Seattle Local Zone** (Seattle)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix SE3, Equinix
+- **2001 6th Avenue - Seattle Local Zone** (Seattle)
+  - Owner: 2001 6th Avenue
+  - Category: Local Zone
+  - Notes: 2001 6th Avenue, Seattle, WA, United States
+- **Microsoft Azure - Seattle Local Zone** (Seattle)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix SE2, Equinix
+- **2001 6th Avenue - Seattle Local Zone** (Seattle)
+  - Owner: 2001 6th Avenue
+  - Category: Local Zone
+  - Notes: 2001 6th Avenue, Seattle, WA, United States
+- **Oracle Cloud - Seattle Local Zone** (Seattle)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix SE2, Equinix
+- **2001 6th Avenue - Seattle Local Zone** (Seattle)
+  - Owner: 2001 6th Avenue
+  - Category: Local Zone
+  - Notes: 2001 6th Avenue, Seattle, WA, United States
+- **OVH - St. Louis Local Zone** (St. Louis)
+  - Owner: OVH
+  - Category: Local Zone
+  - Notes: OVH, St. Louis, ,
+- **Google Cloud - Washington Local Zone** (Washington)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, iad-zone1-1, Northern Virginia (us-east4),
+- **Google Cloud - Washington Local Zone** (Washington)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, iad-zone1-5467, Northern Virginia (us-east4),
+- **Alibaba Cloud - Washington Local Zone** (Washington)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Digital Realty IAD1, Digital Realty
+- **21110 Stanwell Drive - Washington Local Zone** (Washington)
+  - Owner: 21110 Stanwell Drive
+  - Category: Local Zone
+  - Notes: 21110 Stanwell Drive, Ashburn, Washington, DC, United States
+- **Amazon Web Services - Washington Local Zone** (Washington)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Digital Realty IAD1, Digital Realty
+- **21110 Stanwell Drive - Washington Local Zone** (Washington)
+  - Owner: 21110 Stanwell Drive
+  - Category: Local Zone
+  - Notes: 21110 Stanwell Drive, Ashburn, Washington, DC, United States
+- **Amazon Web Services - Washington Local Zone** (Washington)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix DC2, Equinix
+- **21715 Filigree Court - Washington Local Zone** (Washington)
+  - Owner: 21715 Filigree Court
+  - Category: Local Zone
+  - Notes: 21715 Filigree Court, Ashburn, Washington, DC, United States
+- **Amazon Web Services - Washington Local Zone** (Washington)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix DC6, Equinix
+- **21715 Filigree Court - Washington Local Zone** (Washington)
+  - Owner: 21715 Filigree Court
+  - Category: Local Zone
+  - Notes: 21715 Filigree Court, Ashburn, Washington, DC, United States
+- **Google Cloud - Washington Local Zone** (Washington)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Digital Realty IAD1, Digital Realty
+- **21110 Stanwell Drive - Washington Local Zone** (Washington)
+  - Owner: 21110 Stanwell Drive
+  - Category: Local Zone
+  - Notes: 21110 Stanwell Drive, Ashburn, Washington, DC, United States
+- **Google Cloud - Washington Local Zone** (Washington)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix DC2, Equinix
+- **21715 Filigree Court - Washington Local Zone** (Washington)
+  - Owner: 21715 Filigree Court
+  - Category: Local Zone
+  - Notes: 21715 Filigree Court, Ashburn, Washington, DC, United States
+- **IBM Cloud - Washington Local Zone** (Washington)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Digital Realty IAD1, Digital Realty
+- **21110 Stanwell Drive - Washington Local Zone** (Washington)
+  - Owner: 21110 Stanwell Drive
+  - Category: Local Zone
+  - Notes: 21110 Stanwell Drive, Ashburn, Washington, DC, United States
+- **IBM Cloud - Washington Local Zone** (Washington)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix DC11, Equinix
+- **21715 Filigree Court - Washington Local Zone** (Washington)
+  - Owner: 21715 Filigree Court
+  - Category: Local Zone
+  - Notes: 21715 Filigree Court, Ashburn, Washington, DC, United States
+- **IBM Cloud - Washington Local Zone** (Washington)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix DC2, Equinix
+- **21715 Filigree Court - Washington Local Zone** (Washington)
+  - Owner: 21715 Filigree Court
+  - Category: Local Zone
+  - Notes: 21715 Filigree Court, Ashburn, Washington, DC, United States
+- **Microsoft Azure - Washington Local Zone** (Washington)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Digital Realty IAD1, Digital Realty
+- **21110 Stanwell Drive - Washington Local Zone** (Washington)
+  - Owner: 21110 Stanwell Drive
+  - Category: Local Zone
+  - Notes: 21110 Stanwell Drive, Ashburn, Washington, DC, United States
+- **Microsoft Azure - Washington Local Zone** (Washington)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix DC2, Equinix
+- **21715 Filigree Court - Washington Local Zone** (Washington)
+  - Owner: 21715 Filigree Court
+  - Category: Local Zone
+  - Notes: 21715 Filigree Court, Ashburn, Washington, DC, United States
+- **Oracle Cloud - Washington Local Zone** (Washington)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Digital Realty IAD1, Digital Realty
+- **21110 Stanwell Drive - Washington Local Zone** (Washington)
+  - Owner: 21110 Stanwell Drive
+  - Category: Local Zone
+  - Notes: 21110 Stanwell Drive, Ashburn, Washington, DC, United States
+- **Oracle Cloud - Washington Local Zone** (Washington)
+  - Owner: Oracle Cloud
+  - Category: Local Zone
+  - Notes: Oracle Cloud, Equinix DC2, Equinix
+- **21715 Filigree Court - Washington Local Zone** (Washington)
+  - Owner: 21715 Filigree Court
+  - Category: Local Zone
+  - Notes: 21715 Filigree Court, Ashburn, Washington, DC, United States
+- **Tencent Cloud - Washington Local Zone** (Washington)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, Equinix DC10, Equinix
+- **21715 Filigree Court - Washington Local Zone** (Washington)
+  - Owner: 21715 Filigree Court
+  - Category: Local Zone
+  - Notes: 21715 Filigree Court, Ashburn, Washington, DC, United States
+## Valparaíso
+- **Oracle Cloud - sa-santiago-1 Region** (sa-santiago-1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Chile West (Vaparaíso)1 Zones
+## Vietnam
+- **Amazon Web Services - Hanoi Local Zone** (Hanoi)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, ap-southeast-1-han-1a, Asia Pacific (Singapore), Planned
+- **Alibaba Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Global Switch Hong Kong, Global Switch
+- **18 Chun Yat Street - Hanoi Local Zone** (Hanoi)
+  - Owner: 18 Chun Yat Street
+  - Category: Local Zone
+  - Notes: 18 Chun Yat Street, Hong Kong, China
+- **Alibaba Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, HKCOLO Sino Favour Center (SFC), HKCOLO
+- **Sino Favour Centre - Hanoi Local Zone** (Hanoi)
+  - Owner: Sino Favour Centre
+  - Category: Local Zone
+  - Notes: Sino Favour Centre, Hong Kong, China
+- **Alibaba Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, MEGA-i, SUNeVision
+- **399 Chai Wan Road - Hanoi Local Zone** (Hanoi)
+  - Owner: 399 Chai Wan Road
+  - Category: Local Zone
+  - Notes: 399 Chai Wan Road, Chai Wan, China
+- **Alibaba Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, Vantage On Lok HGK1, Vantage Data Centers
+- **On Ting Industrial Centre - Hanoi Local Zone** (Hanoi)
+  - Owner: On Ting Industrial Centre
+  - Category: Local Zone
+  - Notes: On Ting Industrial Centre, 3 On Chuen St, Fanling, Hong Kong, China
+- **Amazon Web Services - Hanoi Local Zone** (Hanoi)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, Equinix HK1, Equinix
+- **168 Yeung Uk Road - Hanoi Local Zone** (Hanoi)
+  - Owner: 168 Yeung Uk Road
+  - Category: Local Zone
+  - Notes: 168 Yeung Uk Road , Hong Kong, China
+- **Amazon Web Services - Hanoi Local Zone** (Hanoi)
+  - Owner: Amazon Web Services
+  - Category: Local Zone
+  - Notes: Amazon Web Services, MEGA-i, SUNeVision
+- **399 Chai Wan Road - Hanoi Local Zone** (Hanoi)
+  - Owner: 399 Chai Wan Road
+  - Category: Local Zone
+  - Notes: 399 Chai Wan Road, Chai Wan, China
+- **Google Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, China Mobile Hong Kong, China Mobile
+- **3 Chun Cheong St - Hanoi Local Zone** (Hanoi)
+  - Owner: 3 Chun Cheong St
+  - Category: Local Zone
+  - Notes: 3 Chun Cheong St, Tseung Kwan O, China
+- **Google Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, Equinix HK2, Equinix
+- **3 Shing Yiu Street - Hanoi Local Zone** (Hanoi)
+  - Owner: 3 Shing Yiu Street
+  - Category: Local Zone
+  - Notes: 3 Shing Yiu Street, Hong Kong, China
+- **Google Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Google Cloud
+  - Category: Local Zone
+  - Notes: Google Cloud, MEGA-i, SUNeVision
+- **399 Chai Wan Road - Hanoi Local Zone** (Hanoi)
+  - Owner: 399 Chai Wan Road
+  - Category: Local Zone
+  - Notes: 399 Chai Wan Road, Chai Wan, China
+- **Huawei Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Equinix HK2, Equinix
+- **3 Shing Yiu Street - Hanoi Local Zone** (Hanoi)
+  - Owner: 3 Shing Yiu Street
+  - Category: Local Zone
+  - Notes: 3 Shing Yiu Street, Hong Kong, China
+- **Huawei Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, Global Switch Hong Kong Sai Kung, Global Switch
+- **Hong Kong - Hanoi Local Zone** (Hanoi)
+  - Owner: Hong Kong
+  - Category: Local Zone
+  - Notes: Hong Kong, China
+- **Huawei Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, MEGA IDC (Phase 1), SUNeVision
+- **297 Wan Po Road - Hanoi Local Zone** (Hanoi)
+  - Owner: 297 Wan Po Road
+  - Category: Local Zone
+  - Notes: 297 Wan Po Road, Hong Kong, China
+- **Huawei Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Huawei Cloud
+  - Category: Local Zone
+  - Notes: Huawei Cloud, MEGA-i, SUNeVision
+- **399 Chai Wan Road - Hanoi Local Zone** (Hanoi)
+  - Owner: 399 Chai Wan Road
+  - Category: Local Zone
+  - Notes: 399 Chai Wan Road, Chai Wan, China
+- **IBM Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: IBM Cloud
+  - Category: Local Zone
+  - Notes: IBM Cloud, Equinix HK1, Equinix
+- **168 Yeung Uk Road - Hanoi Local Zone** (Hanoi)
+  - Owner: 168 Yeung Uk Road
+  - Category: Local Zone
+  - Notes: 168 Yeung Uk Road , Hong Kong, China
+- **Microsoft Azure - Hanoi Local Zone** (Hanoi)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, Equinix HK1, Equinix
+- **168 Yeung Uk Road - Hanoi Local Zone** (Hanoi)
+  - Owner: 168 Yeung Uk Road
+  - Category: Local Zone
+  - Notes: 168 Yeung Uk Road , Hong Kong, China
+- **Microsoft Azure - Hanoi Local Zone** (Hanoi)
+  - Owner: Microsoft Azure
+  - Category: Local Zone
+  - Notes: Microsoft Azure, MEGA-i, SUNeVision
+- **399 Chai Wan Road - Hanoi Local Zone** (Hanoi)
+  - Owner: 399 Chai Wan Road
+  - Category: Local Zone
+  - Notes: 399 Chai Wan Road, Chai Wan, China
+- **Tencent Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, Equinix HK2, Equinix
+- **3 Shing Yiu Street - Hanoi Local Zone** (Hanoi)
+  - Owner: 3 Shing Yiu Street
+  - Category: Local Zone
+  - Notes: 3 Shing Yiu Street, Hong Kong, China
+- **Tencent Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, Equinix HK5, Equinix
+- **299 Wan Po Road - Hanoi Local Zone** (Hanoi)
+  - Owner: 299 Wan Po Road
+  - Category: Local Zone
+  - Notes: 299 Wan Po Road, Tseung Kwan O, China
+- **Tencent Cloud - Hanoi Local Zone** (Hanoi)
+  - Owner: Tencent Cloud
+  - Category: Local Zone
+  - Notes: Tencent Cloud, MEGA-i, SUNeVision
+- **399 Chai Wan Road - Hanoi Local Zone** (Hanoi)
+  - Owner: 399 Chai Wan Road
+  - Category: Local Zone
+  - Notes: 399 Chai Wan Road, Chai Wan, China
+- **Alibaba Cloud - Ho Chi Minh City Local Zone** (Ho Chi Minh City)
+  - Owner: Alibaba Cloud
+  - Category: Local Zone
+  - Notes: Alibaba Cloud, NTT GDC Ho Chi Minh HCMC1, NTT Global Data Centers
+- **Saigon High-Tech Park - Ho Chi Minh City Local Zone** (Ho Chi Minh City)
+  - Owner: Saigon High-Tech Park
+  - Category: Local Zone
+  - Notes: Saigon High-Tech Park, Ho Chi Minh City, Vietnam
+## Washington
+- **Alibaba Cloud - us-west1 Region** (us-west1)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: US East 1 (Virginia)2 Zones
+- **Amazon Web Services - us-west1 Region** (us-west1)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: US East (Northern Virginia)6 Zones
+- **Google Cloud - us-west1 Region** (us-west1)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Northern Virginia3 Zones
+- **IBM Cloud - us-west1 Region** (us-west1)
+  - Owner: IBM Cloud
+  - Category: Cloud Region
+  - Notes: Washington DC3 Zones
+- **Microsoft Azure - us-west1 Region** (us-west1)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: US Gov Virginia 3 Zones
+- **Oracle Cloud - us-west1 Region** (us-west1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: US DoD East1 Zones
+- **Oracle Cloud - us-west1 Region** (us-west1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: US East (Ashburn)3 Zones
+- **Oracle Cloud - us-west1 Region** (us-west1)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: US Gov East (Ashburn)1 Zones
+- **OVH - us-west1 Region** (us-west1)
+  - Owner: OVH
+  - Category: Cloud Region
+  - Notes: East Coast (Washington DC)1 Zones
+- **Tencent Cloud - us-west1 Region** (us-west1)
+  - Owner: Tencent Cloud
+  - Category: Cloud Region
+  - Notes: Eastern U.S. (Virginia)2 Zones
+## Wuhan
+- **Alibaba Cloud - cn-north-9 Region** (cn-north-9)
+  - Owner: Alibaba Cloud
+  - Category: Cloud Region
+  - Notes: China (Wuhan - Local Region)1 Zones
+## Wuhu
+- **Huawei Cloud - cn-wuhan Region** (cn-wuhan)
+  - Owner: Huawei Cloud
+  - Category: Cloud Region
+  - Notes: Huawei Cloud East China (Wuhu)3 Zones
+## Zürich
+- **Amazon Web Services - switzerlandwest Region** (switzerlandwest)
+  - Owner: Amazon Web Services
+  - Category: Cloud Region
+  - Notes: Europe (Zurich) 3 Zones
+- **Google Cloud - switzerlandwest Region** (switzerlandwest)
+  - Owner: Google Cloud
+  - Category: Cloud Region
+  - Notes: Zurich3 Zones
+- **Microsoft Azure - switzerlandwest Region** (switzerlandwest)
+  - Owner: Microsoft Azure
+  - Category: Cloud Region
+  - Notes: Switzerland North (Zürich)1 Zones
+- **Oracle Cloud - switzerlandwest Region** (switzerlandwest)
+  - Owner: Oracle Cloud
+  - Category: Cloud Region
+  - Notes: Switzerland North (Zurich)1 Zones

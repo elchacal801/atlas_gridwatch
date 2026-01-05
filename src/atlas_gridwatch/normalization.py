@@ -72,7 +72,8 @@ class NormalizationEngine:
             status=self._parse_status(data.get("status", "active")),
             source_urls=[data["source"]] if data.get("source") else [],
             notes=data.get("notes"),
-            confidence=ConfidenceLevel.LIKELY # MVP default
+            confidence=ConfidenceLevel.LIKELY, # MVP default
+            properties={"category": data.get("category")} if data.get("category") else {}
         )
 
     def _normalize_cable(self, data: Dict[str, Any]) -> SubseaCable:
