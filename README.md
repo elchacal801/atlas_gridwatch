@@ -12,7 +12,7 @@ Atlas Gridwatch is a continuously maintained, intelligence-grade platform. It go
 - **Systemic Risk**: Concentration, chokepoints, and resilience of the global grid.
 
 ## Core Capabilities
-1. **Multi-Source Ingestion**: Aggregating data from regulatory filings, industry datasets, and satellite-derived analysis.
+1. **Multi-Source Ingestion**: Aggregates data from TeleGeography (Cables), CloudInfrastructureMap (Cloud Regions/Zones), and OSINT RSS feeds.
 2. **Unified Intelligence Schema**: Normalizing disparate data into a coherent model of *Locations*, *Assets*, and *Ownership*.
 3. **Strategic Visualization**: High-signal visual analytics designed for intelligence briefings and decision support.
 4. **AI Strategic Analyst**: Automated assessment using **Gemini 2.0 Flash** and **RAG** (Retrieval Augmented Generation) to synthesize local research papers and real-time news into classified-style briefs.
@@ -49,6 +49,7 @@ The platform operates as a cyclical intelligence pipeline:
 
 1.  **Ingestion Layer**:
     - **OSINT Feeds**: Aggregates 30+ RSS sources (Maritime, Cyber, Tech, Geopolitics).
+    - **Cloud Map**: 1,500+ Cloud Regions, Local Zones, and On-Ramps (AWS, Google, Azure, etc.).
     - **Seed Data**: Critical infrastructure waypoints (Cables, Data Centers).
     - **Research Library**: Local repository of academic papers and PDF reports.
 2.  **Persistence Layer**:
@@ -58,8 +59,15 @@ The platform operates as a cyclical intelligence pipeline:
     - **Graph Theory**: Calculates "Strategic Chokepoints" (Betweenness Centrality).
     - **AI Analyst (Gemini 2.0)**: Queries the News Database and Research Library to answer Priority Intelligence Requirements (PIRs).
 4.  **Presentation Layer**:
-    - **Interactive Map**: Leaflet.js visualization of the physical grid.
+    - **Interactive Map**: Leaflet.js visualization of the physical grid with categorized asset coloring (Blue=Region, Cyan=Zone, Purple=On-Ramp).
     - **Intelligence Brief**: Auto-generated HTML reports.
+    
+    ### Visualization Preview
+    ![Global Grid Map](docs/images/example_map_screenshot.png)
+    *Figure 1: Global aggregation of Cloud Regions (Blue), Local Zones (Cyan), and On-Ramps (Purple).*
+
+    ![Grid Detail Zoom](docs/images/example_map_zoom_screenshot.png)
+    *Figure 2: High-resolution detail of infrastructure density and landing points.*
 
 ## Getting Started
 ## Getting Started
