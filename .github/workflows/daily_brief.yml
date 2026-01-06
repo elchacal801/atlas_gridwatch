@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 0 * * *' # Midnight UTC Daily
   workflow_dispatch: # Manual trigger
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write # Needed to push the updated docs/index.html
