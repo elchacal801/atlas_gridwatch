@@ -44,21 +44,35 @@ def plot(
 
     console.log(f"Loaded {len(items)} items for plotting.")
 
-    # Visualize
-    viz = MapVisualizer()
     
+    # --- Generate Subsea Map ---
+    console.rule("[blue]Generating Subsea Map[/blue]")
+    viz_subsea = MapVisualizer(mode='subsea')
+    for item in items:
+        if isinstance(item, SubseaCable):
+            viz_subsea.add_cable(item)
+        # No DCs in subsea mode
+            
+    out_subsea = output_path.parent / "map_subsea.html"
+    out_subsea.parent.mkdir(parents=True, exist_ok=True)
+    viz_subsea.save(str(out_subsea))
+    console.log(f"[bold green]Success![/bold green] Subsea Map saved to {out_subsea}")
+
+    # --- Generate Cloud Map ---
+    console.rule("[cyan]Generating Cloud Map[/cyan]")
+    viz_cloud = MapVisualizer(mode='cloud')
     for item in items:
         if isinstance(item, DataCenter):
-            viz.add_datacenter(item)
+            viz_cloud.add_datacenter(item)
         elif isinstance(item, SubseaCable):
-            viz.add_cable(item)
+            viz_cloud.add_cable(item)
             
-    # Save
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    viz.save(str(output_path))
+    out_cloud = output_path.parent / "map_cloud.html"
+    viz_cloud.save(str(out_cloud))
+    console.log(f"[bold green]Success![/bold green] Cloud Map saved to {out_cloud}")
     
-    console.log(f"[bold green]Success![/bold green] Map saved to {output_path}")
-    console.print(f"Open '{output_path}' in your browser to view.")
+    # Keep legacy output for backward compatibility if needed, or just warn
+    console.print(f"Generated 'map_subsea.html' and 'map_cloud.html'.")
 
 if __name__ == "__main__":
     app()

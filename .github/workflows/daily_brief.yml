@@ -64,7 +64,8 @@ jobs:
       run: |
         # Move output to docs/index.html to be served by Pages
         cp data/outputs/intelligence_brief.html docs/index.html
-        cp data/outputs/atlas_gridwatch_map.html docs/atlas_gridwatch_map.html
+        cp data/outputs/map_subsea.html docs/map_subsea.html
+        cp data/outputs/map_cloud.html docs/map_cloud.html
         
         # Configure Git
         git config user.name "Atlas Intelligence Bot"

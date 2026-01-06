@@ -10,7 +10,8 @@ class MapVisualizer:
     Generates interactive Leaflet maps from Intelligence Objects.
     """
 
-    def __init__(self, center_lat: float = 20.0, center_lon: float = 0.0, zoom: int = 2):
+    def __init__(self, center_lat: float = 20.0, center_lon: float = 0.0, zoom: int = 2, mode: str = 'cloud'):
+        self.mode = mode
         self.m = folium.Map(
             location=[center_lat, center_lon], 
             zoom_start=3, 
@@ -108,12 +109,11 @@ class MapVisualizer:
         self.heat_layer_group = folium.FeatureGroup(name="Infrastructure Density", show=False)
         self.heat_data = []
 
-        self.m.add_child(self.cable_layer)
-        # self.m.add_child(self.dc_layer) # Removed direct add
+        if self.mode == 'cloud':
+            # Optimization: Use MarkerCluster for Data Centers in Cloud Mode
+            self.marker_cluster = MarkerCluster(name="Data Centers")
+            self.m.add_child(self.marker_cluster)
         
-        # Optimization: Use MarkerCluster for Data Centers
-        self.marker_cluster = MarkerCluster(name="Data Centers")
-        self.m.add_child(self.marker_cluster)
         self.m.add_child(self.label_layer)
         self.m.add_child(self.heat_layer_group)
         
@@ -128,6 +128,9 @@ class MapVisualizer:
 
     def add_datacenter(self, dc: DataCenter):
         """Adds a Data Center marker."""
+        if self.mode == 'subsea':
+            return # Skip DCs in subsea mode for focus and performance
+
         # Cloud Infrastructure Color Logic
         category = dc.properties.get("category", "")
         
@@ -234,15 +237,28 @@ class MapVisualizer:
         
         # Render each segment
         for path in paths:
-             # Optimization: Use PolyLine instead of AntPath for performance
-             folium.PolyLine(
-                locations=path,
-                popup=folium.Popup(popup_html, max_width=300),
-                tooltip=cable.name,
-                color=color,
-                weight=1.5,
-                opacity=0.8
-            ).add_to(self.cable_layer)
+            if self.mode == 'subsea':
+                # Restore High-Fidelity Animation for Subsea Mode
+                plugins.AntPath(
+                    locations=path,
+                    popup=folium.Popup(popup_html, max_width=300),
+                    tooltip=cable.name,
+                    color=color,
+                    pulse_color="#ffffff",
+                    delay=1000,
+                    weight=2,
+                    opacity=0.8
+                ).add_to(self.cable_layer)
+            else:
+                # Static PolyLine for Cloud Mode (Contextual)
+                folium.PolyLine(
+                    locations=path,
+                    popup=folium.Popup(popup_html, max_width=300),
+                    tooltip=cable.name,
+                    color=color,
+                    weight=1.5,
+                    opacity=0.6 # Lower opacity for context
+                ).add_to(self.cable_layer)
              
         # Add Label at the 'middle' of the cable logic is hard with MultiLineString
         # Simplified: Use the first point of the first segment for now, or just don't label every cable?

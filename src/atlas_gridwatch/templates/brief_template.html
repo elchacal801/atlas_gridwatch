@@ -384,13 +384,38 @@
         <div class="row">
             <div class="col-12">
                 <div class="card">
-                    <div class="card-header">Global Operational Picture</div>
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span>Global Operational Picture</span>
+                        <div class="btn-group btn-group-sm" role="group">
+                            <button type="button" class="btn btn-outline-info active"
+                                onclick="switchMap('subsea', this)">Subsea Domain</button>
+                            <button type="button" class="btn btn-outline-info" onclick="switchMap('cloud', this)">Cloud
+                                Domain</button>
+                        </div>
+                    </div>
                     <div class="card-body p-1" style="background: #000;">
-                        <iframe src="atlas_gridwatch_map.html" class="map-frame"></iframe>
+                        <iframe src="map_subsea.html" class="map-frame" id="mainMap"></iframe>
                     </div>
                 </div>
             </div>
         </div>
+
+        <script>
+            function switchMap(mode, btn) {
+                const mapFrame = document.getElementById('mainMap');
+
+                // Update styling
+                document.querySelectorAll('.btn-group .btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+
+                // Switch source
+                if (mode === 'subsea') {
+                    mapFrame.src = 'map_subsea.html';
+                } else {
+                    mapFrame.src = 'map_cloud.html';
+                }
+            }
+        </script>
 
         <div class="text-center text-muted mb-4">
             <small>Atlas Gridwatch | Confidentiality: PUBLIC / OSINT | Source: Open Data</small>
