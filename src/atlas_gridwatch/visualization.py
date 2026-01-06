@@ -1,5 +1,6 @@
 import folium
 from folium import plugins
+from folium.plugins import MarkerCluster
 from jinja2 import Template
 from typing import List, Union
 from .models import DataCenter, SubseaCable, EntityStatus
@@ -108,7 +109,11 @@ class MapVisualizer:
         self.heat_data = []
 
         self.m.add_child(self.cable_layer)
-        self.m.add_child(self.dc_layer)
+        # self.m.add_child(self.dc_layer) # Removed direct add
+        
+        # Optimization: Use MarkerCluster for Data Centers
+        self.marker_cluster = MarkerCluster(name="Data Centers")
+        self.m.add_child(self.marker_cluster)
         self.m.add_child(self.label_layer)
         self.m.add_child(self.heat_layer_group)
         
@@ -174,7 +179,7 @@ class MapVisualizer:
             fill_opacity=fill_opacity,
             weight=1,
             dash_array='5,5' if dc.status == EntityStatus.PLANNED else None
-        ).add_to(self.dc_layer)
+        ).add_to(self.marker_cluster)
         
         # Add Label for DC
         folium.Marker(
@@ -229,14 +234,13 @@ class MapVisualizer:
         
         # Render each segment
         for path in paths:
-             plugins.AntPath(
+             # Optimization: Use PolyLine instead of AntPath for performance
+             folium.PolyLine(
                 locations=path,
                 popup=folium.Popup(popup_html, max_width=300),
                 tooltip=cable.name,
                 color=color,
-                pulse_color="#ffffff", # White pulse
-                delay=1000,
-                weight=2,
+                weight=1.5,
                 opacity=0.8
             ).add_to(self.cable_layer)
              
