@@ -105,7 +105,7 @@ class MapVisualizer:
         # Create Feature Groups
         self.cable_layer = folium.FeatureGroup(name="Subsea Cables (Physical)")
         self.dc_layer = folium.FeatureGroup(name="Data Centers")
-        self.label_layer = folium.FeatureGroup(name="Labels", show=True)
+        self.label_layer = folium.FeatureGroup(name="Labels", show=False)
         self.heat_layer_group = folium.FeatureGroup(name="Infrastructure Density", show=False)
         self.heat_data = []
 
@@ -184,11 +184,7 @@ class MapVisualizer:
             dash_array='5,5' if dc.status == EntityStatus.PLANNED else None
         ).add_to(self.marker_cluster)
         
-        # Add Label for DC
-        folium.Marker(
-            location=[dc.location.latitude + 0.5, dc.location.longitude], # Slight offset
-            icon=folium.DivIcon(html=f'<div class="map-label">{dc.location.city or dc.name}</div>')
-        ).add_to(self.label_layer)
+
         
         # Add to heatmap
         self.heat_data.append([dc.location.latitude, dc.location.longitude, 1.0])
@@ -260,21 +256,7 @@ class MapVisualizer:
                     opacity=0.6 # Lower opacity for context
                 ).add_to(self.cable_layer)
              
-        # Add Label at the 'middle' of the cable logic is hard with MultiLineString
-        # Simplified: Use the first point of the first segment for now, or just don't label every cable?
-        # Let's label only major ones (or all for now).
-        # Better: Midpoint of longest segment.
-        try:
-            # Find longest segment
-            longest = max(paths, key=len)
-            if len(longest) > 2:
-                mid = longest[len(longest)//2]
-                folium.Marker(
-                    location=mid,
-                    icon=folium.DivIcon(html=f'<div class="map-label" style="color:{color}">{cable.name}</div>')
-                ).add_to(self.label_layer)
-        except:
-            pass
+
             
 
     def save(self, path: str):
