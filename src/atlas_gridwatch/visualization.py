@@ -114,6 +114,8 @@ class MapVisualizer:
             self.marker_cluster = MarkerCluster(name="Data Centers")
             self.m.add_child(self.marker_cluster)
         
+        self.m.add_child(self.cable_layer)
+        self.m.add_child(self.dc_layer)
         self.m.add_child(self.label_layer)
         self.m.add_child(self.heat_layer_group)
         
