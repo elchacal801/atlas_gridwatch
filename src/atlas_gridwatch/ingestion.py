@@ -114,9 +114,9 @@ class TeleGeographyIngestor(BaseIngestor):
 
             # 3. Process Top 50 Cables (Fetch details for Owners)
             results = []
-            target_cables = summary_list[:50] # Limit to 50 for MVP speed
+            target_cables = summary_list # Fetch complete list
             
-            logger.info(f"Fetching details for {len(target_cables)} cables...")
+            logger.info(f"Fetching details for {len(target_cables)} cables... (This may take a few minutes)")
             
             for i, item in enumerate(target_cables):
                 cid = item.get("id")
